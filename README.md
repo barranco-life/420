@@ -15,7 +15,7 @@ Hacemos un llamado a locales y voluntarios que deseen promover el movimiento:
 
 ## Únete y Contacta
 Invitamos a todos a ser parte de nuestra comunidad. Para participar, colaborar o asistir a los eventos:
-- Únete a nuestro [chat de WhatsApp](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00).
+- Únete a nuestra [comunidad de WhatsApp](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00).
 - Participa en las [discusiones en GitHub](https://github.com/barranco-life/420/discussions).
 - Consulta y contribuye a nuestra [Wiki](https://github.com/barranco-life/420/wiki).
 
