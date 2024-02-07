@@ -10,10 +10,22 @@ En el marco del Encuentro Nacional 4/20²⁴, reafirmamos nuestro compromiso con
 
 ## Convocatoria Abierta
 Hacemos un llamado a locales y voluntarios que deseen promover el movimiento:
-- [VENUES.md](/es/VENUES.md): Información para locales interesados en ser parte de nuestra red de eventos seguros y exitosos.
-- [PROMOTION.md](/es/PROMOTION.md): Herramientas y estrategias para voluntarios y simpatizantes que quieran difundir la iniciativa.
+- [VENUES.md](/es/VENUES.md): Información para locales interesados en ser parte de nuestra red de eventos seguros y coordinados bajo el mismo protocolo de seguridad.
+- [PROMOTION.md](/es/PROMOTION.md): Herramientas y estrategias para voluntarios que quieran difundir la iniciativa mediante stencils callejeros, estampados y parafernalia.
 
-## Únete y Contacta
+## Experiencias Previas
+
+Los encuentros 4/20 organizados en el [Proyecto Cultural Barranco](https://barranco.life) han evidenciado una respuesta y evolución notables, manifestando el compromiso y la pasión de la comunidad por la legalización del cannabis y la creación de espacios seguros para el diálogo y la expresión cultural. Estos eventos, caracterizados por ser de ingreso gratuito y participación absolutamente voluntaria, han marcado un precedente importante. Este 2024, aspiramos a expandir este impacto a nivel nacional, uniendo fuerzas con otros [espacios](/es/VENUES.md) alrededor del país.
+
+Estas experiencias no solo subrayan nuestro compromiso con la seguridad y la calidad de los eventos sino que también reflejan el interés creciente y el apoyo hacia la causa de la legalización del cannabis en Bolivia. Invitamos a nuevos espacios a [sumarse](/es/VENUES.md) a este movimiento, aprovechando los aprendizajes y el éxito de las ediciones anteriores para generar eventos aún más seguros y significativos, que nos acerquen al objetivo común de la legalización en nuestro país.
+
+### Encuentro 4/20²²
+El primer evento, llevado a cabo un miércoles laboral, fue un hito con la asistencia de más de 1000 personas. Dos escenarios acogieron a 11 bandas y 9 DJ's, ofreciendo una diversidad musical que enriqueció la experiencia de todos los asistentes. Se organizó además una feria y un coloquio con la participación de ex-autoridades, activistas, especialistas de la salud y participantes remotos, promoviendo un diálogo constructivo sobre la legalización del cannabis.
+
+### Encuentro Nacional 4/20²³
+El siguiente año, implementamos por primera vez un [protocolo de seguridad](/es/VENUES.md), marcando un precedente para otros espacios interesados en organizar eventos bajo un modelo similar. A pesar del interés inicial de tres espacios, la falta de un plan de contingencia impidió su participación final. Con más de 30 bandas y DJ's distribuidos en tres escenarios simultáneos, el evento atrajo a cerca de 500 personas. La implementación del protocolo de seguridad, que priorizó el bienestar de los participantes, resultó en una menor afluencia pero garantizó una experiencia segura y enriquecedora. El coloquio se centró en el repaso y afinación del plan del evento y los protocolos de seguridad, estableciendo las bases para una expansión segura y exitosa del encuentro en 2024 hacia nuevos espacios y ciudades del país.
+
+## Únete
 Invitamos a todos a ser parte de nuestra comunidad. Para participar, colaborar o asistir a los eventos:
 - Únete a nuestra [comunidad de WhatsApp](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00).
 - Participa en las [discusiones en GitHub](https://github.com/barranco-life/420/discussions).
