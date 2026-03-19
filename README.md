@@ -1,34 +1,73 @@
-# Encuentro Nacional 4/20²⁴
+# Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿
+*National 4/20²⁶ Pro-Legalization Gathering 🌿*
 
-Bienvenidos al repositorio oficial del Encuentro Nacional 4/20²⁴, una iniciativa dedicada a fomentar el diálogo y la educación en torno a la legalización del cannabis en Bolivia, con miras a realizar eventos en todo el país el sábado 20 de abril de 2024, respetando siempre el marco legal vigente.
+Replicable cultural celebration of free entry and free participation, open to host spaces, collaborators, virtual celebrations, and future adaptations in other territories, languages, and legal contexts.
 
-## Misión
-El "Encuentro Nacional 4/20²⁴" aspira a organizar eventos voluntarios en la mayor cantidad posible de escenarios y ciudades a lo largo de Bolivia. Nuestro objetivo es llevar el debate sobre la legalización del cannabis a cada rincón del país, fomentando un ambiente de participación voluntaria e inclusiva. Todos los participantes, desinteresadamente, colaboran hacia objetivos comunes: generar conciencia, crear diálogo, y desestigmatizar el consumo de cannabis. Queremos convertir la legalización del cannabis en un tema de interés nacional, capturando la atención de la sociedad y los políticos. Creemos que esto es el último paso necesario para que las autoridades aborden el tema con la seriedad que merece.
+Open repository for a replicable cultural 4/20 celebration rooted in Bolivia: free entry, free participation, host spaces, prudent organizing, public-facing documentation, and future adaptations for other territories, languages, and legal contexts.
 
-## Aviso Legal
-En el marco del Encuentro Nacional 4/20²⁴, reafirmamos nuestro compromiso con la promoción de diálogos constructivos y la educación en torno a la legalización del cannabis, siempre dentro de los límites que establece la legislación boliviana. Subrayamos que la comercialización o consumo de cannabis u otras sustancias controladas, en contravención a la Ley 1008, no es promovido ni permitido en ninguno de nuestros eventos o actividades. Nuestro encuentro busca ser un espacio seguro y respetuoso para todos los participantes, alentando un cambio positivo a través de la conciencia y el respeto a las normativas vigentes.
+**¿Buscas la versión en español?** → [`es/README.md`](./es/README.md)
 
-## Convocatoria Abierta
-Hacemos un llamado a locales y voluntarios que deseen promover el movimiento:
-- [VENUES.md](/es/VENUES.md): Información para locales interesados en ser parte de nuestra red de eventos seguros y coordinados bajo el mismo protocolo de seguridad.
-- [PROMOTION.md](/es/PROMOTION.md): Herramientas y estrategias para voluntarios que quieran difundir la iniciativa mediante stencils callejeros, estampados y parafernalia.
+> [!NOTE]
+> This project is currently being developed primarily in Spanish. The canonical version for now lives in [`es/README.md`](./es/README.md).
 
-## Experiencias Previas
+## Community
 
-Los encuentros 4/20 organizados en el [Proyecto Cultural Barranco](https://barranco.life) han evidenciado una respuesta y evolución notables, manifestando el compromiso y la pasión de la comunidad por la legalización del cannabis y la creación de espacios seguros para el diálogo y la expresión cultural. Estos eventos, caracterizados por ser de ingreso gratuito y participación absolutamente voluntaria, han marcado un precedente importante. Este 2024, aspiramos a expandir este impacto a nivel nacional, uniendo fuerzas con otros [espacios](/es/VENUES.md) alrededor del país.
+The real community around this project lives first in WhatsApp:
 
-Estas experiencias no solo subrayan nuestro compromiso con la seguridad y la calidad de los eventos sino que también reflejan el interés creciente y el apoyo hacia la causa de la legalización del cannabis en Bolivia. Invitamos a nuevos espacios a [sumarse](/es/VENUES.md) a este movimiento, aprovechando los aprendizajes y el éxito de las ediciones anteriores para generar eventos aún más seguros y significativos, que nos acerquen al objetivo común de la legalización en nuestro país.
+- [4/20 Community on WhatsApp](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t)
 
-### Encuentro 4/20²²
-El primer evento, llevado a cabo un miércoles laboral, fue un hito con la asistencia de más de 1000 personas. Dos escenarios acogieron a 11 bandas y 9 DJ's, ofreciendo una diversidad musical que enriqueció la experiencia de todos los asistentes. Se organizó además una feria y un coloquio con la participación de ex-autoridades, activistas, especialistas de la salud y participantes remotos, promoviendo un diálogo constructivo sobre la legalización del cannabis.
+The repository exists to document, clarify, and strengthen what the community is building — not to replace the living community itself.
 
-### Encuentro Nacional 4/20²³
-El siguiente año, implementamos por primera vez un [protocolo de seguridad](/es/VENUES.md), marcando un precedente para otros espacios interesados en organizar eventos bajo un modelo similar. A pesar del interés inicial de tres espacios, la falta de un plan de contingencia impidió su participación final. Con más de 30 bandas y DJ's distribuidos en tres escenarios simultáneos, el evento atrajo a cerca de 500 personas. La implementación del protocolo de seguridad, que priorizó el bienestar de los participantes, resultó en una menor afluencia pero garantizó una experiencia segura y enriquecedora. El coloquio se centró en el repaso y afinación del plan del evento y los protocolos de seguridad, estableciendo las bases para una expansión segura y exitosa del encuentro en 2024 hacia nuevos espacios y ciudades del país.
+## What this repository is
 
-## Únete
-Invitamos a todos a ser parte de nuestra comunidad. Para participar, colaborar o asistir a los eventos:
-- Únete a nuestra [comunidad de WhatsApp](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00).
-- Participa en las [discusiones en GitHub](https://github.com/barranco-life/420/discussions).
-- Consulta y contribuye a nuestra [Wiki](https://github.com/barranco-life/420/wiki).
+This repository documents **Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿** as a **replicable cultural celebration of free entry and free participation**.
 
-Este es un movimiento de todos y para todos. ¡Juntos podemos hacer la diferencia!
+It is rooted in Bolivia, with **Proyecto Cultural Barranco** as a documented reference case, but it is designed to be useful beyond a single space, city, or edition. It is also open to future translations and adaptations for other territories, languages, and legal frameworks, if enough interest and stewardship emerge. The goal is not only to announce an event, but to build an open structure that other host spaces, collaborators, and communities can understand, adapt, and improve.
+
+## Core idea
+
+The 4/20 encounter shows that a spontaneous, diverse, collaborative, and careful community is possible. **Voluntariado Barranco** seeks to cultivate that same possibility throughout the year: a freer, more responsible, and more human way of living, organizing, and creating together.
+
+We believe that open, well-cared-for, and increasingly visible cultural celebrations can help reduce stigma, invite skeptics and the general public into a more mature conversation, and gradually bring Bolivia closer to a serious discussion about cannabis legalization. The main strategy is not confrontation, but social visibility through example, hospitality, culture, and shared experience.
+
+## How people can participate
+
+The project is open to many kinds of participation, including:
+
+- Host spaces
+- Low-risk support or diffusion points
+- Artists and musicians
+- Visual artists and exhibitions
+- Panelists and public conversations
+- Ventures / emprendimientos
+- Virtual events and streams
+- Other categories that make sense for the encounter, even if they were not anticipated in advance
+
+Not every space or collaborator needs to participate in the same way. Part of the model is precisely that different people and places can join with different levels of visibility, commitment, and risk.
+
+## What is being launched first
+
+The first active call focuses on **host spaces**.
+
+The encounter also aims to treat participation more fairly and transparently than many cultural calls do. If the event generates revenue — especially through the bar or other public-facing activity — the intention is first to cover real operating needs, including exceptional transport or special logistics for artists or other key participants when needed, before any remaining surplus is considered for the broader **Voluntariado Barranco** fund. Public accountability and transparent reporting are part of the model.
+
+Other participation channels are being prepared next, including artists, visual artists, panelists, ventures, virtual events, and additional ways of contributing. The project prefers to grow with clarity and real coordination instead of launching everything at once.
+
+## Main documents
+
+- [`es/README.md`](./es/README.md) — main overview in Spanish
+- [`es/SPACES.md`](./es/SPACES.md) — host spaces and participation modalities
+- [`es/PARTICIPATE.md`](./es/PARTICIPATE.md) — participation map and calls
+- [`es/PETITION.md`](./es/PETITION.md) — petition and contribution process
+
+## Reference links
+
+- [Proyecto Cultural Barranco](https://barranco.life)
+- [Voluntariado Barranco](https://github.com/barranco-life/Voluntariado)
+- [Manual 4/20](https://github.com/barranco-life/Manual420)
+
+## Status
+
+This repository is being reworked for the 2026 edition.
+
+The intention is to document not just a date, but a living, open, and replicable way of organizing 4/20 cultural celebrations with care, freedom, clear limits, fairer participation, and transparent accountability.
