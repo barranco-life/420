@@ -19,9 +19,9 @@ No busca solo anunciar una fecha. Busca reunir una forma más clara, hospitalari
 
 El 4/20 muestra que sí es posible una comunidad espontánea, diversa, colaborativa y cuidadosa del espacio. **Voluntariado Barranco** busca cultivar durante todo el año esa misma posibilidad: una forma más libre, responsable y humana de convivir, organizarse y crear en común.
 
-Creemos que celebraciones culturales abiertas, cuidadas y cada vez más visibles pueden ayudar a desestigmatizar esta cultura ante la sociedad, sumar a escépticos y público general, e ir acercando el país a una conversación más madura sobre la legalización. No buscamos la confrontación como estrategia principal, sino la visibilización social a través del ejemplo, la hospitalidad, la cultura y la experiencia compartida.
+Creemos que celebraciones culturales abiertas, cuidadas y cada vez más visibles pueden ayudar a desestigmatizar esta cultura ante la sociedad, sumar a escépticos y público general, e ir acercando el país a una conversación más madura sobre la legalización. No apostamos a una lógica de choque permanente entre convencidos y autoridades, sino a una visibilización cultural sostenida a través del ejemplo, la hospitalidad, la cultura y la experiencia compartida.
 
-Esa es, en el fondo, nuestra estrategia hacia la legalización: ayudar a que la comunidad 4/20, sus celebraciones, sus expresiones culturales y el propio debate se vuelvan cada vez más visibles en la vida pública. Creemos que, mientras más presente se haga este tema en la experiencia social general —desde eventos alineados con esta propuesta o incluso desde otros que no lo estén del todo— más difícil será seguir tratándolo como algo marginal o ajeno al interés general. No apostamos a una lógica de choque permanente entre convencidos y autoridades, sino a una visibilización cultural sostenida que vuelva este tema cada vez más legible, cercano e imposible de ignorar.
+La apuesta es que, mientras la comunidad 4/20, sus celebraciones, sus expresiones culturales y el propio debate se vuelvan cada vez más visibles en la vida pública —desde eventos alineados con esta propuesta o incluso desde otros que no lo estén del todo— más difícil será seguir tratándolo como algo marginal o ajeno al interés general.
 
 ## Qué lo hace distinto
 
@@ -30,7 +30,7 @@ Esa es, en el fondo, nuestra estrategia hacia la legalización: ayudar a que la 
 - **Prudencia legal:** Claridad sobre la Ley 1008, límites explícitos y cuidado del espacio.
 - **Apertura real:** No está pensado solo para consumidores o personas ya convencidas, sino también para escépticos, curiosos y público general.
 - **Participación voluntaria:** Artistas, espacios, panelistas, apoyos y colaboradores se suman desde convicción, no desde obligación.
-- **Documentación viva:** El repositorio busca dejar aprendizajes, estructura y materiales que otros puedan adaptar y mejorar.
+- **Documentación viva:** El repositorio busca dejar aprendizajes, estructura y materiales útiles para adaptar, mejorar y replicar.
 
 ## Proyecto Cultural Barranco como caso de referencia
 
@@ -72,7 +72,7 @@ Live, streaming, transmisión, set, cobertura o encuentro remoto que se suma a l
 
 La primera convocatoria activa de esta edición se enfoca en **espacios anfitriones**.
 
-Las demás formas de participación —artistas, artistas visuales, panelistas, emprendimientos, eventos virtuales y otras categorías— se irán habilitando progresivamente. Preferimos crecer con claridad, cuidado y base real antes que lanzar todo de golpe o prometer más de lo que todavía no está listo.
+Las demás formas de participación —artistas, artistas visuales, panelistas, emprendimientos, eventos virtuales y otras categorías— se irán habilitando progresivamente en los próximos días. Preferimos crecer con claridad, cuidado y base real antes que lanzar todo de golpe o prometer más de lo que todavía no está listo.
 
 ## Participación justa, costos y transparencia
 
@@ -123,3 +123,5 @@ Nos interesa más abrir conversaciones útiles para el momento actual: cómo org
 Este repositorio está siendo reestructurado para la edición 2026.
 
 La intención es documentar no solo una fecha, sino una forma viva, abierta y replicable de organizar celebraciones culturales 4/20 con cuidado, libertad, límites claros, participación más justa y rendición transparente.
+
+https://github.com/barranco-life/420/blob/main/es/README.md

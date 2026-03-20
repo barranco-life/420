@@ -62,14 +62,14 @@ Ya está abierta también la posibilidad de **firmar y aportar al pliego petitor
 
 [Volver al índice](#índice)
 
-La idea no es tratarlo como un texto cerrado o definitivo, sino como un documento que pueda madurar con aportes ciudadanos, culturales, jurídicos, médicos y comunitarios. También queremos que dialogue cada vez mejor con el [Manual 4/20](https://manual420.barranco.life).
+La idea no es tratarlo como un texto cerrado o definitivo, sino como un documento que pueda madurar con aportes ciudadanos, culturales, jurídicos, médicos y comunitarios. También queremos que dialogue cada vez mejor con el [Manual 4/20 🌿](https://manual420.barranco.life).
 
 **Formulario activo:**  
 https://forms.gle/96XH81TFQrCX1R7U6
 
 Más contexto:
 
-- [Pliego petitorio y proceso de contribución](./PETITION.md) *(en desarrollo)*
+- [Pliego petitorio](./PETITION.md)
 
 ## Convocatorias que se anunciarán a continuación
 
@@ -97,7 +97,7 @@ Nos interesa especialmente abrir espacio a obras que puedan habitar una galería
 
 Para personas interesadas en aportar a conversaciones útiles y maduras sobre el momento actual del tema.
 
-No buscamos repetir una discusión cerrada entre personas ya convencidas. Nos interesa más abrir conversación sobre desestigmatización, libertad con límites, organización prudente, hospitalidad cultural, estrategias de visibilización no confrontacional y aprendizajes que puedan alimentar el [Manual 4/20](https://manual420.barranco.life).
+No buscamos repetir una discusión cerrada entre personas ya convencidas. Nos interesa más abrir conversación sobre desestigmatización, libertad con límites, organización prudente, hospitalidad cultural, estrategias de visibilización no confrontacional y aprendizajes que puedan alimentar el [Manual 4/20 🌿](https://manual420.barranco.life).
 
 Esta participación puede ser **presencial o virtual**.
 
@@ -117,7 +117,7 @@ Para propuestas que quieran participar en ferias o espacios de circulación púb
 
 Para personas, colectivos o canales que quieran transmitir, conversar, celebrar o cubrir el 4/20 desde plataformas online.
 
-Estos enlaces se compartirán como parte del movimiento. Cuando haga sentido, en Proyecto Cultural Barranco también podrán proyectarse o seguirse como parte de la experiencia general. Esta modalidad ayuda a ampliar alcance, sumar otras ciudades y reforzar la dimensión pública del día.
+Estos enlaces se compartirán como parte del movimiento. Cuando haga sentido, en Proyecto Cultural Barranco también podrán proyectarse o seguirse como parte de la experiencia general. Esta modalidad ayuda a ampliar alcance, sumar otras ciudades y reforzar la dimensión pública del día, que es una parte central de la estrategia general del encuentro.
 
 [Volver al índice](#índice)
 
@@ -147,7 +147,7 @@ En general, el proceso busca ser simple:
 1. La persona, espacio o proyecto expresa interés.
 2. Se revisa cuál es la modalidad más realista para su participación.
 3. Se ajustan expectativas, necesidades, tiempos y límites.
-4. Si hace falta, se ubica mejor su propuesta dentro de una categoría existente o se deja abierta como modalidad en desarrollo.
+4. Si hace falta, se ubica mejor su propuesta dentro de una categoría existente o se deja abierta como modalidad emergente.
 5. Si hay alineación suficiente, se integra a la red del encuentro.
 
 La meta no es sumar por ansiedad, sino sumar con claridad y base real.
@@ -184,4 +184,5 @@ No todas las puertas de entrada tienen que abrirse el mismo día. Lo importante 
 Participar no es solo “asistir” o “actuar”: también puede ser alojar, difundir, observar, proponer, transmitir, documentar o ayudar a que otras personas se animen.
 
 [Volver al índice](#índice)
+
 https://github.com/barranco-life/420/blob/main/es/PARTICIPATE.md

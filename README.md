@@ -2,7 +2,7 @@
 *National 4/20²⁶ Pro-Legalization Gathering 🌿*
 ![Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿](./es/assets/README.jpg)
 
-Replicable cultural celebration of free entry and free participation, open to host spaces, collaborators, virtual celebrations, and future adaptations in other territories, languages, and legal contexts.
+Replicable cultural celebration of free entry and free participation, open to host spaces, collaborators, virtual celebrations, and future adaptations across other territories, languages, and legal contexts.
 
 Open repository for a replicable cultural 4/20 celebration rooted in Bolivia: free entry, free participation, host spaces, prudent organizing, public-facing documentation, and future adaptations for other territories, languages, and legal contexts.
 
@@ -55,10 +55,12 @@ Other participation channels are being prepared next, including artists, visual 
 
 ## Main documents
 
-- [`es/README.md`](./es/README.md) — main overview in Spanish
-- [`es/SPACES.md`](./es/SPACES.md) — host spaces and participation modalities
-- [`es/PARTICIPATE.md`](./es/PARTICIPATE.md) — participation map and calls
-- [`es/PETITION.md`](./es/PETITION.md) — petition and contribution process
+- [`es/README.md`](./es/README.md) — main overview in Spanish.
+- [`es/SPACES.md`](./es/SPACES.md) — host spaces, participation modalities, contingency, and safety protocol.
+- [`es/PARTICIPATE.md`](./es/PARTICIPATE.md) — participation map, active calls, and upcoming invitations.
+- [`es/PETITION.md`](./es/PETITION.md) — initial public version of the petition and contribution process.
+- [`es/HISTORY.md`](./es/HISTORY.md) — memory of the process and key learnings from 2022–2025.
+- [`es/COMMUNITY.md`](./es/COMMUNITY.md) — community layers, aligned and non-aligned events, and relation with Voluntariado Barranco.
 
 ## Reference links
 
@@ -70,4 +72,4 @@ Other participation channels are being prepared next, including artists, visual 
 
 This repository is being reworked for the 2026 edition.
 
-The intention is to document not just a date, but a living, open, and replicable way of organizing 4/20 cultural celebrations with care, freedom, clear limits, fairer participation, and transparent accountability.
+The intention is to document not just a date, but a living, open, and replicable way of organizing 4/20 cultural celebrations with care, freedom, clear limits, fairer participation, transparent accountability, and stronger public legibility.
