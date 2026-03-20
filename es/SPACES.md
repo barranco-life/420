@@ -1,68 +1,11 @@
-# Espacios
-
-Bienvenidos a la guía de espacios para el "Encuentro Nacional 4/20²⁵". Este documento está diseñado para locales en toda Bolivia interesados en unirse a este movimiento nacional organizando sus propios eventos el 20 de abril de 2024. El año pasado, establecimos un modelo exitoso para estos eventos, abordando preocupaciones y riesgos potenciales con una planificación integral y medidas de contingencia. Este año, te invitamos a ser parte de esta experiencia transformadora.
-
-## Introducción
-El "Encuentro Nacional 4/20²⁵" busca elevar la conversación sobre la legalización del cannabis a través de eventos a nivel nacional, creando espacios para el diálogo, la educación y el compromiso comunitario. Al participar, tu local contribuirá a un movimiento significativo hacia el cambio social.
-
-## ¿Por qué participar?
-- **Impacto Comunitario**: Juega un papel vital en fomentar conversaciones importantes sobre la legalización del cannabis.
-- **Visibilidad**: Gana exposición como un espacio progresista que apoya las libertades civiles y temas sociales.
-- **Red**: Únete a una red de locales y organizadores trabajando juntos por una causa común.
-
-## Directrices para la Participación
-Para garantizar el éxito y la seguridad de todos los involucrados, hemos delineado pautas clave basadas en las lecciones del año pasado:
-
-### Cumplimiento Legal
-- **Aviso Legal**: Adherirse estrictamente a la ley boliviana, asegurando que no haya venta o consumo de sustancias controladas en violación de la Ley 1008.
-- **Permisos**: Obtener todos los permisos necesarios y cumplir con las regulaciones locales para la realización de eventos públicos.
-
-### Medidas de Seguridad
-- **Planificación de Seguridad**: Implementar medidas de seguridad robustas para garantizar la seguridad y comodidad de todos los participantes.
-- **Salud y Seguridad**: Seguir las directrices de salud, incluyendo protocolos de emergencia y disponibilidad de primeros auxilios.
-
-### Planificación del Evento
-- **Programación**: Curar un horario de actividades que promuevan la educación y discusión en torno a la legalización del cannabis.
-- **Colaboración**: Trabajar con artistas, oradores y activistas locales para enriquecer la oferta del evento.
-- **Promoción**: Utilizar materiales y estrategias de promoción proporcionados para involucrar a la comunidad local y atraer asistentes.
-
-## Protocolo de Seguridad
-
-Como parte fundamental de la organización del "Encuentro Nacional ", cada espacio participante debe adoptar y enriquecer un protocolo de seguridad enfocado en garantizar el cumplimiento de la legislación vigente y la seguridad de todos los asistentes. El año pasado, implementamos un conjunto de medidas que buscamos no solo replicar sino también mejorar con la colaboración de nuevos espacios. A continuación, detallamos el plan de contingencia que estuvo en vigor:
-
-### Responsabilidad Individual y Conciencia Legal
-- **Señalización Clara**: Distribuir señalización por todo el recinto, informando sobre la Ley 1008 y destacando que la responsabilidad legal recae en cada individuo por sus acciones.
-  
-### Control en el Ingreso
-- **Seguridad en el Acceso**: Establecer controles de seguridad similares a los de cualquier evento público, incluyendo la revisión de los asistentes. Si se encuentra alguna sustancia prohibida, se le niega el ingreso a la persona o se le solicita que deseche la sustancia. La decisión final recae en el individuo, pero no podrá ingresar al evento con dichas sustancias.
-  
-### Manejo de Sustancias Prohibidas
-- **Actuación del Staff**: En caso de identificar a alguien infringiendo la Ley 1008 dentro del evento, el staff invitará a la persona a retirarse o a desechar la sustancia en un contenedor destinado para ello.
-- **Zonas Estrictas**: Ser especialmente rigurosos en el ingreso y zonas aledañas al espacio, ya que cualquier actividad ilegal visible desde el exterior puede autorizar a las autoridades a ingresar al recinto sin orden previa.
-- **Espacio para Deshecho**: Designar un área específica para la incineración o deshecho seguro de cualquier sustancia prohibida.
-
-### En Caso de Controles de Autoridades
-- **Comunicación y Calma**: En caso de una inspección por parte de autoridades, notificar inmediatamente al responsable del espacio y anunciar por el sistema de sonido que se llevará a cabo un control de rutina, solicitando la colaboración y calma del público para continuar con el evento lo antes posible.
-- **Deslinde de Responsabilidad**: En caso de que algún asistente sea encontrado en posesión de sustancias ilegales, el espacio se deslinda de toda responsabilidad, habiendo implementado todas las medidas a su alcance para prevenir dicha situación. Esta estrategia busca también educar al público sobre cómo comportarse de manera responsable mientras el cannabis continúe siendo ilegal en el país.
-
-Invitamos a todos los espacios participantes a adoptar estas medidas y contribuir con sugerencias para fortalecer nuestro protocolo de seguridad. Juntos, podemos asegurar que el "Encuentro Nacional " sea un evento seguro, legal y exitoso, marcando un paso adelante en nuestro camino hacia la legalización del cannabis en Bolivia.
-
-
-## Unirse al Movimiento
-Estamos emocionados de dar la bienvenida a nuevos locales a este movimiento en crecimiento. Para participar:
-1. Revisa y comprométete con las directrices mencionadas anteriormente.
-2. Contáctanos a través de [nuestro grupo de WhatsApp](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00) o [Discusiones en GitHub](https://github.com/barranco-life/420/discussions) para expresar tu interés y comenzar la planificación.
-
-Juntos, podemos hacer del "Encuentro Nacional 4/20²⁵" un evento emblemático que defienda el cambio, la conciencia y la unidad en toda Bolivia. Gracias por considerar unirte a esta causa y por tu compromiso en hacer una diferencia.
-
-
 [4/20²⁶ 🌿](./README.md) > Espacios Anfitriones
 
 # Espacios Anfitriones
 
+![Encuentro 4/20 en Proyecto Cultural Barranco](../assets/SPACES.jpg)
+
 **Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿**  
-*Celebración cultural replicable de ingreso y participación libre*  
-**Versión:** v1.0.0
+*Celebración cultural replicable de ingreso y participación libre*
 
 - **Comunidad 4/20 (WhatsApp):** https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t
 - **Proyecto Cultural Barranco (Maps):** https://goo.gl/maps/iWB6R5HZnREL7ALKA
@@ -70,6 +13,10 @@ Juntos, podemos hacer del "Encuentro Nacional 4/20²⁵" un evento emblemático 
 
 > [!IMPORTANT]
 > Este documento tiene un enfoque cultural, organizativo y preventivo. No promueve la vulneración de la ley ni ofrece instrucciones para delinquir. En Bolivia rige la **Ley 1008**, por lo que cada espacio y cada persona debe actuar con pleno conocimiento del marco legal vigente, sus propios límites y su responsabilidad individual.
+
+> [!NOTE]
+> **Contenido sugerido para carteles visibles sobre la Ley 1008:**  
+> **La comercialización o consumo de cannabis u otras sustancias controladas, en contravención a la Ley 1008, no es promovido ni permitido en este evento. La responsabilidad legal recae en cada persona por sus propios actos. El espacio se reserva el derecho de pedir el retiro de quien comprometa la seguridad o la continuidad de la actividad.**
 
 ## Qué es un espacio anfitrión
 
@@ -79,6 +26,26 @@ No todos los espacios tienen que participar del mismo modo ni con el mismo nivel
 
 La intención no es imponer un formato único, sino abrir una estructura replicable, prudente y hospitalaria que otras personas puedan adaptar según su contexto, su ciudad, su comunidad y su marco legal.
 
+## Qué tipos de espacios pueden sumarse
+
+El encuentro puede dialogar con muchos tipos de espacios, siempre que exista coherencia con su espíritu general y con las realidades legales de cada caso.
+
+Ejemplos posibles:
+
+- **Proyecto cultural o centro cultural**
+- **Casa o domicilio particular**
+- **Casa de campo o quinta**
+- **Terreno o espacio abierto privado**
+- **Galería o taller artístico**
+- **Cafetería, bar o local aliado**
+- **Bosque, jardín o entorno natural** cuando exista cuidado real del lugar y claridad suficiente sobre su viabilidad
+- **Sede pequeña de comunidad o colectivo**
+- **Locación secreta**
+- **Punto de apoyo o difusión**
+- **Celebración virtual o transmisión online**
+
+No todos estos formatos implican el mismo nivel de exposición, logística o riesgo. Precisamente por eso el encuentro se abre a distintas modalidades, en lugar de suponer que toda celebración 4/20 debe verse igual.
+
 ## Por qué sumarse
 
 Sumarse como espacio anfitrión puede aportar a varias cosas al mismo tiempo:
@@ -87,7 +54,7 @@ Sumarse como espacio anfitrión puede aportar a varias cosas al mismo tiempo:
 - **Visibilización social:** Ayudar a que el tema exista en la conversación pública de una manera más madura y menos reactiva.
 - **Puerta de entrada para escépticos y público general:** Ofrecer una experiencia humana, cultural y observacional también para quienes no consumen o no están convencidos.
 - **Construcción de red:** Conectar espacios, artistas, comunidades, transmisiones, ideas y aprendizajes alrededor de una misma fecha.
-- **Aporte a una estrategia de legalización no confrontacional:** Creemos que celebraciones abiertas, cuidadas y cada vez más visibles pueden acercar al país a una conversación más seria sobre la legalización, más por ejemplo y experiencia compartida que por choque permanente.
+- **Aporte a una estrategia de legalización no confrontacional:** Creemos que celebraciones abiertas, cuidadas y cada vez más visibles pueden acercar al país a una conversación más seria sobre la legalización, más por ejemplo, hospitalidad y experiencia compartida que por choque permanente.
 
 ## Modalidades de participación
 
@@ -104,13 +71,13 @@ Puede incluir, según su capacidad:
 - Comida o barra.
 - Espacios de descanso y convivencia.
 
-Estos espacios publican en sus redes y canales de difusión siguiendo, porque les conviene hacerlo, las pautas generales del encuentro: claridad sobre la Ley 1008, plan de contingencia, señalización visible, espacio de deshecho de sustancias ilegales cuando corresponda, y una comunicación prudente que ayude a sostener la legitimidad cultural del evento.
+Estos espacios publican en sus redes y canales de difusión siguiendo las pautas generales del encuentro, tanto por prudencia legal como por conveniencia organizativa: claridad sobre la Ley 1008, plan de contingencia, señalización visible, zona de deshecho de sustancias ilegales cuando corresponda, y una comunicación prudente que ayude a sostener la legitimidad cultural del evento.
 
 ### Locación secreta
 
 Sede que participa con una estrategia de comunicación más cuidada. En Bolivia, esta modalidad puede ser especialmente útil cuando conviene reducir exposición pública previa.
 
-La lógica general es que la locación se revele al público recién la noche anterior o con muy poca anticipación, mientras que los organizadores y voluntarios de apoyo pueden contar antes con la información necesaria para sostener la actividad.
+La lógica general es que la locación se revele al público recién la noche anterior o con muy poca anticipación, mientras que organizadores y voluntarios de apoyo pueden contar antes con la información necesaria para sostener la actividad.
 
 Puede ser útil para:
 - Pruebas piloto.
@@ -123,15 +90,16 @@ Puede ser útil para:
 No organiza necesariamente una celebración completa, pero ayuda a visibilizar el encuentro y a normalizar su presencia cultural.
 
 Ejemplos:
+- Celebrar el 4/20 a su manera y, si gusta, notificarnos o taggearnos para compartirlo.
 - Compartir un QR o link.
 - Publicar en estados o redes.
 - Recomendar una sede.
 - Invitar a artistas o aliados.
 - Poner una pieza gráfica en cartelera o mostrador.
 - Ayudar a tender puentes con prensa, colectivos o espacios amigos.
-- Celebrar el 4/20 a su manera y ayudar a difundir los eventos oficiales.
+- Difundir también otros eventos 4/20 que, aunque no estén alineados del todo con esta propuesta, aporten a la visibilización cultural del día.
 
-Esta modalidad es importante porque reduce la barrera de entrada: no todo el mundo tiene que organizar un evento para formar parte del movimiento. También permite que espacios, proyectos, empresas o comunidades puedan ser reconocidos como aliados o pro legalización sin asumir el mismo nivel de exposición de una sede anfitriona.
+Esta modalidad es importante porque reduce la barrera de entrada: no todo el mundo tiene que organizar un evento para formar parte del movimiento. También permite que espacios, proyectos, empresas o comunidades puedan ser reconocidos como aliados o pro legalización sin asumir el mismo nivel de exposición que una sede anfitriona.
 
 ### Evento o celebración virtual
 
@@ -174,7 +142,9 @@ Todo espacio anfitrión debería poder alinearse, al menos, con estos principios
 
 **Proyecto Cultural Barranco** es el caso de referencia documentado del que nacen muchos de los aprendizajes que sostienen este proyecto.
 
-Las celebraciones 4/20 realizadas allí mostraron que sí es posible abrir un espacio cultural, libre y cuidado donde conviven música, feria, conversación, arte, comunidad y una fuerte autorregulación social. Esa experiencia no se presenta como modelo único ni obligatorio, pero sí como un punto de partida real desde el cual otras sedes pueden imaginar su propia forma de participar según su escala, sus condiciones y su nivel de exposición.
+Las celebraciones 4/20 realizadas allí mostraron que sí es posible abrir un espacio cultural, libre y cuidado, donde conviven música, feria, conversación, arte, comunidad y una fuerte autorregulación social. Esa experiencia no se presenta como modelo único ni obligatorio, pero sí como un punto de partida real desde el cual otras sedes pueden imaginar su propia forma de participar según su escala, sus condiciones y su nivel de exposición.
+
+Además, al caer lunes este año, en Proyecto Cultural Barranco se contempla como ejemplo la posibilidad de actividades previas el sábado 18 y domingo 19 de abril: proyecciones, expo, presentaciones u otras formas de previa cultural que ayuden a expandir el encuentro más allá de una sola jornada.
 
 ## Plan de contingencia y protocolo de seguridad
 
@@ -189,7 +159,7 @@ Cada espacio debería contar con señalización clara y sobria que recuerde, al 
 - Que la responsabilidad legal recae en cada persona por sus propios actos.
 - Que el espacio se reserva el derecho de pedir el retiro de quien comprometa la seguridad o la continuidad del encuentro.
 
-El encuentro compartirá contenido base de carteles alusivos a la Ley 1008 para que cada espacio pueda imprimirlos y adaptarlos según su realidad. Esto forma parte del plan de contingencia general.
+El encuentro compartirá contenido base de carteles alusivos a la Ley 1008 para que cada espacio pueda imprimirlos y adaptarlos según su realidad. Esto forma parte del plan de contingencia general y también dialoga con el Manual 4/20 como aprendizaje replicable.
 
 ### Control de ingreso y zonas sensibles
 
@@ -201,9 +171,11 @@ Orientaciones básicas:
 - No permitir el ingreso con elementos que comprometan innecesariamente al espacio o al conjunto.
 - Ser especialmente rigurosos en el perímetro inmediato cuando la visibilidad externa pueda generar problemas evitables.
 
-### Espacio de deshecho de sustancias ilegales
+### Zona de deshecho de sustancias ilegales
 
-Cuando la sede lo considere adecuado, puede habilitar un espacio o contenedor específico para el deshecho seguro de sustancias ilegales antes del ingreso o ante una situación detectada dentro del evento.
+Cuando la sede lo considere adecuado, puede habilitar una zona o contenedor específico para el deshecho seguro de sustancias ilegales antes del ingreso o ante una situación detectada dentro del evento.
+
+Idealmente, esta zona puede estar alejada del ingreso principal y, cuando haga sentido, en un área abierta que reduzca exposición innecesaria del resto del espacio.
 
 La lógica no es normalizar ni promover nada, sino reducir riesgo para el espacio y para el conjunto en un contexto donde el marco legal sigue vigente.
 
@@ -213,7 +185,7 @@ Si dentro del evento se detecta una situación que compromete la prudencia legal
 
 - Pedir calma y colaboración.
 - Solicitar a la persona que se retire.
-- Invitarla a desechar la sustancia en el espacio destinado para ello, si existe.
+- Invitarla a ir a la zona destinada para desechar la sustancia, si existe.
 - Cortar la situación antes de que escale o exponga innecesariamente al conjunto.
 
 La idea es intervenir temprano, con firmeza y sin espectáculo.
@@ -252,6 +224,12 @@ Sin convertir esto en una receta rígida, hay algunas orientaciones que conviene
 - Una sede pequeña y bien cuidada puede ser tan valiosa como una más grande.
 - Es mejor una propuesta simple y sostenible que una ambiciosa y mal contenida.
 
+## Coloquio y participación remota
+
+Si una sede incluye coloquio o conversación pública, no todo tiene que ocurrir de forma presencial. También pueden sumarse participantes virtuales junto con personas locales, como ya ocurrió en ediciones pasadas.
+
+Eso puede ampliar voces, reducir costos y conectar mejor el encuentro con otras ciudades, países o trayectorias que no pueden estar físicamente presentes.
+
 ## Participación justa, costos y transparencia
 
 Si una sede genera ingresos —por barra u otra actividad pública— la intención general del encuentro es priorizar primero las necesidades operativas reales del evento.
@@ -288,7 +266,7 @@ En general, el proceso busca ser simple:
 4. Se ajustan expectativas, necesidades y límites.
 5. Si hay alineación suficiente, el espacio se integra a la red del encuentro.
 
-La meta no es sumar “por sumar”, sino sumar con claridad y base real.
+La meta no es sumar por sumar, sino sumar con claridad y base real.
 
 ## Relación con otros documentos
 
@@ -298,12 +276,13 @@ Este archivo dialoga especialmente con:
 - [Mapa de participación y convocatorias](./PARTICIPATE.md) *(en desarrollo)*
 - [Pliego petitorio y proceso de contribución](./PETITION.md) *(en desarrollo)*
 - [Historia breve y aprendizajes](./HISTORY.md) *(en desarrollo)*
+- [Comunidad, canales y capas de participación](./COMMUNITY.md) *(en desarrollo)*
 - [Manual 4/20](https://github.com/barranco-life/Manual420)
 
 ## Cierre
 
 No todos los espacios tienen que participar de la misma manera. Lo importante es que cada uno pueda encontrar una forma honesta, prudente y viva de aportar.
 
-El objetivo no es imponer un molde. Es abrir una posibilidad.
+El objetivo no es imponer un molde. Es abrir una posibilidad replicable.
 
 https://github.com/barranco-life/420/blob/main/es/SPACES.md
