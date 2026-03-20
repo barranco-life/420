@@ -2,7 +2,7 @@
 
 # Espacios Anfitriones
 
-![Encuentro 4/20 en Proyecto Cultural Barranco](../assets/SPACES.jpg)
+![Encuentro 4/20 en Proyecto Cultural Barranco](./assets/SPACES.jpg)
 
 **Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿**  
 *Celebración cultural replicable de ingreso y participación libre*

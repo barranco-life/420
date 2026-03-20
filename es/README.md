@@ -1,7 +1,7 @@
 # Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿
 *Celebración cultural replicable de ingreso y participación libre*
 
-![Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿](../assets/README.jpg)
+![Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿](./assets/README.jpg)
 
 Celebraciones culturales abiertas, cuidadas y replicables para desestigmatizar, visibilizar y madurar la conversación sobre la legalización del cannabis en Bolivia.
 
