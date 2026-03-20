@@ -104,7 +104,7 @@ Con el paso de los años, varias cosas empezaron a volverse difíciles de ignora
 - Que el 4/20 sí puede convocar una comunidad espontánea, diversa y sorprendentemente autorregulada.
 - Que el verdadero valor no está solo en el discurso político, sino en la experiencia social que el encuentro vuelve visible.
 - Que la legalización quizá se acerca mejor desde una estrategia de visibilización y desestigmatización cultural sostenida que desde la confrontación permanente.
- - Que mientras más visible se vuelve la comunidad 4/20 en la vida cultural y social del país —a través de encuentros, celebraciones, debates, expresiones artísticas y otros eventos, estén o no alineados con esta propuesta— más difícil se vuelve tratar el tema como si no existiera o no importara.
+- Que mientras más visible se vuelve la comunidad 4/20 en la vida cultural y social del país —a través de encuentros, celebraciones, debates, expresiones artísticas y otros eventos, estén o no alineados con esta propuesta— más difícil se vuelve tratar el tema como si no existiera o no importara.
 - Que los **espacios anfitriones** son una de las claves más importantes del modelo.
 - Que el **plan de contingencia** es uno de los activos más valiosos construidos por experiencia real.
 - Que no todo tiene que ocurrir igual en todas las sedes.
@@ -124,10 +124,10 @@ El proyecto pasa de parecerse más a una campaña o a un gran evento anual, a en
 - **Espacios anfitriones** como centro estratégico de expansión.
 - **Ingreso y participación libre** como principio cultural.
 - **Prudencia legal y protocolo de seguridad** como base de sostenibilidad.
-- **Manual 4/20** como capa de contexto, memoria y educación.
+- [**Manual 4/20 🌿**](https://manual420.barranco.life) como capa de contexto, memoria y educación.
 - **Pliego petitorio** como dimensión ciudadana abierta a contribuciones.
 
-También cambia el tono y la estrategia: menos búsqueda de choque, más hospitalidad; menos reacción, más ejemplo; menos obsesión por empujar una postura, más interés en mostrar una posibilidad social difícil de reducir a prejuicios. La apuesta es que, mientras la comunidad 4/20, sus celebraciones, sus expresiones culturales y el propio debate se vuelvan cada vez más visibles en la vida pública, más probable será que el tema se consolide como asunto de interés general. En ese sentido, el crecimiento cultural del 4/20 se parece más a la forma en que celebraciones como Halloween se volvieron socialmente inevitables que a una lógica de confrontación permanente.
+También cambia el tono y la estrategia: menos búsqueda de choque, más hospitalidad; menos reacción, más ejemplo; menos obsesión por empujar una postura, más interés en mostrar una posibilidad social difícil de reducir a prejuicios. La apuesta es que, mientras la comunidad 4/20, sus celebraciones, sus expresiones culturales y el propio debate se vuelvan cada vez más visibles en la vida pública, más probable será que el tema se consolide como asunto de interés general. No se trata de insistir solo desde la confrontación, sino de volver esta realidad cada vez más legible, presente e imposible de ignorar en la experiencia social del país.
 
 [Volver al índice](#índice)
 
@@ -139,8 +139,8 @@ Este archivo dialoga especialmente con:
 - [Espacios anfitriones](./SPACES.md)
 - [Mapa de participación y convocatorias](./PARTICIPATE.md)
 - [Pliego petitorio](./PETITION.md)
-- [Comunidad, canales y capas de participación](./COMMUNITY.md) *(en desarrollo)*
-- [Manual 4/20](https://manual420.barranco.life)
+- [Comunidad](./COMMUNITY.md)
+- [Manual 4/20 🌿](https://manual420.barranco.life)
 
 [Volver al índice](#índice)
 

@@ -38,7 +38,7 @@ No hace falta encajar de inmediato en una categoría cerrada. Si una propuesta t
 
 ### Espacios anfitriones
 
-La convocatoria principal de esta primera etapa está enfocada en **espacios anfitriones**.
+La convocatoria principal de esta primera etapa está enfocada en **espacios anfitriones** y en formas cercanas de sumarse a esa red.
 
 [Volver al índice](#índice)
 
@@ -67,13 +67,13 @@ La idea no es tratarlo como un texto cerrado o definitivo, sino como un document
 **Formulario activo:**  
 https://forms.gle/96XH81TFQrCX1R7U6
 
-Más contexto aquí:
+Más contexto:
 
 - [Pliego petitorio y proceso de contribución](./PETITION.md) *(en desarrollo)*
 
 ## Convocatorias que se anunciarán a continuación
 
-Estas convocatorias forman parte de la estructura del encuentro y se irán habilitando progresivamente.
+Estas convocatorias forman parte de la estructura del encuentro y se irán habilitando progresivamente en los próximos días.
 
 ### Artistas y música
 
@@ -81,7 +81,7 @@ Para DJs, bandas, músicos y otros formatos sonoros o escénicos que quieran sum
 
 [Volver al índice](#índice)
 
-**Formulario:** LINK_FORM_ARTISTAS_POR_PUBLICAR
+**Formulario:** Convocatoria en los próximos días.
 
 ### Artistas visuales / expo / galería
 
@@ -91,7 +91,7 @@ Nos interesa especialmente abrir espacio a obras que puedan habitar una galería
 
 [Volver al índice](#índice)
 
-**Formulario:** LINK_FORM_EXPO_POR_PUBLICAR
+**Formulario:** Convocatoria en los próximos días.
 
 ### Panelistas / coloquio / conversación pública
 
@@ -103,7 +103,7 @@ Esta participación puede ser **presencial o virtual**.
 
 [Volver al índice](#índice)
 
-**Formulario:** LINK_FORM_PANELES_POR_PUBLICAR
+**Formulario:** Convocatoria en los próximos días.
 
 ### Emprendimientos
 
@@ -111,7 +111,7 @@ Para propuestas que quieran participar en ferias o espacios de circulación púb
 
 [Volver al índice](#índice)
 
-**Formulario:** LINK_FORM_EMPRENDIMIENTOS_POR_PUBLICAR
+**Formulario:** Convocatoria en los próximos días.
 
 ### Eventos virtuales / streams / lives
 
@@ -121,7 +121,7 @@ Estos enlaces se compartirán como parte del movimiento. Cuando haga sentido, en
 
 [Volver al índice](#índice)
 
-**Formulario:** LINK_FORM_VIRTUALES_POR_PUBLICAR
+**Formulario:** Convocatoria en los próximos días.
 
 ## Otras formas de sumarse
 
@@ -132,9 +132,9 @@ Ejemplos posibles:
 - Recomendar una sede posible.
 - Ayudar a tender puentes con prensa, artistas, colectivos o espacios aliados.
 - Compartir gráficas, estados, historias o links.
-- Difundir eventos oficiales y también otros eventos 4/20 que aporten a la visibilización cultural del día.
+- Difundir eventos oficiales y también otros eventos 4/20 que ayuden a volver más visible la comunidad, la fecha y el debate en la vida pública.
 - Proponer una categoría nueva que todavía no haya sido considerada.
-- Aportar ideas, materiales o aprendizajes que luego puedan fortalecer el [Manual 4/20](https://manual420.barranco.life).
+- Aportar ideas, materiales o aprendizajes que luego puedan fortalecer el [Manual 4/20 🌿](https://manual420.barranco.life).
 
 Si algo no encaja todavía en una convocatoria formal, la comunidad puede ayudar a ubicarlo mejor.
 
@@ -170,10 +170,10 @@ Este archivo dialoga especialmente con:
 
 - [README del encuentro](./README.md)
 - [Espacios anfitriones](./SPACES.md)
-- [Pliego petitorio y proceso de contribución](./PETITION.md) *(en desarrollo)*
-- [Historia breve y aprendizajes](./HISTORY.md) *(en desarrollo)*
-- [Comunidad, canales y capas de participación](./COMMUNITY.md) *(en desarrollo)*
-- [Manual 4/20](https://manual420.barranco.life)
+- [Pliego petitorio](./PETITION.md)
+- [Historia y aprendizajes](./HISTORY.md)
+- [Comunidad](./COMMUNITY.md)
+- [Manual 4/20 🌿](https://manual420.barranco.life)
 
 [Volver al índice](#índice)
 
@@ -184,5 +184,4 @@ No todas las puertas de entrada tienen que abrirse el mismo día. Lo importante 
 Participar no es solo “asistir” o “actuar”: también puede ser alojar, difundir, observar, proponer, transmitir, documentar o ayudar a que otras personas se animen.
 
 [Volver al índice](#índice)
-
 https://github.com/barranco-life/420/blob/main/es/PARTICIPATE.md

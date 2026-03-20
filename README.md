@@ -1,5 +1,6 @@
 # Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿
 *National 4/20²⁶ Pro-Legalization Gathering 🌿*
+![Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿](./es/assets/README.jpg)
 
 Replicable cultural celebration of free entry and free participation, open to host spaces, collaborators, virtual celebrations, and future adaptations in other territories, languages, and legal contexts.
 
@@ -7,8 +8,7 @@ Open repository for a replicable cultural 4/20 celebration rooted in Bolivia: fr
 
 **¿Buscas la versión en español?** → [`es/README.md`](./es/README.md)
 
-> [!NOTE]
-> This project is currently being developed primarily in Spanish. The canonical version for now lives in [`es/README.md`](./es/README.md).
+> 🌿 This project is currently being developed primarily in Spanish. The canonical version for now lives in [`es/README.md`](./es/README.md).
 
 ## Community
 
@@ -63,8 +63,8 @@ Other participation channels are being prepared next, including artists, visual 
 ## Reference links
 
 - [Proyecto Cultural Barranco](https://barranco.life)
-- [Voluntariado Barranco](https://github.com/barranco-life/Voluntariado)
-- [Manual 4/20](https://github.com/barranco-life/Manual420)
+- [Voluntariado Barranco](https://voluntariado.barranco.life/)
+- [Manual 4/20 🌿](https://manual420.barranco.life)
 
 ## Status
 

@@ -11,11 +11,9 @@
 - **Proyecto Cultural Barranco (Maps):** https://goo.gl/maps/iWB6R5HZnREL7ALKA
 - **Versión siempre actualizada de este documento:** https://github.com/barranco-life/420/blob/main/es/SPACES.md
 
-> [!IMPORTANT]
-> Este documento tiene un enfoque cultural, organizativo y preventivo. No promueve la vulneración de la ley ni ofrece instrucciones para delinquir. En Bolivia rige la **Ley 1008**, por lo que cada espacio y cada persona debe actuar con pleno conocimiento del marco legal vigente, sus propios límites y su responsabilidad individual.
+> ⚠️ Este documento tiene un enfoque cultural, organizativo y preventivo. No promueve la vulneración de la ley ni ofrece instrucciones para delinquir. En Bolivia rige la **Ley 1008**, por lo que cada espacio y cada persona debe actuar con pleno conocimiento del marco legal vigente, sus propios límites y su responsabilidad individual.
 
-> [!NOTE]
-> **Contenido sugerido para carteles visibles sobre la Ley 1008:**  
+> ℹ️ **Contenido sugerido para carteles visibles sobre la Ley 1008:**  
 > **La comercialización o consumo de cannabis u otras sustancias controladas, en contravención a la Ley 1008, no es promovido ni permitido en este evento. La responsabilidad legal recae en cada persona por sus propios actos. El espacio se reserva el derecho de pedir el retiro de quien comprometa la seguridad o la continuidad de la actividad.**
 
 ## Qué es un espacio anfitrión
@@ -97,7 +95,7 @@ Ejemplos:
 - Invitar a artistas o aliados.
 - Poner una pieza gráfica en cartelera o mostrador.
 - Ayudar a tender puentes con prensa, colectivos o espacios amigos.
-- Difundir también otros eventos 4/20 que, aunque no estén alineados del todo con esta propuesta, aporten a la visibilización cultural del día.
+- Difundir también otros eventos 4/20 que, aunque no estén alineados del todo con esta propuesta, ayuden a volver más visible la comunidad, la fecha y el debate en la vida pública.
 
 Esta modalidad es importante porque reduce la barrera de entrada: no todo el mundo tiene que organizar un evento para formar parte del movimiento. También permite que espacios, proyectos, empresas o comunidades puedan ser reconocidos como aliados o pro legalización sin asumir el mismo nivel de exposición que una sede anfitriona.
 
@@ -159,7 +157,7 @@ Cada espacio debería contar con señalización clara y sobria que recuerde, al 
 - Que la responsabilidad legal recae en cada persona por sus propios actos.
 - Que el espacio se reserva el derecho de pedir el retiro de quien comprometa la seguridad o la continuidad del encuentro.
 
-El encuentro compartirá contenido base de carteles alusivos a la Ley 1008 para que cada espacio pueda imprimirlos y adaptarlos según su realidad. Esto forma parte del plan de contingencia general y también dialoga con el Manual 4/20 como aprendizaje replicable.
+El encuentro compartirá contenido base de carteles alusivos a la Ley 1008 para que cada espacio pueda imprimirlos y adaptarlos según su realidad. Esto forma parte del plan de contingencia general y también dialoga con el [Manual 4/20 🌿](https://manual420.barranco.life) como aprendizaje replicable.
 
 ### Control de ingreso y zonas sensibles
 
@@ -273,11 +271,11 @@ La meta no es sumar por sumar, sino sumar con claridad y base real.
 Este archivo dialoga especialmente con:
 
 - [README del encuentro](./README.md)
-- [Mapa de participación y convocatorias](./PARTICIPATE.md) *(en desarrollo)*
-- [Pliego petitorio y proceso de contribución](./PETITION.md) *(en desarrollo)*
-- [Historia breve y aprendizajes](./HISTORY.md) *(en desarrollo)*
-- [Comunidad, canales y capas de participación](./COMMUNITY.md) *(en desarrollo)*
-- [Manual 4/20](https://github.com/barranco-life/Manual420)
+- [Participar](./PARTICIPATE.md)
+- [Pliego petitorio](./PETITION.md)
+- [Historia y aprendizajes](./HISTORY.md)
+- [Comunidad](./COMMUNITY.md)
+- [Manual 4/20 🌿](https://manual420.barranco.life)
 
 ## Cierre
 

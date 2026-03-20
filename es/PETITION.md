@@ -28,8 +28,7 @@ Este pliego busca expresar, de manera clara y abierta, que:
 
 ## Versión inicial del pliego
 
-> [!NOTE]
-> Esta es una **versión inicial abierta** del pliego. No pretende ser una versión final ni cerrada. Se publica desde ahora para que pueda ser leída, discutida, firmada, criticada y enriquecida con aportes de la comunidad.
+> ℹ️ Esta es una **versión inicial abierta** del pliego. No pretende ser una versión final ni cerrada. Se publica desde ahora para que pueda ser leída, discutida, firmada, criticada y enriquecida con aportes de la comunidad.
 
 **A las autoridades del Estado Plurinacional de Bolivia, y a la sociedad boliviana en su conjunto:**
 
@@ -39,7 +38,7 @@ Lo hacemos desde una convicción simple: el enfoque actual no está resolviendo 
 
 Pedimos que el cannabis deje de ser abordado únicamente desde una mirada punitiva o estigmatizante, y que se reconozca la necesidad de revisar el marco vigente a la luz de múltiples dimensiones que ya no pueden seguir siendo ignoradas:
 
-- **Dimensión cultural:** Existe una cultura viva alrededor del cannabis que no se reduce a prejuicios ni a caricaturas. Hay comunidad, arte, conversación, búsqueda de bienestar, autorregulación social y experiencias colectivas que merecen ser observadas con mayor seriedad.
+- **Dimensión cultural:** Existe una cultura viva alrededor del cannabis que no se reduce a prejuicios ni a reducciones simplistas. Hay comunidad, arte, conversación, búsqueda de bienestar, autorregulación social y experiencias colectivas que merecen ser observadas con mayor seriedad.
 - **Dimensión médica:** Cada vez hay más interés social y evidencia internacional en torno a usos terapéuticos y aplicaciones clínicas del cannabis y sus derivados. El debate boliviano no debería seguir dándole la espalda a esta realidad.
 - **Dimensión industrial y económica:** El cannabis y el cáñamo tienen potencial productivo, industrial y económico en áreas que van mucho más allá del consumo recreativo. Mantener un enfoque rígido impide incluso discutir esas posibilidades con seriedad.
 - **Dimensión social y jurídica:** La persecución, el estigma y la confusión legal no están ayudando a construir una sociedad más sana ni más libre. En muchos casos, solo profundizan miedo, arbitrariedad, extorsión, prejuicios y falta de información.
@@ -77,11 +76,11 @@ El Encuentro Nacional 4/20²⁶ 🌿 busca abrir celebraciones culturales replic
 
 El pliego acompaña esa estrategia desde otro lugar: intenta poner en palabras parte de lo que esas celebraciones muestran en la práctica.
 
-En otras palabras, el encuentro crea experiencia social; el pliego intenta convertir parte de esa experiencia en una invitación pública a revisar prejuicios, abrir debate y madurar la conversación sobre la legalización.
+En otras palabras, el encuentro crea experiencia social; el pliego intenta convertir parte de esa experiencia en una invitación pública a revisar prejuicios, abrir debate y madurar la conversación sobre la legalización. La apuesta es que, a medida que la comunidad 4/20, sus celebraciones y el propio debate se vuelvan más visibles en la vida pública, el tema se vuelva también más difícil de ignorar para autoridades, medios y actores políticos.
 
 ## Relación con el Manual 4/20
 
-Este documento quiere dialogar cada vez mejor con el [Manual 4/20](https://manual420.barranco.life).
+Este documento quiere dialogar cada vez mejor con el [Manual 4/20 🌿](https://manual420.barranco.life).
 
 La idea es que el pliego no dependa solo de opiniones o slogans, sino que pueda fortalecerse con contexto, referencias, lenguaje más preciso y aprendizajes mejor documentados. A su vez, el manual puede ayudar a que este pliego se vuelva más útil, más claro y menos reactivo.
 
@@ -141,9 +140,9 @@ Este archivo dialoga especialmente con:
 - [README del encuentro](./README.md)
 - [Espacios anfitriones](./SPACES.md)
 - [Mapa de participación y convocatorias](./PARTICIPATE.md)
-- [Historia breve y aprendizajes](./HISTORY.md) *(en desarrollo)*
-- [Comunidad, canales y capas de participación](./COMMUNITY.md) *(en desarrollo)*
-- [Manual 4/20](https://manual420.barranco.life)
+- [Historia y aprendizajes](./HISTORY.md)
+- [Comunidad](./COMMUNITY.md)
+- [Manual 4/20 🌿](https://manual420.barranco.life)
 
 ## Cierre
 

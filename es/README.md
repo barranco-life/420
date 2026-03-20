@@ -5,8 +5,7 @@
 
 Celebraciones culturales abiertas, cuidadas y replicables para desestigmatizar, visibilizar y madurar la conversación sobre la legalización del cannabis en Bolivia.
 
-> [!NOTE]
-> La comunidad real de este proyecto vive primero en WhatsApp: [Comunidad 4/20](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t). Este repositorio existe para documentar, clarificar y fortalecer lo que la comunidad va construyendo, no para reemplazarla.
+> 🌿 La comunidad real de este proyecto vive primero en WhatsApp: [Comunidad 4/20](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t). Este repositorio existe para documentar, clarificar y fortalecer lo que la comunidad va construyendo, no para reemplazarla.
 
 ## Qué es
 
@@ -22,7 +21,7 @@ El 4/20 muestra que sí es posible una comunidad espontánea, diversa, colaborat
 
 Creemos que celebraciones culturales abiertas, cuidadas y cada vez más visibles pueden ayudar a desestigmatizar esta cultura ante la sociedad, sumar a escépticos y público general, e ir acercando el país a una conversación más madura sobre la legalización. No buscamos la confrontación como estrategia principal, sino la visibilización social a través del ejemplo, la hospitalidad, la cultura y la experiencia compartida.
 
-Esa es, en el fondo, nuestra estrategia hacia la legalización: algo más parecido a cómo ciertas celebraciones se vuelven parte de la cultura con el tiempo —como Halloween— que a una lógica de choque permanente entre convencidos y autoridades.
+Esa es, en el fondo, nuestra estrategia hacia la legalización: ayudar a que la comunidad 4/20, sus celebraciones, sus expresiones culturales y el propio debate se vuelvan cada vez más visibles en la vida pública. Creemos que, mientras más presente se haga este tema en la experiencia social general —desde eventos alineados con esta propuesta o incluso desde otros que no lo estén del todo— más difícil será seguir tratándolo como algo marginal o ajeno al interés general. No apostamos a una lógica de choque permanente entre convencidos y autoridades, sino a una visibilización cultural sostenida que vuelva este tema cada vez más legible, cercano e imposible de ignorar.
 
 ## Qué lo hace distinto
 
@@ -60,8 +59,8 @@ No todos los espacios o participantes tienen que sumarse de la misma manera. Par
 ### Espacio anfitrión público
 Sede visible que convoca, aloja actividades y se suma de forma abierta al encuentro.
 
-### Espacio anfitrión discreto
-Participa con menor exposición pública o con una estrategia de comunicación más cuidadosa.
+### Locación secreta
+Participa con una estrategia de comunicación más cuidada, revelando la locación al público recién la noche anterior o con muy poca anticipación cuando haga sentido.
 
 ### Punto de apoyo o difusión
 No organiza necesariamente una celebración completa, pero ayuda a visibilizar el encuentro con una recomendación, un QR, una historia, una mención, una cartelera o una invitación.
@@ -87,15 +86,15 @@ La idea no es que alguien tenga que salir perdiendo por participar en una celebr
 
 Si hay coloquio en esta edición, no buscamos repetir una conversación cerrada entre personas ya convencidas sobre por qué “debería” legalizarse el cannabis.
 
-Nos interesa más abrir conversaciones útiles para el momento actual: cómo organizar celebraciones culturalmente defendibles, cómo convivir con libertad y límites claros, cómo desestigmatizar ante escépticos y público general, y qué aprendizajes pueden alimentar el [Manual 4/20](https://github.com/barranco-life/Manual420).
+Nos interesa más abrir conversaciones útiles para el momento actual: cómo organizar celebraciones culturalmente defendibles, cómo convivir con libertad y límites claros, cómo desestigmatizar ante escépticos y público general, y qué aprendizajes pueden alimentar el [Manual 4/20 🌿](https://manual420.barranco.life).
 
 ## Documentos clave
 
-- [Espacios anfitriones y modalidades de participación](./SPACES.md) *(en desarrollo)*
-- [Mapa de participación y convocatorias](./PARTICIPATE.md) *(en desarrollo)*
-- [Pliego petitorio y proceso de contribución](./PETITION.md) *(en desarrollo)*
-- [Historia breve y aprendizajes](./HISTORY.md) *(en desarrollo)*
-- [Comunidad, canales y capas de participación](./COMMUNITY.md) *(en desarrollo)*
+- [Espacios anfitriones](./SPACES.md) — modalidades de participación, tipos de sedes, plan de contingencia y protocolo de seguridad.
+- [Participar](./PARTICIPATE.md) — mapa de convocatorias activas y próximas formas de sumarse.
+- [Pliego petitorio](./PETITION.md) — versión inicial abierta del pliego y forma de aportar.
+- [Historia y aprendizajes](./HISTORY.md) — memoria del proceso 2022–2025 y giro conceptual hacia 2026.
+- [Comunidad](./COMMUNITY.md) — capas de participación, eventos alineados y no alineados, y relación con Voluntariado Barranco.
 
 ## Formularios y llamados
 
@@ -106,18 +105,18 @@ Nos interesa más abrir conversaciones útiles para el momento actual: cómo org
 
 ### Próximos
 
-- **Artistas y música:** LINK_FORM_ARTISTAS_POR_PUBLICAR
-- **Artistas visuales / expo / galería:** LINK_FORM_EXPO_POR_PUBLICAR
-- **Panelistas / coloquio:** LINK_FORM_PANELES_POR_PUBLICAR
-- **Emprendimientos:** LINK_FORM_EMPRENDIMIENTOS_POR_PUBLICAR
-- **Eventos virtuales / streams:** LINK_FORM_VIRTUALES_POR_PUBLICAR
+- **Artistas y música:** Convocatoria en los próximos días.
+- **Artistas visuales / expo / galería:** Convocatoria en los próximos días.
+- **Panelistas / coloquio:** Convocatoria en los próximos días.
+- **Emprendimientos:** Convocatoria en los próximos días.
+- **Eventos virtuales / streams:** Convocatoria en los próximos días.
 
 ## Enlaces clave
 
 - [Comunidad 4/20 en WhatsApp](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t)
 - [Proyecto Cultural Barranco](https://barranco.life)
-- [Voluntariado Barranco](https://github.com/barranco-life/Voluntariado)
-- [Manual 4/20](https://github.com/barranco-life/Manual420)
+- [Voluntariado Barranco](https://voluntariado.barranco.life/)
+- [Manual 4/20 🌿](https://manual420.barranco.life)
 
 ## Estado
 
