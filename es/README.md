@@ -7,6 +7,13 @@ Celebraciones culturales abiertas, cuidadas y replicables para desestigmatizar, 
 
 > 🌿 La comunidad real de este proyecto vive primero en WhatsApp: [Comunidad 4/20](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t). Este repositorio existe para documentar, clarificar y fortalecer lo que la comunidad va construyendo, no para reemplazarla.
 
+## Novedades
+> 🌿 Ya están activos los formularios de **Espacios Anfitriones** y **Pliego Petitorio**.
+>
+> - [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8)
+> - [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6)
+> - Las convocatorias para *artistas, artistas visuales / expo, panelistas, emprendimientos y eventos virtuales* se abrirán en los próximos días.
+
 ## Qué es
 
 **Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿** es una infraestructura abierta para celebraciones culturales 4/20 de **ingreso y participación libre**.
@@ -100,8 +107,8 @@ Nos interesa más abrir conversaciones útiles para el momento actual: cómo org
 
 ### Activos ahora
 
-- **Proponer un espacio anfitrión:** https://forms.gle/9KaoCBb7iaB3PV6x8
-- **Firmar / aportar al pliego petitorio:** https://forms.gle/96XH81TFQrCX1R7U6
+- **Proponer un espacio anfitrión:** [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8)
+- **Firmar / aportar al pliego petitorio:** [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6)
 
 ### Próximos
 
@@ -113,7 +120,7 @@ Nos interesa más abrir conversaciones útiles para el momento actual: cómo org
 
 ## Enlaces clave
 
-- [Comunidad 4/20 en WhatsApp](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t)
+- [4/20²⁶ 🪴 en WhatsApp](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00)
 - [Proyecto Cultural Barranco](https://barranco.life)
 - [Voluntariado Barranco](https://voluntariado.barranco.life/)
 - [Manual 4/20 🌿](https://manual420.barranco.life)
@@ -123,5 +130,6 @@ Nos interesa más abrir conversaciones útiles para el momento actual: cómo org
 Este repositorio está siendo reestructurado para la edición 2026.
 
 La intención es documentar no solo una fecha, sino una forma viva, abierta y replicable de organizar celebraciones culturales 4/20 con cuidado, libertad, límites claros, participación más justa y rendición transparente.
+
 
 https://github.com/barranco-life/420/blob/main/es/README.md

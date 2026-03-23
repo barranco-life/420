@@ -7,14 +7,24 @@
 **Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿**  
 *Celebración cultural replicable de ingreso y participación libre*
 
-- **Comunidad 4/20 (WhatsApp):** https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t
-- **Proyecto Cultural Barranco (Maps):** https://goo.gl/maps/iWB6R5HZnREL7ALKA
-- **Versión siempre actualizada de este documento:** https://github.com/barranco-life/420/blob/main/es/SPACES.md
+- [Comunidad 4/20²⁶ 🌿](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00) (WhatsApp)
+- [Proyecto Cultural Barranco](https://goo.gl/maps/iWB6R5HZnREL7ALKA) (Maps)
+- [Versión siempre actualizada de este documento](https://github.com/barranco-life/420/blob/main/es/SPACES.md)
 
 > ⚠️ Este documento tiene un enfoque cultural, organizativo y preventivo. No promueve la vulneración de la ley ni ofrece instrucciones para delinquir. En Bolivia rige la **Ley 1008**, por lo que cada espacio y cada persona debe actuar con pleno conocimiento del marco legal vigente, sus propios límites y su responsabilidad individual.
 
-> ℹ️ **Contenido sugerido para carteles visibles sobre la Ley 1008:**  
-> **La comercialización o consumo de cannabis u otras sustancias controladas, en contravención a la Ley 1008, no es promovido ni permitido en este evento. La responsabilidad legal recae en cada persona por sus propios actos. El espacio se reserva el derecho de pedir el retiro de quien comprometa la seguridad o la continuidad de la actividad.**
+> ℹ️ Contenido sugerido para carteles visibles sobre la Ley 1008: 
+> La comercialización o consumo de cannabis u otras sustancias controladas, en contravención a la Ley 1008, no es promovido ni permitido en este evento. La responsabilidad legal recae en cada persona por sus propios actos. El espacio se reserva el derecho de pedir el retiro de quien comprometa la seguridad o la continuidad de la actividad.
+
+## Índice
+
+- [Qué es un espacio anfitrión](#qué-es-un-espacio-anfitrión)
+- [Por qué sumarse](#por-qué-sumarse)
+- [Modalidades de participación](#modalidades-de-participación)
+- [Plan de contingencia y protocolo de seguridad](#plan-de-contingencia-y-protocolo-de-seguridad)
+- [Participación justa, costos y transparencia](#participación-justa-costos-y-transparencia)
+- [Cómo proponer un espacio](#cómo-proponer-un-espacio)
+- [Relación con otros documentos](#relación-con-otros-documentos)
 
 ## Qué es un espacio anfitrión
 
@@ -24,7 +34,9 @@ No todos los espacios tienen que participar del mismo modo ni con el mismo nivel
 
 La intención no es imponer un formato único, sino abrir una estructura replicable, prudente y hospitalaria que otras personas puedan adaptar según su contexto, su ciudad, su comunidad y su marco legal.
 
-## Qué tipos de espacios pueden sumarse
+[Volver al índice](#índice)
+
+### Tipos de espacios que pueden sumarse
 
 El encuentro puede dialogar con muchos tipos de espacios, siempre que exista coherencia con su espíritu general y con las realidades legales de cada caso.
 
@@ -53,6 +65,8 @@ Sumarse como espacio anfitrión puede aportar a varias cosas al mismo tiempo:
 - **Puerta de entrada para escépticos y público general:** Ofrecer una experiencia humana, cultural y observacional también para quienes no consumen o no están convencidos.
 - **Construcción de red:** Conectar espacios, artistas, comunidades, transmisiones, ideas y aprendizajes alrededor de una misma fecha.
 - **Aporte a una estrategia de legalización no confrontacional:** Creemos que celebraciones abiertas, cuidadas y cada vez más visibles pueden acercar al país a una conversación más seria sobre la legalización, más por ejemplo, hospitalidad y experiencia compartida que por choque permanente.
+
+[Volver al índice](#índice)
 
 ## Modalidades de participación
 
@@ -123,6 +137,8 @@ Ejemplos posibles:
 - Microencuentro barrial.
 - Intervención artística temporal.
 - Colaboración entre sedes.
+
+[Volver al índice](#índice)
 
 ## Principios mínimos para sumarse
 
@@ -197,7 +213,9 @@ Si ocurre un control o inspección:
 - Comunicar la situación con serenidad, evitando pánico o reacciones torpes.
 - Reafirmar que el espacio ha establecido medidas preventivas y que la responsabilidad individual no desaparece por estar dentro del evento.
 
-## Orientaciones básicas de prudencia organizativa
+[Volver al índice](#índice)
+
+### Orientaciones básicas de prudencia organizativa
 
 Sin convertir esto en una receta rígida, hay algunas orientaciones que conviene considerar desde el inicio:
 
@@ -222,7 +240,7 @@ Sin convertir esto en una receta rígida, hay algunas orientaciones que conviene
 - Una sede pequeña y bien cuidada puede ser tan valiosa como una más grande.
 - Es mejor una propuesta simple y sostenible que una ambiciosa y mal contenida.
 
-## Coloquio y participación remota
+### Coloquio y participación remota
 
 Si una sede incluye coloquio o conversación pública, no todo tiene que ocurrir de forma presencial. También pueden sumarse participantes virtuales junto con personas locales, como ya ocurrió en ediciones pasadas.
 
@@ -230,7 +248,7 @@ Eso puede ampliar voces, reducir costos y conectar mejor el encuentro con otras 
 
 ## Participación justa, costos y transparencia
 
-Si una sede genera ingresos —por barra u otra actividad pública— la intención general del encuentro es priorizar primero las necesidades operativas reales del evento.
+Si una sede genera ingresos —por barra u otra actividad pública— la intención general es priorizar primero las necesidades operativas reales del evento.
 
 Eso puede incluir, según el caso:
 - Transporte especial.
@@ -239,20 +257,19 @@ Eso puede incluir, según el caso:
 - Personal operativo indispensable.
 - Cuidados mínimos para que artistas y participantes clave no tengan que salir perdiendo por sumarse.
 
-Si después de cubrir lo necesario queda excedente, puede aportar a la caja de **Voluntariado Barranco**, siempre con una lógica de rendición clara y comprensible.
+Si después de cubrir lo necesario queda excedente, cada espacio puede decidir con transparencia cómo destinar una parte de esos fondos según su propia lógica. En casos como **Proyecto Cultural Barranco**, eso podría incluir un aporte a la caja de **Voluntariado Barranco**, pero no es una exigencia general para otras sedes.
 
 La idea no es romantizar el voluntariado como si eso justificara precariedad. La idea es sostener una celebración libre y hospitalaria con mayor justicia, cuidado y transparencia.
+
+[Volver al índice](#índice)
 
 ## Cómo proponer un espacio
 
 En esta primera etapa, la convocatoria principal está enfocada en espacios anfitriones.
 
-**Formulario activo:**  
-https://forms.gle/9KaoCBb7iaB3PV6x8
+**Formulario activo:** [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8)
 
-Si tienes dudas antes de llenar el formulario, puedes escribir primero a la comunidad:
-
-https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t
+Si tienes dudas antes de llenar el formulario, puedes escribir primero a [4/20²⁶ 🌿](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00).
 
 ## Qué pasa después de proponer un espacio
 
@@ -266,21 +283,19 @@ En general, el proceso busca ser simple:
 
 La meta no es sumar por sumar, sino sumar con claridad y base real.
 
+[Volver al índice](#índice)
+
 ## Relación con otros documentos
 
 Este archivo dialoga especialmente con:
 
-- [README del encuentro](./README.md)
+- [Página principal del encuentro](./README.md)
 - [Participar](./PARTICIPATE.md)
 - [Pliego petitorio](./PETITION.md)
 - [Historia y aprendizajes](./HISTORY.md)
 - [Comunidad](./COMMUNITY.md)
 - [Manual 4/20 🌿](https://manual420.barranco.life)
 
-## Cierre
-
 No todos los espacios tienen que participar de la misma manera. Lo importante es que cada uno pueda encontrar una forma honesta, prudente y viva de aportar.
 
 El objetivo no es imponer un molde. Es abrir una posibilidad replicable.
-
-https://github.com/barranco-life/420/blob/main/es/SPACES.md
