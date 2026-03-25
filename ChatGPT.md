@@ -325,6 +325,8 @@ Root `README.md` is in English, short, and should point clearly to `es/README.md
 - Avoid excessive repetition.
 - Make docs readable end-to-end without becoming a torture.
 - Use links between docs to improve discoverability.
+- In public docs, prefer a small number of meaningful inline links in the body rather than a block of utility links at the top.
+- For shorter docs, one well-placed link per key concept near its first mention is usually enough.
 - Use the custom domains where useful.
 - Keep canonical URL at end of docs if that pattern is currently used; be consistent.
 
@@ -338,9 +340,37 @@ Pattern:
 
 Rules:
 
-- first breadcrumb item can be link;
-- current page should be plain text, not linked;
-- avoid generic `Inicio`.
+- The breadcrumb is its own first line.
+- The breadcrumb is not the document title.
+- The first breadcrumb item can be a link.
+- The current page should be plain text, not linked.
+- Avoid generic Inicio.
+
+Recommended opening order for public docs:
+
+1. Breadcrumb
+2. Optional image
+3. H1 title
+4. Two-line event naming block if useful
+5. Short callout(s)
+
+Do not collapse breadcrumb and H1 into the same line.
+
+### Images near the top
+
+When a doc uses a header image, prefer this placement:
+
+- breadcrumb
+- image
+- H1
+
+For docs under /es/, prefer image paths like:
+
+- ./assets/README.jpg
+- ./assets/SPACES.jpg
+- ./assets/ARTISTS.jpg
+
+Avoid placing large utility link lists above the image unless truly necessary.
 
 ### Callouts
 
@@ -364,6 +394,11 @@ Usually avoid for shorter docs like:
 
 - `COMMUNITY`
 - `PETITION`
+- `ARTISTS`
+- `EXHIBITION`
+- `COLOQUIO`
+- `VENTURES`
+- `VIRTUAL`
 
 unless they grow enough to need one.
 
@@ -383,6 +418,13 @@ Avoid:
 - `caricaturas`
 
 ### Links
+
+- In documents Markdown, prefer links dentro del texto.
+- Minimize raw URLs inside the body.
+- For shorter docs, avoid top-of-file utility link lists unless they add real navigation value.
+- When a document invites action, include relevant links where they are most useful to the reader.
+- Prefer linking meaningful keywords or first mentions rather than repeating the same destination many times.
+- If direct links are shared at the end, they should be used consistently and only when they still add value.
 
 When referring publicly to related projects, prefer domains over GitHub repo links:
 
@@ -432,9 +474,21 @@ After the current phase of core docs, the next steps expected are:
 - forms refinement;
 - repo/site cross-linking review;
 - possible content migration between 420 and manual;
+- last-pass cross-linking between docs, including links to specific sections when that gives better orientation than only linking to whole documents;
 - public-friendliness pass to reduce repetition and overlong reading;
 - About/metadata/topics polish in GitHub;
 - ensuring repo root and site root stay aligned.
+
+## Anti-regression reminders
+
+When iterating on this repo, actively avoid these regressions:
+
+- collapsing breadcrumb and title into one line;
+- moving utility links back to the top of shorter docs without need;
+- leaving raw URLs inside the body when a keyword link would work better;
+- forgetting to connect new docs back into the rest of the repo;
+- treating artist/expo docs as if they were written primarily for host spaces when they are first-facing CTAs to participants;
+- forgetting to distinguish what is general to the encounter from what is specific to Proyecto Cultural Barranco as a reference case.
 
 ## Recovery intent
 

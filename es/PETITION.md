@@ -2,11 +2,14 @@
 
 # Pliego Petitorio
 
+![Pliego Petitorio](./assets/PETITION.jpg)
+
 **Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿**  
 *Celebración cultural replicable de ingreso y participación libre*
 
-- **Comunidad 4/20 (WhatsApp):** https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t
-- **Versión siempre actualizada de este documento:** https://github.com/barranco-life/420/blob/main/es/PETITION.md
+> 🌿 El pliego no está aquí para cerrar una conversación, sino para ayudar a abrirla mejor.
+
+> 🌿 Si el encuentro muestra una posibilidad en la práctica, el pliego intenta darle una forma pública que pueda crecer, afinarse y servir más allá de una sola fecha.
 
 ## Qué es este pliego
 
@@ -101,12 +104,9 @@ No buscamos solo “sumar firmas”. Buscamos que el propio texto mejore y que, 
 
 En esta etapa, la forma activa de aportar al pliego es a través del formulario de firmas y contribuciones:
 
-**Formulario activo:**  
-https://forms.gle/96XH81TFQrCX1R7U6
+**Formulario activo:** [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6)
 
-También puedes acercarte a la comunidad:
-
-https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t
+También puedes acercarte a la [comunidad 4/20²⁶ 🪴](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00).
 
 ## Qué tipo de mejoras buscamos
 
@@ -137,17 +137,9 @@ Su valor no está en aparentar cierre, sino en abrir una base común que pueda v
 
 Este archivo dialoga especialmente con:
 
-- [README del encuentro](./README.md)
+- [Página principal del encuentro](./README.md)
 - [Espacios anfitriones](./SPACES.md)
 - [Mapa de participación y convocatorias](./PARTICIPATE.md)
 - [Historia y aprendizajes](./HISTORY.md)
 - [Comunidad](./COMMUNITY.md)
 - [Manual 4/20 🌿](https://manual420.barranco.life)
-
-## Cierre
-
-El pliego no está aquí para cerrar una conversación, sino para ayudar a abrirla mejor.
-
-Si el encuentro muestra una posibilidad en la práctica, el pliego intenta darle una forma pública que pueda crecer, afinarse y servir más allá de una sola fecha.
-
-https://github.com/barranco-life/420/blob/main/es/PETITION.md

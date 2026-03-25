@@ -5,14 +5,21 @@
 
 Celebraciones culturales abiertas, cuidadas y replicables para desestigmatizar, visibilizar y madurar la conversación sobre la legalización del cannabis en Bolivia.
 
-> 🌿 La comunidad real de este proyecto vive primero en WhatsApp: [Comunidad 4/20](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t). Este repositorio existe para documentar, clarificar y fortalecer lo que la comunidad va construyendo, no para reemplazarla.
+> 🌿 La comunidad real de este proyecto vive primero en [4/20²⁶ 🪴](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00). Este repositorio existe para documentar, clarificar y fortalecer lo que la comunidad va construyendo, no para reemplazarla.
+>
+> 🌿 En esta fase ya están disponibles las principales convocatorias del encuentro junto con sus documentos de contexto: [Espacios anfitriones](./SPACES.md), [Pliego petitorio](./PETITION.md), [Artistas y Música](./ARTISTS.md), [Artistas Visuales / Expo](./EXHIBITION.md), [Colloquium](./COLLOQUIUM.md), [Emprendimientos](./VENTURES.md) y [Participación Virtual](./VIRTUAL.md).
 
 ## Novedades
-> 🌿 Ya están activos los formularios de **Espacios Anfitriones** y **Pliego Petitorio**.
+> 🌿 Ya están disponibles los formularios principales del encuentro y sus documentos de contexto.
 >
-> - [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8)
-> - [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6)
-> - Las convocatorias para *artistas, artistas visuales / expo, panelistas, emprendimientos y eventos virtuales* se abrirán en los próximos días.
+> - [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8) · [Documento](./SPACES.md)
+> - [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6) · [Documento](./PETITION.md)
+> - [Artistas y Música](https://forms.gle/jfiZqSWUhqTDG45C8) · [Documento](./ARTISTS.md)
+> - [Artistas Visuales / Expo](https://forms.gle/FRbBrQBWWF9WhNSh6) · [Documento](./EXHIBITION.md)
+> - [Panelistas y conversación pública](https://forms.gle/Ufv8JDgU3FvjaAru9) · [Documento](./COLLOQUIUM.md)
+> - [Emprendimientos](https://forms.gle/3rUdi5U3ALktPdE86) · [Documento](./VENTURES.md)
+>
+> La capa [virtual](./VIRTUAL.md) también ya está activa, aunque no tenga formulario propio: artistas, espacios y panelistas pueden indicar en sus propios formularios si su participación será también virtual o remota.
 
 ## Qué es
 
@@ -43,7 +50,7 @@ La apuesta es que, mientras la comunidad 4/20, sus celebraciones, sus expresione
 
 **Proyecto Cultural Barranco** es el caso de referencia documentado del que nacen muchos de los aprendizajes de este proyecto.
 
-Las celebraciones 4/20 realizadas allí mostraron que sí es posible abrir un espacio cultural, libre y cuidado, donde conviven música, feria, conversación, arte, comunidad y una fuerte autorregulación social. Esa experiencia no se presenta como modelo único ni obligatorio, pero sí como un punto de partida real desde el cual otras sedes pueden imaginar su propia forma de participar según sus condiciones, su escala y su nivel de exposición.
+Las celebraciones 4/20 realizadas allí mostraron que sí es posible abrir un espacio cultural, libre y cuidado, donde conviven música, feria, conversación, arte, comunidad y una fuerte autorregulación social. Esa experiencia no se presenta como modelo único ni obligatorio, pero sí como un punto de partida real desde el cual otras sedes pueden imaginar su propia forma de participar según sus condiciones, su escala y su nivel de exposición. Quien quiera entender mejor cómo se traduce eso en capas concretas puede mirar [Espacios anfitriones](./SPACES.md), [Artistas y Música](./ARTISTS.md), [Artistas Visuales / Expo](./EXHIBITION.md), [Colloquium](./COLLOQUIUM.md), [Emprendimientos](./VENTURES.md) y [Participación Virtual](./VIRTUAL.md).
 
 ## Cómo participar
 
@@ -55,7 +62,7 @@ El proyecto está abierto a muchas formas de participación, entre ellas:
 - **Artistas visuales / expo / galería**
 - **Panelistas y conversaciones públicas**
 - **Emprendimientos**
-- **Eventos virtuales, lives y streams**
+- **Participación virtual, lives y transmisiones**
 - **Aportes al pliego petitorio**
 - **Otras categorías** que hagan sentido para el encuentro, aunque no hayan sido previstas de antemano
 
@@ -75,11 +82,20 @@ No organiza necesariamente una celebración completa, pero ayuda a visibilizar e
 ### Evento o celebración virtual
 Live, streaming, transmisión, set, cobertura o encuentro remoto que se suma a la red del 20 de abril sin requerir una sede física presencial.
 
-## Convocatoria actual
+## Convocatorias activas ahora
 
-La primera convocatoria activa de esta edición se enfoca en **espacios anfitriones**.
+En esta fase el encuentro ya está abierto a múltiples formas principales de participación: espacios, pliego, artistas y música, artistas visuales / expo, panelistas, emprendimientos y capa virtual.
 
-Las demás formas de participación —artistas, artistas visuales, panelistas, emprendimientos, eventos virtuales y otras categorías— se irán habilitando progresivamente en los próximos días. Preferimos crecer con claridad, cuidado y base real antes que lanzar todo de golpe o prometer más de lo que todavía no está listo.
+Los formularios activos hoy son:
+
+- [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8)
+- [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6)
+- [Artistas y Música](https://forms.gle/jfiZqSWUhqTDG45C8)
+- [Artistas Visuales / Expo](https://forms.gle/FRbBrQBWWF9WhNSh6)
+- [Panelistas y conversación pública](https://forms.gle/Ufv8JDgU3FvjaAru9)
+- [Emprendimientos](https://forms.gle/3rUdi5U3ALktPdE86)
+
+La capa [virtual](./VIRTUAL.md) también ya está activa: artistas, espacios y panelistas pueden indicar en sus propios formularios si su participación será también virtual o remota.
 
 ## Participación justa, costos y transparencia
 
@@ -98,25 +114,23 @@ Nos interesa más abrir conversaciones útiles para el momento actual: cómo org
 ## Documentos clave
 
 - [Espacios anfitriones](./SPACES.md) — modalidades de participación, tipos de sedes, plan de contingencia y protocolo de seguridad.
-- [Participar](./PARTICIPATE.md) — mapa de convocatorias activas y próximas formas de sumarse.
+- [Participar](./PARTICIPATE.md) — mapa de convocatorias activas y formas de sumarse.
 - [Pliego petitorio](./PETITION.md) — versión inicial abierta del pliego y forma de aportar.
+- [Artistas y Música](./ARTISTS.md) — convocatoria, enfoque artístico y caso particular del Barranco.
+- [Artistas Visuales / Expo](./EXHIBITION.md) — muestra, galería, expo y apertura a público general.
+- [Colloquium](./COLLOQUIUM.md) — conversación pública, panelistas y aprendizajes de organización.
+- [Emprendimientos](./VENTURES.md) — feria, circulación, hospitalidad y sostenibilidad del espacio.
+- [Participación Virtual](./VIRTUAL.md) — participación remota, transmisiones y asistencia a distancia.
 - [Historia y aprendizajes](./HISTORY.md) — memoria del proceso 2022–2025 y giro conceptual hacia 2026.
-- [Comunidad](./COMMUNITY.md) — capas de participación, eventos alineados y no alineados, y relación con Voluntariado Barranco.
+- [Comunidad](./COMMUNITY.md) — capas de participación, visibilización y relación con Voluntariado Barranco.
 
-## Formularios y llamados
+## Compartir también es participar
 
-### Activos ahora
+Para gran parte del público, una de las mejores formas de ayudar en la estrategia pro-legalización es compartir todo lo referente al encuentro: links, posts, transmisiones, convocatorias y otras señales de que la conversación ya está viva.
 
-- **Proponer un espacio anfitrión:** [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8)
-- **Firmar / aportar al pliego petitorio:** [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6)
+La idea es que el tema se vuelva cada vez más visible en la vida pública, no solo a través de quienes organizan o participan directamente, sino también a través de quienes ayudan a mover la red.
 
-### Próximos
-
-- **Artistas y música:** Convocatoria en los próximos días.
-- **Artistas visuales / expo / galería:** Convocatoria en los próximos días.
-- **Panelistas / coloquio:** Convocatoria en los próximos días.
-- **Emprendimientos:** Convocatoria en los próximos días.
-- **Eventos virtuales / streams:** Convocatoria en los próximos días.
+La cobertura y transmisión del encuentro se irá organizando por [Instagram](http://instagram.com/barranco.life), [Twitch](http://twitch.tv/barranco_life), [Facebook](https://facebook.com/barranco.life) y/o [TikTok](https://www.tiktok.com/@barranco.life), según cómo se vayan confirmando las capas del día.
 
 ## Enlaces clave
 
@@ -124,12 +138,13 @@ Nos interesa más abrir conversaciones útiles para el momento actual: cómo org
 - [Proyecto Cultural Barranco](https://barranco.life)
 - [Voluntariado Barranco](https://voluntariado.barranco.life/)
 - [Manual 4/20 🌿](https://manual420.barranco.life)
+- [Instagram del Barranco](http://instagram.com/barranco.life)
+- [Twitch del Barranco](http://twitch.tv/barranco_life)
+- [Facebook del Barranco](https://facebook.com/barranco.life)
+- [TikTok del Barranco](https://www.tiktok.com/@barranco.life)
 
 ## Estado
 
 Este repositorio está siendo reestructurado para la edición 2026.
 
-La intención es documentar no solo una fecha, sino una forma viva, abierta y replicable de organizar celebraciones culturales 4/20 con cuidado, libertad, límites claros, participación más justa y rendición transparente.
-
-
-https://github.com/barranco-life/420/blob/main/es/README.md
+La intención es documentar no solo una fecha, sino una forma viva, abierta y replicable de organizar celebraciones culturales 4/20 con cuidado, libertad, límites claros, participación más justa y rendición transparente. En esta etapa, la prioridad ya no es solo abrir espacios anfitriones, sino articular mejor todas las capas principales del encuentro y volverlas más discoverable para comunidad, aliados y público general.

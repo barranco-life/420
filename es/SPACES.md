@@ -34,6 +34,10 @@ No todos los espacios tienen que participar del mismo modo ni con el mismo nivel
 
 La intención no es imponer un formato único, sino abrir una estructura replicable, prudente y hospitalaria que otras personas puedan adaptar según su contexto, su ciudad, su comunidad y su marco legal.
 
+Un espacio anfitrión no solo “cede lugar”. También puede volverse el punto donde brotan artistas, expo, conversación, feria, transmisión, comunidad nueva y aprendizajes que luego fortalecen la documentación del encuentro.
+
+Dicho de otro modo: sumarse puede ser también una forma de descubrir, aunque sea por un día, lo que una comunidad bien orientada puede hacer posible cuando encuentra un lugar que la recibe con criterio y hospitalidad.
+
 [Volver al índice](#índice)
 
 ### Tipos de espacios que pueden sumarse
@@ -64,7 +68,23 @@ Sumarse como espacio anfitrión puede aportar a varias cosas al mismo tiempo:
 - **Visibilización social:** Ayudar a que el tema exista en la conversación pública de una manera más madura y menos reactiva.
 - **Puerta de entrada para escépticos y público general:** Ofrecer una experiencia humana, cultural y observacional también para quienes no consumen o no están convencidos.
 - **Construcción de red:** Conectar espacios, artistas, comunidades, transmisiones, ideas y aprendizajes alrededor de una misma fecha.
-- **Aporte a una estrategia de legalización no confrontacional:** Creemos que celebraciones abiertas, cuidadas y cada vez más visibles pueden acercar al país a una conversación más seria sobre la legalización, más por ejemplo, hospitalidad y experiencia compartida que por choque permanente.
+- **Aporte a una estrategia de legalización no confrontacional:** Creemos que celebraciones abiertas, cuidadas y cada vez más visibles pueden acercar al país a una conversación más seria sobre la legalización, más por hospitalidad, ejemplo y experiencia compartida que por choque permanente.
+
+[Volver al índice](#índice)
+
+## Qué puede hacer posible un espacio que se suma
+
+Una sede no necesita hacerlo todo para aportar. Incluso una participación pequeña puede ayudar a que el encuentro se vuelva más vivo, más claro y más visible.
+
+Según su escala, identidad y condiciones, un espacio podría hacer posible, por ejemplo:
+
+- [Artistas y música](./ARTISTS.md), desde sets pequeños hasta escenarios más completos.
+- [Artistas visuales / expo](./EXHIBITION.md), incluyendo muestras que incluso duren más allá del 20 de abril.
+- [Colloquium](./COLLOQUIUM.md), como puerta de entrada para público general, escépticos y conversación más madura.
+- [Emprendimientos](./VENTURES.md), para volver el encuentro más habitable, hospitalario y sostenible.
+- [Participación virtual](./VIRTUAL.md), tanto para sumarse como para asistir, mirar y compartir.
+
+No todos los espacios tienen que abrir todas estas capas. Lo importante es encontrar una forma proporcionada, prudente y viva de sumarse.
 
 [Volver al índice](#índice)
 
@@ -82,6 +102,8 @@ Puede incluir, según su capacidad:
 - Proyecciones.
 - Comida o barra.
 - Espacios de descanso y convivencia.
+
+Para imaginar mejor cómo podría verse cada una de esas capas, este documento dialoga también con [Artistas y Música](./ARTISTS.md), [Artistas Visuales / Expo](./EXHIBITION.md), [Colloquium](./COLLOQUIUM.md), [Emprendimientos](./VENTURES.md) y [Participación Virtual](./VIRTUAL.md).
 
 Estos espacios publican en sus redes y canales de difusión siguiendo las pautas generales del encuentro, tanto por prudencia legal como por conveniencia organizativa: claridad sobre la Ley 1008, plan de contingencia, señalización visible, zona de deshecho de sustancias ilegales cuando corresponda, y una comunicación prudente que ayude a sostener la legitimidad cultural del evento.
 
@@ -103,8 +125,10 @@ No organiza necesariamente una celebración completa, pero ayuda a visibilizar e
 
 Ejemplos:
 - Celebrar el 4/20 a su manera y, si gusta, notificarnos o taggearnos para compartirlo.
-- Compartir un QR o link.
+- Compartir un QR, link o formulario.
 - Publicar en estados o redes.
+- Compartir posts, transmisiones y convocatorias.
+- Ayudar a mover todo lo referente al encuentro entre personas que podrían interesarse.
 - Recomendar una sede.
 - Invitar a artistas o aliados.
 - Poner una pieza gráfica en cartelera o mostrador.
@@ -123,7 +147,7 @@ Esta modalidad permite:
 - Abrir participación a personas que no pueden desplazarse.
 - Conectar el encuentro con audiencias nuevas, especialmente en redes y plataformas de video.
 
-Los links de estos eventos se difundirán como parte del movimiento. Cuando haga sentido, en Proyecto Cultural Barranco también podrán proyectarse o transmitirse como parte de la experiencia del encuentro.
+Los links de estos eventos se difundirán como parte del movimiento. Cuando haga sentido, en [Proyecto Cultural Barranco](https://barranco.life) también podrán proyectarse o transmitirse como parte de la experiencia del encuentro, tal como se desarrolla en [Participación Virtual](./VIRTUAL.md#caso-particular-proyecto-cultural-barranco).
 
 ### Otras formas de participar
 
@@ -157,6 +181,8 @@ Todo espacio anfitrión debería poder alinearse, al menos, con estos principios
 **Proyecto Cultural Barranco** es el caso de referencia documentado del que nacen muchos de los aprendizajes que sostienen este proyecto.
 
 Las celebraciones 4/20 realizadas allí mostraron que sí es posible abrir un espacio cultural, libre y cuidado, donde conviven música, feria, conversación, arte, comunidad y una fuerte autorregulación social. Esa experiencia no se presenta como modelo único ni obligatorio, pero sí como un punto de partida real desde el cual otras sedes pueden imaginar su propia forma de participar según su escala, sus condiciones y su nivel de exposición.
+
+Quien quiera imaginar mejor cómo se traduce eso en capas concretas puede mirar también los casos particulares de [Artistas y Música](./ARTISTS.md#caso-particular-proyecto-cultural-barranco), [Artistas Visuales / Expo](./EXHIBITION.md#caso-particular-proyecto-cultural-barranco), [Colloquium](./COLLOQUIUM.md#caso-particular-proyecto-cultural-barranco), [Emprendimientos](./VENTURES.md#caso-particular-proyecto-cultural-barranco) y [Participación Virtual](./VIRTUAL.md#caso-particular-proyecto-cultural-barranco).
 
 Además, al caer lunes este año, en Proyecto Cultural Barranco se contempla como ejemplo la posibilidad de actividades previas el sábado 18 y domingo 19 de abril: proyecciones, expo, presentaciones u otras formas de previa cultural que ayuden a expandir el encuentro más allá de una sola jornada.
 
@@ -291,6 +317,11 @@ Este archivo dialoga especialmente con:
 
 - [Página principal del encuentro](./README.md)
 - [Participar](./PARTICIPATE.md)
+- [Artistas y Música](./ARTISTS.md)
+- [Artistas Visuales / Expo](./EXHIBITION.md)
+- [Colloquium](./COLLOQUIUM.md)
+- [Emprendimientos](./VENTURES.md)
+- [Participación Virtual](./VIRTUAL.md)
 - [Pliego petitorio](./PETITION.md)
 - [Historia y aprendizajes](./HISTORY.md)
 - [Comunidad](./COMMUNITY.md)

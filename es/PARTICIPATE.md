@@ -2,45 +2,60 @@
 
 # Participar
 
+![Participar](./assets/PARTICIPATE.jpg)
+
 **Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿**  
 *Celebración cultural replicable de ingreso y participación libre*
 
-- **Comunidad 4/20 (WhatsApp):** https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00?mode=gi_t
-- **Versión siempre actualizada de este documento:** https://github.com/barranco-life/420/blob/main/es/PARTICIPATE.md
+> 🌿 Participar no es solo asistir o actuar. También puede ser alojar, difundir, observar, proponer, transmitir, documentar o ayudar a que otras personas se animen.
+
+> 🌿 Para gran parte del público, una de las mejores formas de ayudar en la estrategia pro-legalización es compartir todo lo referente al encuentro: links, posts, transmisiones, convocatorias y otras señales de que la conversación ya está viva.
 
 ## Índice
 
 - [Cómo se puede participar](#cómo-se-puede-participar)
 - [Convocatorias activas ahora](#convocatorias-activas-ahora)
-  - [Espacios anfitriones](#espacios-anfitriones)
-  - [Pliego petitorio](#pliego-petitorio)
-- [Convocatorias que se anunciarán a continuación](#convocatorias-que-se-anunciarán-a-continuación)
-  - [Artistas y música](#artistas-y-música)
-  - [Artistas visuales / expo / galería](#artistas-visuales--expo--galería)
-  - [Panelistas / coloquio / conversación pública](#panelistas--coloquio--conversación-pública)
-  - [Emprendimientos](#emprendimientos)
-  - [Eventos virtuales / streams / lives](#eventos-virtuales--streams--lives)
+- [Espacios anfitriones](#espacios-anfitriones)
+- [Pliego petitorio](#pliego-petitorio)
+- [Artistas y música](#artistas-y-música)
+- [Artistas visuales / expo / galería](#artistas-visuales--expo--galería)
+- [Panelistas / coloquio / conversación pública](#panelistas--coloquio--conversación-pública)
+- [Emprendimientos](#emprendimientos)
+- [Participación virtual](#participación-virtual)
 - [Otras formas de sumarse](#otras-formas-de-sumarse)
 - [Qué pasa después de participar](#qué-pasa-después-de-participar)
 - [Participación justa y cuidado](#participación-justa-y-cuidado)
 - [Relación con otros documentos](#relación-con-otros-documentos)
-- [Cierre](#cierre)
 
 ## Cómo se puede participar
 
-El encuentro está abierto a muchas formas de participación. No todas requieren el mismo nivel de exposición, tiempo o compromiso, y no todas tienen que estar listas al mismo tiempo.
+El encuentro está abierto a muchas formas de participación. No todas requieren el mismo nivel de exposición, tiempo o compromiso.
 
 La idea es simple: abrir distintas puertas de entrada para que cada persona, espacio o comunidad encuentre una forma realista de sumarse.
 
+Eso puede incluir, por ejemplo:
+
+- Abrir o proponer un [espacio anfitrión](./SPACES.md).
+- Firmar o enriquecer el [pliego petitorio](./PETITION.md).
+- Sumarse desde [artistas y música](./ARTISTS.md).
+- Proponer una [expo o participación visual](./EXHIBITION.md).
+- Participar en [colloquium](./COLLOQUIUM.md).
+- Sumarse desde [emprendimientos](./VENTURES.md).
+- Participar o asistir desde la capa [virtual](./VIRTUAL.md).
+- Compartir links, posts, transmisiones y convocatorias.
+- Ayudar a tender puentes con artistas, espacios, prensa, colectivos o personas interesadas.
+
 No hace falta encajar de inmediato en una categoría cerrada. Si una propuesta tiene sentido para el espíritu del encuentro, se puede conversar, ubicar mejor y, si hace falta, abrir una modalidad nueva.
+
+[Volver al índice](#índice)
 
 ## Convocatorias activas ahora
 
+En esta fase el encuentro ya está abierto a múltiples formas principales de participación: espacios, pliego, artistas y música, artistas visuales / expo, panelistas, emprendimientos y capa virtual.
+
 ### Espacios anfitriones
 
-La convocatoria principal de esta primera etapa está enfocada en **espacios anfitriones** y en formas cercanas de sumarse a esa red.
-
-[Volver al índice](#índice)
+La convocatoria para [espacios anfitriones](./SPACES.md) sigue siendo una de las puertas más importantes del encuentro, pero ya no es la única: en esta fase también están abiertas las demás formas principales de participación.
 
 Esto incluye, por ahora:
 - Espacios anfitriones públicos.
@@ -49,79 +64,71 @@ Esto incluye, por ahora:
 - Celebraciones o transmisiones virtuales.
 - Otras formas compatibles con el espíritu del encuentro, aunque todavía no estén formalizadas como categoría propia.
 
-**Formulario activo:**  
-https://forms.gle/9KaoCBb7iaB3PV6x8
+**Formulario activo:** [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8)
 
-Si quieres entender mejor las modalidades posibles antes de postular, revisa:
-
-- [Espacios anfitriones](./SPACES.md)
+[Volver al índice](#índice)
 
 ### Pliego petitorio
 
-Ya está abierta también la posibilidad de **firmar y aportar al pliego petitorio**.
-
-[Volver al índice](#índice)
+Ya está abierta también la posibilidad de firmar y aportar al [pliego petitorio](./PETITION.md).
 
 La idea no es tratarlo como un texto cerrado o definitivo, sino como un documento que pueda madurar con aportes ciudadanos, culturales, jurídicos, médicos y comunitarios. También queremos que dialogue cada vez mejor con el [Manual 4/20 🌿](https://manual420.barranco.life).
 
-**Formulario activo:**  
-https://forms.gle/96XH81TFQrCX1R7U6
+**Formulario activo:** [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6)
 
-Más contexto:
-
-- [Pliego petitorio](./PETITION.md)
-
-## Convocatorias que se anunciarán a continuación
-
-Estas convocatorias forman parte de la estructura del encuentro y se irán habilitando progresivamente en los próximos días.
+[Volver al índice](#índice)
 
 ### Artistas y música
 
-Para DJs, bandas, músicos y otros formatos sonoros o escénicos que quieran sumarse a una sede anfitriona o a la red general del encuentro. La intención es cuidar mejor las condiciones de participación cuando haya necesidades reales de transporte, logística o apoyo técnico.
+La convocatoria para [artistas y música](./ARTISTS.md) ya está abierta para DJs, bandas, músicos y otros formatos sonoros o escénicos que quieran sumarse a una sede anfitriona o a la red general del encuentro.
+
+La intención es cuidar mejor las condiciones de participación cuando haya necesidades reales de transporte, logística o apoyo técnico.
+
+**Formulario activo:** [Artistas y Música](https://forms.gle/jfiZqSWUhqTDG45C8)
 
 [Volver al índice](#índice)
-
-**Formulario:** Convocatoria en los próximos días.
 
 ### Artistas visuales / expo / galería
 
-Convocatoria para artistas plásticos, visuales, fotógrafos, ilustradores, videastas y otras propuestas expositivas.
+La convocatoria para [artistas visuales / expo](./EXHIBITION.md) ya está abierta para artistas plásticos, visuales, fotógrafos, ilustradores, videastas y otras propuestas expositivas.
 
 Nos interesa especialmente abrir espacio a obras que puedan habitar una galería o muestra más allá del 20 de abril, incluyendo posibles actividades previas el fin de semana anterior. Esta es una de las puertas más importantes para abrir el encuentro a público general, curiosos y escépticos.
 
-[Volver al índice](#índice)
+**Formulario activo:** [Artistas Visuales / Expo](https://forms.gle/FRbBrQBWWF9WhNSh6)
 
-**Formulario:** Convocatoria en los próximos días.
+[Volver al índice](#índice)
 
 ### Panelistas / coloquio / conversación pública
 
-Para personas interesadas en aportar a conversaciones útiles y maduras sobre el momento actual del tema.
+La convocatoria para [colloquium](./COLLOQUIUM.md) ya está abierta para personas interesadas en aportar a conversaciones útiles y maduras sobre el momento actual del tema.
 
 No buscamos repetir una discusión cerrada entre personas ya convencidas. Nos interesa más abrir conversación sobre desestigmatización, libertad con límites, organización prudente, hospitalidad cultural, estrategias de visibilización no confrontacional y aprendizajes que puedan alimentar el [Manual 4/20 🌿](https://manual420.barranco.life).
 
 Esta participación puede ser **presencial o virtual**.
 
-[Volver al índice](#índice)
+**Formulario activo:** [Panelistas y conversación pública](https://forms.gle/Ufv8JDgU3FvjaAru9)
 
-**Formulario:** Convocatoria en los próximos días.
+[Volver al índice](#índice)
 
 ### Emprendimientos
 
-Para propuestas que quieran participar en ferias o espacios de circulación pública dentro del encuentro, siempre dentro de un marco prudente y compatible con la legislación vigente. La idea no es abrir una vitrina sin criterio, sino sumar propuestas coherentes con el espíritu cultural y organizativo del encuentro.
+La convocatoria para [emprendimientos](./VENTURES.md) ya está abierta para propuestas que quieran participar en ferias o espacios de circulación pública dentro del encuentro, siempre dentro de un marco prudente y compatible con la legislación vigente.
+
+La idea no es abrir una vitrina sin criterio, sino sumar propuestas coherentes con el espíritu cultural y organizativo del encuentro.
+
+**Formulario activo:** [Emprendimientos](https://forms.gle/3rUdi5U3ALktPdE86)
 
 [Volver al índice](#índice)
 
-**Formulario:** Convocatoria en los próximos días.
+### Participación virtual
 
-### Eventos virtuales / streams / lives
+La capa [virtual](./VIRTUAL.md) ya puede tomar forma desde varios lugares: artistas, espacios y panelistas pueden indicar en sus propios formularios si su participación será también virtual o remota.
 
-Para personas, colectivos o canales que quieran transmitir, conversar, celebrar o cubrir el 4/20 desde plataformas online.
+Además, para muchas personas esta será también una forma de asistir: mirando, acompañando y compartiendo transmisiones, links y publicaciones del encuentro. La idea es transmitir por [Instagram](http://instagram.com/barranco.life), [Twitch](http://twitch.tv/barranco_life), [Facebook](https://facebook.com/barranco.life) y/o [TikTok](https://www.tiktok.com/@barranco.life), según cómo se vaya organizando la cobertura del día.
 
-Estos enlaces se compartirán como parte del movimiento. Cuando haga sentido, en Proyecto Cultural Barranco también podrán proyectarse o seguirse como parte de la experiencia general. Esta modalidad ayuda a ampliar alcance, sumar otras ciudades y reforzar la dimensión pública del día, que es una parte central de la estrategia general del encuentro.
+**Formularios relacionados:** [Artistas y Música](https://forms.gle/jfiZqSWUhqTDG45C8), [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8) y [Panelistas y conversación pública](https://forms.gle/Ufv8JDgU3FvjaAru9)
 
 [Volver al índice](#índice)
-
-**Formulario:** Convocatoria en los próximos días.
 
 ## Otras formas de sumarse
 
@@ -131,12 +138,12 @@ Ejemplos posibles:
 - Celebrar el 4/20 a su manera y notificarnos o taggearnos para compartirlo.
 - Recomendar una sede posible.
 - Ayudar a tender puentes con prensa, artistas, colectivos o espacios aliados.
-- Compartir gráficas, estados, historias o links.
+- Compartir gráficas, estados, historias, links, posts o transmisiones del encuentro.
 - Difundir eventos oficiales y también otros eventos 4/20 que ayuden a volver más visible la comunidad, la fecha y el debate en la vida pública.
 - Proponer una categoría nueva que todavía no haya sido considerada.
 - Aportar ideas, materiales o aprendizajes que luego puedan fortalecer el [Manual 4/20 🌿](https://manual420.barranco.life).
 
-Si algo no encaja todavía en una convocatoria formal, la comunidad puede ayudar a ubicarlo mejor.
+Si algo no encaja todavía en una convocatoria formal, la [comunidad 4/20²⁶ 🪴](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00) puede ayudar a ubicarlo mejor.
 
 [Volver al índice](#índice)
 
@@ -168,21 +175,16 @@ La rendición de cuentas buscará ser clara, pública y comprensible.
 
 Este archivo dialoga especialmente con:
 
-- [README del encuentro](./README.md)
+- [Página principal del encuentro](./README.md)
 - [Espacios anfitriones](./SPACES.md)
+- [Artistas y Música](./ARTISTS.md)
+- [Artistas Visuales / Expo](./EXHIBITION.md)
+- [Colloquium](./COLLOQUIUM.md)
+- [Emprendimientos](./VENTURES.md)
+- [Participación Virtual](./VIRTUAL.md)
 - [Pliego petitorio](./PETITION.md)
 - [Historia y aprendizajes](./HISTORY.md)
 - [Comunidad](./COMMUNITY.md)
 - [Manual 4/20 🌿](https://manual420.barranco.life)
 
 [Volver al índice](#índice)
-
-## Cierre
-
-No todas las puertas de entrada tienen que abrirse el mismo día. Lo importante es que el encuentro crezca con realidad, cuidado y continuidad.
-
-Participar no es solo “asistir” o “actuar”: también puede ser alojar, difundir, observar, proponer, transmitir, documentar o ayudar a que otras personas se animen.
-
-[Volver al índice](#índice)
-
-https://github.com/barranco-life/420/blob/main/es/PARTICIPATE.md
