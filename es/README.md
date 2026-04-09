@@ -5,7 +5,13 @@
 
 Celebraciones culturales abiertas, cuidadas y replicables para desestigmatizar, visibilizar y madurar la conversación sobre la legalización del cannabis en Bolivia.
 
-> 🌿 La comunidad real de este proyecto vive primero en [4/20²⁶ 🪴](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00). Este repositorio existe para documentar, clarificar y fortalecer lo que la comunidad va construyendo, no para reemplazarla.
+> *Día central 2026:* *lunes 20 de abril de 2026*.
+>
+> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
+>
+> *Nota electoral:* en Oruro, Beni, Chuquisaca, Tarija y Santa Cruz la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. Por prudencia, en esos departamentos el foco debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
+
+> 🌿 La comunidad real de este proyecto vive primero en WhatsApp: [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE), grupos por departamento y grupos temáticos de apoyo. Este repositorio existe para documentar, clarificar y fortalecer lo que la comunidad va construyendo, no para reemplazarla.
 >
 > 🌿 En esta fase ya están disponibles las principales convocatorias del encuentro junto con sus documentos de contexto: [Espacios anfitriones](./SPACES.md), [Pliego petitorio](./PETITION.md), [Artistas y Música](./ARTISTS.md), [Artistas Visuales / Expo](./EXHIBITION.md), [Colloquium](./COLLOQUIUM.md), [Emprendimientos](./VENTURES.md) y [Participación Virtual](./VIRTUAL.md).
 
@@ -19,6 +25,12 @@ Celebraciones culturales abiertas, cuidadas y replicables para desestigmatizar, 
 > - [Panelistas y conversación pública](https://forms.gle/Ufv8JDgU3FvjaAru9) · [Documento](./COLLOQUIUM.md)
 > - [Emprendimientos](https://forms.gle/3rUdi5U3ALktPdE86) · [Documento](./VENTURES.md)
 >
+> 🌿 Estado actual de espacios:
+> - Confirmados 🟢: [La Paz](https://chat.whatsapp.com/JCVnlJgnL78G7S3ejXSL52), [Cochabamba](https://chat.whatsapp.com/Be6udeZmtBV6lGgMSsXAWz)
+> - A Confirmarse 🟡: [Potosí](https://chat.whatsapp.com/HMNS1eCZ9bY36FcpFbT5Kp)
+> - Buscando Espacios ⚪️: [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa)
+> - Abiertos a Propuestas ⚪️: [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), Pando
+>
 > La capa [virtual](./VIRTUAL.md) también ya está activa, aunque no tenga formulario propio: artistas, espacios y panelistas pueden indicar en sus propios formularios si su participación será también virtual o remota.
 
 ## Qué es
@@ -27,13 +39,13 @@ Celebraciones culturales abiertas, cuidadas y replicables para desestigmatizar, 
 
 Nace en Bolivia, con **Proyecto Cultural Barranco** como caso de referencia documentado, pero está abierto a replicarse, traducirse y adaptarse en otros territorios, idiomas y marcos legales si existe interés real y suficiente cuidado para sostenerlo.
 
-No busca solo anunciar una fecha. Busca reunir una forma más clara, hospitalaria y replicable de organizar celebraciones 4/20: con cultura, cuidado del espacio, prudencia legal, comunidad, aprendizaje y documentación abierta.
+No busca solo anunciar una fecha —ni depender de un solo lugar—. Busca reunir una forma más clara, hospitalaria y replicable de organizar celebraciones 4/20: con cultura, cuidado del espacio, prudencia legal, comunidad, aprendizaje y documentación abierta.
 
 ## Idea madre
 
 El 4/20 muestra que sí es posible una comunidad espontánea, diversa, colaborativa y cuidadosa del espacio. **Voluntariado Barranco** busca cultivar durante todo el año esa misma posibilidad: una forma más libre, responsable y humana de convivir, organizarse y crear en común.
 
-Creemos que celebraciones culturales abiertas, cuidadas y cada vez más visibles pueden ayudar a desestigmatizar esta cultura ante la sociedad, sumar a escépticos y público general, e ir acercando el país a una conversación más madura sobre la legalización. No apostamos a una lógica de choque permanente entre convencidos y autoridades, sino a una visibilización cultural sostenida a través del ejemplo, la hospitalidad, la cultura y la experiencia compartida.
+Creemos que celebraciones culturales abiertas, cuidadas y cada vez más visibles pueden ayudar a desestigmatizar esta cultura ante la sociedad, sumar a escépticos y público general, e ir acercando el país a una conversación más madura sobre la legalización. Replicar eventos 4/20 en distintas ciudades no es un detalle logístico: es parte de la estrategia del movimiento. Cada espacio que se abre ayuda a visibilizar la comunidad, desestigmatizar el cannabis y convertir la legalización en una conversación cada vez más presente en la vida pública boliviana.
 
 La apuesta es que, mientras la comunidad 4/20, sus celebraciones, sus expresiones culturales y el propio debate se vuelvan cada vez más visibles en la vida pública —desde eventos alineados con esta propuesta o incluso desde otros que no lo estén del todo— más difícil será seguir tratándolo como algo marginal o ajeno al interés general.
 
@@ -68,6 +80,16 @@ El proyecto está abierto a muchas formas de participación, entre ellas:
 
 No todos los espacios o participantes tienen que sumarse de la misma manera. Parte de la lógica del encuentro es justamente permitir distintos niveles de visibilidad, compromiso y riesgo.
 
+## Fechas y contexto electoral 2026
+
+- **Día central:** lunes 20 de abril de 2026.
+- **Actividades opcionales:** viernes 17 al domingo 19, según cada espacio y su contexto local.
+- **Proyecto Cultural Barranco** prevé actividad del 18 al 20 como caso de referencia.
+
+En [**La Paz**](https://chat.whatsapp.com/JCVnlJgnL78G7S3ejXSL52), [**Cochabamba**](https://chat.whatsapp.com/Be6udeZmtBV6lGgMSsXAWz) y [**Potosí**](https://chat.whatsapp.com/HMNS1eCZ9bY36FcpFbT5Kp) puede sostenerse con más naturalidad la lógica 17–20 según el espacio.
+
+En [**Oruro**](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [**Chuquisaca**](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [**Tarija**](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [**Santa Cruz**](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
+
 ## Modalidades de participación
 
 ### Espacio anfitrión público
@@ -97,6 +119,8 @@ Los formularios activos hoy son:
 
 La capa [virtual](./VIRTUAL.md) también ya está activa: artistas, espacios y panelistas pueden indicar en sus propios formularios si su participación será también virtual o remota.
 
+También ya está activa la capa comunitaria en WhatsApp, con un **chat general**, **grupos por departamento** y **grupos temáticos de apoyo** para el Manual 4/20, orientación legal y orientación medicinal.
+
 ## Participación justa, costos y transparencia
 
 El encuentro quiere tratar la participación de manera más justa y transparente que muchas convocatorias culturales.
@@ -123,6 +147,9 @@ Nos interesa más abrir conversaciones útiles para el momento actual: cómo org
 - [Participación Virtual](./VIRTUAL.md) — participación remota, transmisiones y asistencia a distancia.
 - [Historia y aprendizajes](./HISTORY.md) — memoria del proceso 2022–2025 y giro conceptual hacia 2026.
 - [Comunidad](./COMMUNITY.md) — capas de participación, visibilización y relación con Voluntariado Barranco.
+- [Cómo contribuir](./CONTRIBUTE.md) — mapa general de formas de apoyo, articulación y participación.
+- [Manual 4/20 🌿](https://manual420.barranco.life) — marco vivo de contexto, prudencia y aprendizaje abierto.
+- [Voluntariado Barranco](https://voluntariado.barranco.life/) — inspiración comunitaria y caso vivo más allá del 20 de abril.
 
 ## Compartir también es participar
 
@@ -134,7 +161,17 @@ La cobertura y transmisión del encuentro se irá organizando por [Instagram](ht
 
 ## Enlaces clave
 
-- [4/20²⁶ 🪴 en WhatsApp](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00)
+- [Chat 4/20²⁶ 🌿 en WhatsApp](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE)
+- [La Paz 4/20²⁶ 🟢](https://chat.whatsapp.com/JCVnlJgnL78G7S3ejXSL52)
+- [Cochabamba 4/20²⁶ 🟢](https://chat.whatsapp.com/Be6udeZmtBV6lGgMSsXAWz)
+- [Potosí 4/20²⁶ 🟡](https://chat.whatsapp.com/HMNS1eCZ9bY36FcpFbT5Kp)
+- [Santa Cruz 4/20²⁶ ⚪️](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer)
+- [Tarija 4/20²⁶ ⚪️](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa)
+- [Chuquisaca 4/20²⁶ ⚪️](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj)
+- [Oruro 4/20²⁶ ⚪️](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b)
+- [Aportes al Manual 4/20 🌿](https://chat.whatsapp.com/Fn2BXILT6Rj9TYdWgM7uF6)
+- [Orientación Medicinal 🌿](https://chat.whatsapp.com/IBKq1Bw3MjxKfaMYyjTGg8)
+- [Orientación Legal 🌿](https://chat.whatsapp.com/JQYgV6zeIbzC6T0ryAnJPs)
 - [Proyecto Cultural Barranco](https://barranco.life)
 - [Voluntariado Barranco](https://voluntariado.barranco.life/)
 - [Manual 4/20 🌿](https://manual420.barranco.life)
@@ -147,4 +184,6 @@ La cobertura y transmisión del encuentro se irá organizando por [Instagram](ht
 
 Este repositorio está siendo reestructurado para la edición 2026.
 
-La intención es documentar no solo una fecha, sino una forma viva, abierta y replicable de organizar celebraciones culturales 4/20 con cuidado, libertad, límites claros, participación más justa y rendición transparente. En esta etapa, la prioridad ya no es solo abrir espacios anfitriones, sino articular mejor todas las capas principales del encuentro y volverlas más discoverable para comunidad, aliados y público general.
+La intención es documentar no solo una fecha, sino una forma viva, abierta y replicable de organizar celebraciones culturales 4/20 con cuidado, libertad, límites claros, participación más justa y rendición transparente.
+
+En esta etapa, la prioridad ya no es solo abrir espacios anfitriones, sino articular mejor todas las capas principales del encuentro, volverlas más visibles para comunidad, aliados y público general, y dejar más clara la relación entre territorio, comunidad, documentación y estrategia pro-legalización.

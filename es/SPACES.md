@@ -7,24 +7,17 @@
 **Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿**  
 *Celebración cultural replicable de ingreso y participación libre*
 
-- [Comunidad 4/20²⁶ 🌿](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00) (WhatsApp)
-- [Proyecto Cultural Barranco](https://goo.gl/maps/iWB6R5HZnREL7ALKA) (Maps)
-- [Versión siempre actualizada de este documento](https://github.com/barranco-life/420/blob/main/es/SPACES.md)
-
 > ⚠️ Este documento tiene un enfoque cultural, organizativo y preventivo. No promueve la vulneración de la ley ni ofrece instrucciones para delinquir. En Bolivia rige la **Ley 1008**, por lo que cada espacio y cada persona debe actuar con pleno conocimiento del marco legal vigente, sus propios límites y su responsabilidad individual.
+
+> *Día central 2026:* *lunes 20 de abril de 2026*.
+>
+> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
+>
+> *Nota electoral:* en [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
 
 > ℹ️ Contenido sugerido para carteles visibles sobre la Ley 1008: 
 > La comercialización o consumo de cannabis u otras sustancias controladas, en contravención a la Ley 1008, no es promovido ni permitido en este evento. La responsabilidad legal recae en cada persona por sus propios actos. El espacio se reserva el derecho de pedir el retiro de quien comprometa la seguridad o la continuidad de la actividad.
 
-## Índice
-
-- [Qué es un espacio anfitrión](#qué-es-un-espacio-anfitrión)
-- [Por qué sumarse](#por-qué-sumarse)
-- [Modalidades de participación](#modalidades-de-participación)
-- [Plan de contingencia y protocolo de seguridad](#plan-de-contingencia-y-protocolo-de-seguridad)
-- [Participación justa, costos y transparencia](#participación-justa-costos-y-transparencia)
-- [Cómo proponer un espacio](#cómo-proponer-un-espacio)
-- [Relación con otros documentos](#relación-con-otros-documentos)
 
 ## Qué es un espacio anfitrión
 
@@ -32,13 +25,11 @@ Un **espacio anfitrión** es cualquier lugar, colectivo, plataforma o iniciativa
 
 No todos los espacios tienen que participar del mismo modo ni con el mismo nivel de exposición. Parte de la lógica del encuentro es justamente permitir una red diversa de participación: desde una sede visible y activa hasta una locación secreta, un punto de apoyo o difusión, o una celebración virtual.
 
-La intención no es imponer un formato único, sino abrir una estructura replicable, prudente y hospitalaria que otras personas puedan adaptar según su contexto, su ciudad, su comunidad y su marco legal.
+La intención no es imponer un formato único, sino abrir una estructura replicable, prudente y hospitalaria que otras personas puedan adaptar según su contexto, su ciudad, su comunidad y su marco legal. Replicar eventos 4/20 en distintas ciudades no es un detalle logístico: es parte de la estrategia del movimiento. Cada espacio que se abre ayuda a visibilizar la comunidad, desestigmatizar el cannabis y convertir la legalización en una conversación cada vez más presente en la vida pública boliviana.
 
 Un espacio anfitrión no solo “cede lugar”. También puede volverse el punto donde brotan artistas, expo, conversación, feria, transmisión, comunidad nueva y aprendizajes que luego fortalecen la documentación del encuentro.
 
 Dicho de otro modo: sumarse puede ser también una forma de descubrir, aunque sea por un día, lo que una comunidad bien orientada puede hacer posible cuando encuentra un lugar que la recibe con criterio y hospitalidad.
-
-[Volver al índice](#índice)
 
 ### Tipos de espacios que pueden sumarse
 
@@ -84,9 +75,7 @@ Según su escala, identidad y condiciones, un espacio podría hacer posible, por
 - [Emprendimientos](./VENTURES.md), para volver el encuentro más habitable, hospitalario y sostenible.
 - [Participación virtual](./VIRTUAL.md), tanto para sumarse como para asistir, mirar y compartir.
 
-No todos los espacios tienen que abrir todas estas capas. Lo importante es encontrar una forma proporcionada, prudente y viva de sumarse.
-
-[Volver al índice](#índice)
+No todos los espacios tienen que abrir todas estas capas. Lo importante es encontrar una forma proporcionada, prudente y viva de sumarse. Cuando aparece un espacio, muchas veces la comunidad empieza a articularse bastante orgánicamente: se suman artistas, emprendimientos, apoyo para armar, difusión y gente que quiere aportar de una u otra manera.
 
 ## Modalidades de participación
 
@@ -105,13 +94,13 @@ Puede incluir, según su capacidad:
 
 Para imaginar mejor cómo podría verse cada una de esas capas, este documento dialoga también con [Artistas y Música](./ARTISTS.md), [Artistas Visuales / Expo](./EXHIBITION.md), [Colloquium](./COLLOQUIUM.md), [Emprendimientos](./VENTURES.md) y [Participación Virtual](./VIRTUAL.md).
 
-Estos espacios publican en sus redes y canales de difusión siguiendo las pautas generales del encuentro, tanto por prudencia legal como por conveniencia organizativa: claridad sobre la Ley 1008, plan de contingencia, señalización visible, zona de deshecho de sustancias ilegales cuando corresponda, y una comunicación prudente que ayude a sostener la legitimidad cultural del evento.
+Estos espacios publican en sus redes y canales de difusión siguiendo las pautas generales del encuentro, tanto por prudencia legal como por conveniencia organizativa: claridad sobre la Ley 1008, plan de contingencia, señalización visible, zona de deshecho de sustancias ilegales cuando corresponda, y una comunicación prudente que ayude a sostener la legitimidad cultural del evento. En departamentos donde exista segunda vuelta el domingo 19, esa fecha no debe contarse como día útil para actividad pública y conviene pensar con especial cuidado cualquier actividad del fin de semana previo.
 
 ### Locación secreta
 
 Sede que participa con una estrategia de comunicación más cuidada. En Bolivia, esta modalidad puede ser especialmente útil cuando conviene reducir exposición pública previa.
 
-La lógica general es que la locación se revele al público recién la noche anterior o con muy poca anticipación, mientras que organizadores y voluntarios de apoyo pueden contar antes con la información necesaria para sostener la actividad.
+La lógica general es que la locación se revele al público recién la noche anterior o con muy poca anticipación, normalmente a través del grupo departamental correspondiente, mientras que organizadores y voluntarios de apoyo pueden contar antes con la información necesaria para sostener la actividad.
 
 Puede ser útil para:
 - Pruebas piloto.
@@ -125,7 +114,7 @@ No organiza necesariamente una celebración completa, pero ayuda a visibilizar e
 
 Ejemplos:
 - Celebrar el 4/20 a su manera y, si gusta, notificarnos o taggearnos para compartirlo.
-- Compartir un QR, link o formulario.
+- Compartir un QR, link, grupo departamental o formulario.
 - Publicar en estados o redes.
 - Compartir posts, transmisiones y convocatorias.
 - Ayudar a mover todo lo referente al encuentro entre personas que podrían interesarse.
@@ -147,7 +136,7 @@ Esta modalidad permite:
 - Abrir participación a personas que no pueden desplazarse.
 - Conectar el encuentro con audiencias nuevas, especialmente en redes y plataformas de video.
 
-Los links de estos eventos se difundirán como parte del movimiento. Cuando haga sentido, en [Proyecto Cultural Barranco](https://barranco.life) también podrán proyectarse o transmitirse como parte de la experiencia del encuentro, tal como se desarrolla en [Participación Virtual](./VIRTUAL.md#caso-particular-proyecto-cultural-barranco).
+Los links de estos eventos se difundirán como parte del movimiento. Cuando haga sentido, en [Proyecto Cultural Barranco](https://barranco.life) también podrán proyectarse o transmitirse como parte de la experiencia del encuentro, tal como se desarrolla en [Participación Virtual](./VIRTUAL.md#caso-particular-proyecto-cultural-barranco). También pueden ser especialmente valiosos en departamentos donde el contexto electoral haga más prudente reducir la apuesta presencial antes del lunes 20.
 
 ### Otras formas de participar
 
@@ -184,7 +173,7 @@ Las celebraciones 4/20 realizadas allí mostraron que sí es posible abrir un es
 
 Quien quiera imaginar mejor cómo se traduce eso en capas concretas puede mirar también los casos particulares de [Artistas y Música](./ARTISTS.md#caso-particular-proyecto-cultural-barranco), [Artistas Visuales / Expo](./EXHIBITION.md#caso-particular-proyecto-cultural-barranco), [Colloquium](./COLLOQUIUM.md#caso-particular-proyecto-cultural-barranco), [Emprendimientos](./VENTURES.md#caso-particular-proyecto-cultural-barranco) y [Participación Virtual](./VIRTUAL.md#caso-particular-proyecto-cultural-barranco).
 
-Además, al caer lunes este año, en Proyecto Cultural Barranco se contempla como ejemplo la posibilidad de actividades previas el sábado 18 y domingo 19 de abril: proyecciones, expo, presentaciones u otras formas de previa cultural que ayuden a expandir el encuentro más allá de una sola jornada.
+Además, al caer lunes este año, en Proyecto Cultural Barranco se contempla como ejemplo la posibilidad de actividades previas el sábado 18 y domingo 19 de abril: proyecciones, expo, presentaciones u otras formas de previa cultural que ayuden a expandir el encuentro más allá de una sola jornada. Esto no significa que la misma lógica deba copiarse sin más en todos los departamentos: en lugares con segunda vuelta el domingo 19, el foco debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
 
 ## Plan de contingencia y protocolo de seguridad
 
@@ -239,7 +228,6 @@ Si ocurre un control o inspección:
 - Comunicar la situación con serenidad, evitando pánico o reacciones torpes.
 - Reafirmar que el espacio ha establecido medidas preventivas y que la responsabilidad individual no desaparece por estar dentro del evento.
 
-[Volver al índice](#índice)
 
 ### Orientaciones básicas de prudencia organizativa
 
@@ -295,21 +283,29 @@ En esta primera etapa, la convocatoria principal está enfocada en espacios anfi
 
 **Formulario activo:** [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8)
 
-Si tienes dudas antes de llenar el formulario, puedes escribir primero a [4/20²⁶ 🌿](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00).
+Si tienes dudas antes de llenar el formulario, también puedes moverte desde WhatsApp según tu territorio o interés:
+
+- [Chat general 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE)
+- [La Paz 4/20²⁶ 🟢](https://chat.whatsapp.com/JCVnlJgnL78G7S3ejXSL52)
+- [Cochabamba 4/20²⁶ 🟢](https://chat.whatsapp.com/Be6udeZmtBV6lGgMSsXAWz)
+- [Potosí 4/20²⁶ 🟡](https://chat.whatsapp.com/HMNS1eCZ9bY36FcpFbT5Kp)
+- [Santa Cruz 4/20²⁶ ⚪️](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer)
+- [Tarija 4/20²⁶ ⚪️](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa)
+- [Chuquisaca 4/20²⁶ ⚪️](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj)
+- [Oruro 4/20²⁶ ⚪️](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b)
 
 ## Qué pasa después de proponer un espacio
 
 En general, el proceso busca ser simple:
 
 1. El espacio expresa interés y comparte su contexto.
-2. Se conversa el tipo de participación más realista para esa sede.
+2. Se conversa el tipo de participación más realista para esa sede y su calendario local.
 3. Se define si encaja mejor como sede pública, locación secreta, punto de apoyo o celebración virtual.
-4. Se ajustan expectativas, necesidades y límites.
-5. Si hay alineación suficiente, el espacio se integra a la red del encuentro.
+4. Se ajustan expectativas, necesidades, prudencia legal y límites reales.
+5. Si hay alineación suficiente, el espacio se integra a la red del encuentro y, cuando haga falta, a grupos operativos más específicos.
 
 La meta no es sumar por sumar, sino sumar con claridad y base real.
 
-[Volver al índice](#índice)
 
 ## Relación con otros documentos
 
@@ -317,6 +313,7 @@ Este archivo dialoga especialmente con:
 
 - [Página principal del encuentro](./README.md)
 - [Participar](./PARTICIPATE.md)
+- [Cómo contribuir](./CONTRIBUTE.md)
 - [Artistas y Música](./ARTISTS.md)
 - [Artistas Visuales / Expo](./EXHIBITION.md)
 - [Colloquium](./COLLOQUIUM.md)
@@ -327,6 +324,6 @@ Este archivo dialoga especialmente con:
 - [Comunidad](./COMMUNITY.md)
 - [Manual 4/20 🌿](https://manual420.barranco.life)
 
-No todos los espacios tienen que participar de la misma manera. Lo importante es que cada uno pueda encontrar una forma honesta, prudente y viva de aportar.
+No todos los espacios tienen que participar de la misma manera. Lo importante es que cada uno pueda encontrar una forma honesta, prudente y viva de aportar, según su realidad local, su calendario y sus límites.
 
-El objetivo no es imponer un molde. Es abrir una posibilidad replicable.
+El objetivo no es imponer un molde. Es abrir una posibilidad replicable y dejar más clara la relación entre territorio, comunidad, prudencia y estrategia pro-legalización.

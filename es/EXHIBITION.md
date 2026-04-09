@@ -11,9 +11,17 @@
 
 > ℹ️ La convocatoria específica para [artistas visuales / expo](https://forms.gle/REPLACE_ME_EXHIBITION_FORM) ya está abierta. Este documento deja claro el espíritu general, para que artistas, curadores y espacios puedan imaginar mejor las colaboraciones posibles.
 
+> *Día central 2026:* *lunes 20 de abril de 2026*.
+>
+> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
+>
+> *Nota electoral:* en [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
+
 ## Qué lugar tienen la expo y las artes visuales en el encuentro
 
 Las artes visuales pueden ayudar a que una sede se vuelva más hospitalaria, legible y abierta a distintas sensibilidades.
+
+Replicar eventos 4/20 en distintas ciudades no es un detalle logístico: es parte de la estrategia del movimiento. Y una capa visual puede ayudar mucho a eso, porque vuelve una sede más amable, defendible y abierta a públicos que quizá no entrarían primero por otras capas del encuentro.
 
 No se piensan solo como decoración o acompañamiento. También pueden ayudar a:
 
@@ -33,7 +41,7 @@ Eso ayuda a mantener el espíritu general del proyecto, reduce riesgos innecesar
 
 Al mismo tiempo, eso no significa que un artista o una sede tengan que salir perdiendo.
 
-Si una muestra necesita transporte, montaje, cuidado especial, impresión, materiales o alguna logística que excede lo razonable, la idea es que eso pueda hablarse con claridad. Cuando haga sentido, se buscará junto a la [comunidad](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00) y al [espacio anfitrión](./SPACES.md) la mejor forma de cubrir o aliviar esos costos.
+Si una muestra necesita transporte, montaje, cuidado especial, impresión, materiales o alguna logística que excede lo razonable, la idea es que eso pueda hablarse con claridad. Cuando haga sentido, se buscará junto al [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE), el grupo departamental correspondiente y el [espacio anfitrión](./SPACES.md) la mejor forma de cubrir o aliviar esos costos.
 
 ## Qué tipo de propuestas visuales podrían sumarse
 
@@ -51,6 +59,8 @@ La invitación está abierta, por ejemplo, a:
 - Otras formas visuales que hagan sentido con el espíritu del [encuentro](./README.md)
 
 Lo importante no es encajar en una categoría perfecta, sino aportar a una experiencia cuidada, hospitalaria y con identidad propia.
+
+Cuando aparece un espacio, muchas veces la comunidad empieza a articularse bastante orgánicamente: se suman artistas, emprendimientos, apoyo para armar, difusión y gente que quiere aportar de una u otra manera.
 
 ## Qué puede hacer posible una expo para un espacio que se suma
 
@@ -80,6 +90,8 @@ Hay decisiones que pueden variar según cada sede, por ejemplo:
 - Combinar expo con música, coloquio, feria o encuentro comunitario.
 
 La idea no es volver excluyente el encuentro por fijar un solo modelo, sino sumar posibilidades. Cada espacio puede adaptar estos lineamientos según su realidad, sabiendo que mientras más se aparte del espíritu general, más entra en decisiones propias y menos en una lógica ya probada por la experiencia compartida del [encuentro](./README.md).
+
+En departamentos donde exista segunda vuelta el domingo 19, una capa visual puede seguir siendo muy valiosa, pero conviene pensar con especial cuidado cualquier actividad del fin de semana previo y, por prudencia, poner el foco especialmente en el lunes 20 o en formatos muy cuidados.
 
 ## Caso particular: Proyecto Cultural Barranco
 
@@ -111,6 +123,7 @@ Así como un [espacio](./SPACES.md) puede abrirse a una nueva comunidad, tambié
 - Una conversación menos rígida y más viva.
 - La posibilidad de dialogar con música, naturaleza, comunidad y encuentro.
 - Un primer puente con espacios que luego quizá quieran seguir programando arte, muestras o colaboraciones.
+- Una forma de estar presentes en ciudades donde la red 4/20 todavía está brotando.
 
 ## Qué se valora en una propuesta visual
 
@@ -120,6 +133,7 @@ Más allá del formato, se valora especialmente:
 - Buena disposición para coordinar montaje y tiempos.
 - Apertura a formatos proporcionales al lugar.
 - Comprensión del contexto cultural y legal.
+- Comprensión del contexto territorial y electoral cuando corresponda.
 - Voluntad de aportar a una experiencia hospitalaria, no solo a una exhibición aislada.
 
 ## Relación con otros documentos
@@ -129,10 +143,18 @@ Este archivo dialoga especialmente con:
 - [Espacios Anfitriones](./SPACES.md)
 - [Artistas y Música](./ARTISTS.md)
 - [Participar](./PARTICIPATE.md)
+- [Cómo contribuir](./CONTRIBUTE.md)
 - [Página principal del encuentro](./README.md)
 - [Manual 4/20 🌿](https://manual420.barranco.life)
-- [4/20²⁶ 🪴](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00)
-- [Proyecto Cultural Barranco (Maps)](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE)
+- [La Paz 4/20²⁶ 🟢](https://chat.whatsapp.com/JCVnlJgnL78G7S3ejXSL52)
+- [Cochabamba 4/20²⁶ 🟢](https://chat.whatsapp.com/Be6udeZmtBV6lGgMSsXAWz)
+- [Potosí 4/20²⁶ 🟡](https://chat.whatsapp.com/HMNS1eCZ9bY36FcpFbT5Kp)
+- [Santa Cruz 4/20²⁶ ⚪️](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer)
+- [Tarija 4/20²⁶ ⚪️](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa)
+- [Chuquisaca 4/20²⁶ ⚪️](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj)
+- [Oruro 4/20²⁶ ⚪️](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b)
+- [Proyecto Cultural Barranco](https://barranco.life)
 - [Voluntariado Barranco](https://voluntariado.barranco.life/)
 
-Una expo puede ser una de las formas más suaves y duraderas de hacer visible el encuentro. No la única. Pero sí una de las más hospitalarias para abrir conversación, sensibilidad y comunidad.
+Una expo puede ser una de las formas más suaves y duraderas de hacer visible el encuentro. No la única. Pero sí una de las más hospitalarias para abrir conversación, sensibilidad y comunidad, especialmente cuando una ciudad o una sede recién están empezando a brotar.

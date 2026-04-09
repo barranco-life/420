@@ -11,6 +11,12 @@
 
 > 🌿 Si el encuentro muestra una posibilidad en la práctica, el pliego intenta darle una forma pública que pueda crecer, afinarse y servir más allá de una sola fecha.
 
+> *Día central 2026:* *lunes 20 de abril de 2026*.
+>
+> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
+>
+> *Nota electoral:* en [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
+
 ## Qué es este pliego
 
 Este pliego petitorio es una herramienta abierta para acompañar el Encuentro Nacional 4/20²⁶ 🌿 desde una dimensión ciudadana, cultural y pública.
@@ -28,6 +34,8 @@ Este pliego busca expresar, de manera clara y abierta, que:
 - Hay razones culturales, médicas, industriales, sociales y jurídicas para revisar el enfoque actual.
 - La discusión pública puede darse con más seriedad, mejor información y menos miedo.
 - La legalización no necesita imaginarse solo desde la confrontación, sino también desde la desestigmatización y la experiencia social compartida.
+
+Replicar eventos 4/20 en distintas ciudades no es un detalle logístico: es parte de la estrategia del movimiento. Cada espacio que se abre ayuda a visibilizar la comunidad, desestigmatizar el cannabis y convertir la legalización en una conversación cada vez más presente en la vida pública boliviana. El pliego intenta acompañar esa estrategia desde una dimensión más ciudadana, pública y argumentativa.
 
 ## Versión inicial del pliego
 
@@ -79,7 +87,7 @@ El Encuentro Nacional 4/20²⁶ 🌿 busca abrir celebraciones culturales replic
 
 El pliego acompaña esa estrategia desde otro lugar: intenta poner en palabras parte de lo que esas celebraciones muestran en la práctica.
 
-En otras palabras, el encuentro crea experiencia social; el pliego intenta convertir parte de esa experiencia en una invitación pública a revisar prejuicios, abrir debate y madurar la conversación sobre la legalización. La apuesta es que, a medida que la comunidad 4/20, sus celebraciones y el propio debate se vuelvan más visibles en la vida pública, el tema se vuelva también más difícil de ignorar para autoridades, medios y actores políticos.
+En otras palabras, el encuentro crea experiencia social; el pliego intenta convertir parte de esa experiencia en una invitación pública a revisar prejuicios, abrir debate y madurar la conversación sobre la legalización. La apuesta es que, a medida que la comunidad 4/20, sus celebraciones y el propio debate se vuelvan más visibles en la vida pública, el tema se vuelva también más difícil de ignorar para autoridades, medios y actores políticos. Por eso replicar eventos 4/20 en distintas ciudades no es un detalle secundario: es una parte central de la estrategia pro-legalización.
 
 ## Relación con el Manual 4/20
 
@@ -100,13 +108,27 @@ El pliego está abierto a aportes. Nos interesa especialmente recibir contribuci
 
 No buscamos solo “sumar firmas”. Buscamos que el propio texto mejore y que, con el tiempo, se vuelva más claro, más fuerte y más útil para conversar también fuera de la burbuja 4/20.
 
+También ya existe una capa comunitaria para fortalecer esa tarea desde WhatsApp: [Aportes al Manual 4/20 🌿](https://chat.whatsapp.com/Fn2BXILT6Rj9TYdWgM7uF6), [Orientación Legal 🌿](https://chat.whatsapp.com/JQYgV6zeIbzC6T0ryAnJPs), [Orientación Medicinal 🌿](https://chat.whatsapp.com/IBKq1Bw3MjxKfaMYyjTGg8) y el [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE), además de los grupos por departamento.
+
 ## Cómo aportar ahora
 
 En esta etapa, la forma activa de aportar al pliego es a través del formulario de firmas y contribuciones:
 
 **Formulario activo:** [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6)
 
-También puedes acercarte a la [comunidad 4/20²⁶ 🪴](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00).
+También puedes moverte desde WhatsApp según territorio o interés:
+
+- [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE)
+- [La Paz 4/20²⁶ 🟢](https://chat.whatsapp.com/JCVnlJgnL78G7S3ejXSL52)
+- [Cochabamba 4/20²⁶ 🟢](https://chat.whatsapp.com/Be6udeZmtBV6lGgMSsXAWz)
+- [Potosí 4/20²⁶ 🟡](https://chat.whatsapp.com/HMNS1eCZ9bY36FcpFbT5Kp)
+- [Santa Cruz 4/20²⁶ ⚪️](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer)
+- [Tarija 4/20²⁶ ⚪️](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa)
+- [Chuquisaca 4/20²⁶ ⚪️](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj)
+- [Oruro 4/20²⁶ ⚪️](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b)
+- [Aportes al Manual 4/20 🌿](https://chat.whatsapp.com/Fn2BXILT6Rj9TYdWgM7uF6)
+- [Orientación Legal 🌿](https://chat.whatsapp.com/JQYgV6zeIbzC6T0ryAnJPs)
+- [Orientación Medicinal 🌿](https://chat.whatsapp.com/IBKq1Bw3MjxKfaMYyjTGg8)
 
 ## Qué tipo de mejoras buscamos
 
@@ -139,7 +161,10 @@ Este archivo dialoga especialmente con:
 
 - [Página principal del encuentro](./README.md)
 - [Espacios anfitriones](./SPACES.md)
+- [Cómo contribuir](./CONTRIBUTE.md)
 - [Mapa de participación y convocatorias](./PARTICIPATE.md)
 - [Historia y aprendizajes](./HISTORY.md)
 - [Comunidad](./COMMUNITY.md)
 - [Manual 4/20 🌿](https://manual420.barranco.life)
+
+El pliego no reemplaza la experiencia social del encuentro. Intenta darle continuidad pública, lenguaje compartido y mayor legibilidad a una estrategia que también se juega en los espacios, en la cultura y en la comunidad.

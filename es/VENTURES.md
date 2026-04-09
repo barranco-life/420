@@ -13,6 +13,12 @@
 
 > ℹ️ La convocatoria específica para [emprendimientos](https://forms.gle/3rUdi5U3ALktPdE86) ya está abierta. Este documento deja claro el espíritu general, para que emprendimientos y espacios puedan imaginar mejor las colaboraciones posibles.
 
+> *Día central 2026:* *lunes 20 de abril de 2026*.
+>
+> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
+>
+> *Nota electoral:* en [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
+
 ## Qué lugar tienen los emprendimientos en el encuentro
 
 Los emprendimientos no se piensan solo como “feria” o venta alrededor del evento.
@@ -27,6 +33,8 @@ También pueden ayudar a:
 
 En muchos casos, una capa de emprendimientos puede ser una de las formas más claras de que una celebración realmente se sienta viva.
 
+Replicar eventos 4/20 en distintas ciudades no es un detalle logístico: es parte de la estrategia del movimiento. Y una capa de emprendimientos puede ayudar mucho a eso, porque vuelve una sede más habitable, visible y autosostenible sin depender solo de música o coloquio.
+
 ## Cómo se entiende la participación de emprendimientos
 
 La participación de emprendimientos, como la del público, la del espacio anfitrión y la de otras propuestas del encuentro, se piensa en principio como **gratuita y voluntaria**.
@@ -37,7 +45,7 @@ Al mismo tiempo, eso no significa que un emprendimiento deba asumir por su cuent
 
 En principio, y como se maneja también en el caso de Proyecto Cultural Barranco, la participación se entiende sin cobro por estar dentro de la feria, apelando más bien a un aporte voluntario sobre las ganancias para el espacio cuando eso haga sentido.
 
-Si una propuesta necesita traslado, mobiliario, energía, refrigeración, apoyo de montaje o alguna otra logística que excede lo razonable, la idea es que eso pueda hablarse con claridad. Cuando haga sentido, se buscará junto a la [comunidad](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00) y al [espacio anfitrión](./SPACES.md) la mejor forma de cubrir o aliviar esos costos.
+Si una propuesta necesita traslado, mobiliario, energía, refrigeración, apoyo de montaje o alguna otra logística que excede lo razonable, la idea es que eso pueda hablarse con claridad. Cuando haga sentido, se buscará junto al [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE), el grupo departamental correspondiente y el [espacio anfitrión](./SPACES.md) la mejor forma de cubrir o aliviar esos costos.
 
 ## Qué tipo de emprendimientos podrían sumarse
 
@@ -50,6 +58,7 @@ La invitación está abierta, por ejemplo, a:
 - Productos artesanales
 - Proyectos editoriales
 - Emprendimientos creativos o culturales
+- Parafernalia 4/20 dentro del marco legal vigente
 - Otras propuestas que hagan sentido con el espíritu del [encuentro](./README.md)
 
 Lo importante no es encajar en una categoría perfecta, sino aportar a una experiencia cuidada, hospitalaria y con identidad propia.
@@ -82,6 +91,8 @@ Hay decisiones que pueden variar según cada sede, por ejemplo:
 - Integrar emprendimientos con música, expo, coloquio o encuentro comunitario.
 
 La idea no es fijar un solo modelo, sino sumar posibilidades. Cada espacio puede adaptar estos lineamientos según su realidad, sabiendo que mientras más se aparte del espíritu general, más entra en decisiones propias y menos en una lógica ya probada por la experiencia compartida del [encuentro](./README.md).
+
+En departamentos donde exista segunda vuelta el domingo 19, una capa de emprendimientos puede seguir teniendo valor, pero conviene pensar con especial cuidado cualquier actividad del fin de semana previo y, por prudencia, poner el foco especialmente en el lunes 20 o en formatos muy cuidados.
 
 ## Compromisos mínimos de un emprendimiento
 
@@ -117,7 +128,7 @@ La idea es usar el **jardín de ingreso** como área de feria, con sombra o carp
 
 Si hubiera más propuestas, podrían sumarse también trayendo su propio mobiliario o resolviendo parte de su instalación por cuenta propia, algo que igualmente se puede conversar y coordinar con tiempo.
 
-Puede convivir con feria, barra, café, conversación, expo y vida de jardín, y ayudar a que el encuentro se sienta realmente habitable para quien llega.
+Puede convivir con feria, barra, café, conversación, expo y vida de jardín, y ayudar a que el encuentro se sienta realmente habitable para quien llega. También puede dialogar con propuestas de [Artistas y Música](./ARTISTS.md), [Artistas Visuales / Expo](./EXHIBITION.md) y otras capas del encuentro.
 
 Al mismo tiempo, en el caso del Barranco no interesa que la lógica comercial se coma la experiencia. La idea es que el emprendimiento complemente la celebración, no que la reemplace.
 
@@ -133,6 +144,7 @@ Así como un [espacio](./SPACES.md) puede abrirse a una nueva comunidad, tambié
 - Un contexto cultural distinto al circuito habitual.
 - Una experiencia más comunitaria y menos impersonal.
 - Un primer puente con espacios y redes que quizá luego quieran seguir colaborando.
+- Una forma de estar presentes en ciudades donde la red 4/20 todavía está brotando.
 - Una manera de mostrarse dentro de una celebración con identidad propia.
 
 ## Qué se valora en un emprendimiento que se suma
@@ -144,6 +156,7 @@ Más allá del rubro, se valora especialmente:
 - Claridad en lo que se ofrece.
 - Apertura a formatos proporcionales al lugar.
 - Comprensión del contexto cultural y legal.
+- Comprensión del contexto territorial y electoral cuando corresponda.
 - Voluntad de aportar a una experiencia hospitalaria, no solo a una presencia aislada de venta.
 
 ## Relación con otros documentos
@@ -152,9 +165,20 @@ Este archivo dialoga especialmente con:
 
 - [Espacios Anfitriones](./SPACES.md)
 - [Participar](./PARTICIPATE.md)
+- [Cómo contribuir](./CONTRIBUTE.md)
+- [Artistas y Música](./ARTISTS.md)
+- [Artistas Visuales / Expo](./EXHIBITION.md)
 - [Página principal del encuentro](./README.md)
 - [Manual 4/20 🌿](https://manual420.barranco.life)
-- [4/20²⁶ 🪴](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00)
-- [Proyecto Cultural Barranco (Maps)](https://goo.gl/maps/iWB6R5HZnREL7ALKA)
+- [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE)
+- [La Paz 4/20²⁶ 🟢](https://chat.whatsapp.com/JCVnlJgnL78G7S3ejXSL52)
+- [Cochabamba 4/20²⁶ 🟢](https://chat.whatsapp.com/Be6udeZmtBV6lGgMSsXAWz)
+- [Potosí 4/20²⁶ 🟡](https://chat.whatsapp.com/HMNS1eCZ9bY36FcpFbT5Kp)
+- [Santa Cruz 4/20²⁶ ⚪️](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer)
+- [Tarija 4/20²⁶ ⚪️](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa)
+- [Chuquisaca 4/20²⁶ ⚪️](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj)
+- [Oruro 4/20²⁶ ⚪️](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b)
+- [Proyecto Cultural Barranco](https://barranco.life)
 - [Voluntariado Barranco](https://voluntariado.barranco.life/)
 
+Una capa de emprendimientos no reemplaza el corazón cultural del encuentro. Pero sí puede ayudar a que el 4/20 gane hospitalidad, autosostenibilidad y vida de espacio, especialmente cuando una sede recién está comenzando a brotar.

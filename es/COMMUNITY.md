@@ -11,6 +11,12 @@
 
 > 🌿 Para gran parte del público, una de las formas más útiles de ayudar en la estrategia pro-legalización es compartir todo lo referente al encuentro: links, posts, transmisiones, convocatorias y otras señales de que la conversación ya está viva.
 
+> *Día central 2026:* *lunes 20 de abril de 2026*.
+>
+> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
+>
+> *Nota electoral:* en [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
+
 > 🌿 No se trata de capturar la comunidad. Se trata de acompañarla mejor.
 
 ## Qué entiende este proyecto por comunidad
@@ -23,9 +29,15 @@ La comunidad 4/20 es más grande que cualquier evento, más grande que cualquier
 
 ## Dónde vive la comunidad real
 
-La comunidad real vive primero en sus vínculos, en sus conversaciones y en sus formas de aparecer en el mundo. En esta etapa, su espacio más directo y activo sigue siendo [4/20²⁶ 🪴](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00).
+La comunidad real vive primero en sus vínculos, en sus conversaciones y en sus formas de aparecer en el mundo. En esta etapa, sus espacios más directos y activos viven primero en WhatsApp: [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE), grupos por departamento y grupos temáticos de apoyo como [Aportes al Manual 4/20 🌿](https://chat.whatsapp.com/Fn2BXILT6Rj9TYdWgM7uF6), [Orientación Medicinal 🌿](https://chat.whatsapp.com/IBKq1Bw3MjxKfaMYyjTGg8) y [Orientación Legal 🌿](https://chat.whatsapp.com/JQYgV6zeIbzC6T0ryAnJPs).
 
 El repositorio y el sitio existen para documentar, clarificar y fortalecer lo que la comunidad ya está haciendo, no para reemplazarla ni volverla artificialmente burocrática.
+
+Estado actual de espacios:
+- Confirmados 🟢: [La Paz](https://chat.whatsapp.com/JCVnlJgnL78G7S3ejXSL52), [Cochabamba](https://chat.whatsapp.com/Be6udeZmtBV6lGgMSsXAWz)
+- A Confirmarse 🟡: [Potosí](https://chat.whatsapp.com/HMNS1eCZ9bY36FcpFbT5Kp)
+- Buscando Espacios ⚪️: [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa)
+- Abiertos a Propuestas ⚪️: [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), Pando
 
 ## Capas de participación
 
@@ -39,9 +51,12 @@ Hay, al menos, varias capas posibles:
 - **Artistas, panelistas y propuestas culturales** que enriquecen el encuentro.
 - **Celebraciones virtuales** que amplían el alcance del día.
 - **Aliados ocasionales** que no se sienten parte del núcleo organizador, pero sí del movimiento cultural más amplio.
+- **Aportes temáticos** al Manual 4/20, orientación legal u orientación medicinal.
 - **Voluntarios y organizadores** que sostienen tareas concretas.
 
 Esta estructura por capas evita un error frecuente: creer que la única manera válida de sumarse es “meterse de lleno” o exponerse demasiado. No. La comunidad también crece cuando se vuelve más porosa, más hospitalaria y más fácil de habitar desde distintos niveles.
+
+Replicar eventos 4/20 en distintas ciudades no es un detalle logístico: es parte de la estrategia del movimiento. Cada espacio, artista, emprendimiento, transmisión o aporte que se suma ayuda a visibilizar la comunidad, desestigmatizar el cannabis y convertir la legalización en una conversación cada vez más presente en la vida pública boliviana.
 
 ## Eventos alineados y no alineados
 
@@ -65,15 +80,18 @@ No hace falta entrar a una estructura rígida para formar parte de esta comunida
 
 Hoy, una persona, proyecto o espacio puede sumarse de muchas maneras:
 
-- Entrando a [4/20²⁶ 🪴](https://chat.whatsapp.com/KvN6wsDnoLR1ytdLJI3m00).
+- Entrando al [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE).
+- Sumándose al grupo de su territorio: [La Paz 🟢](https://chat.whatsapp.com/JCVnlJgnL78G7S3ejXSL52), [Cochabamba 🟢](https://chat.whatsapp.com/Be6udeZmtBV6lGgMSsXAWz), [Potosí 🟡](https://chat.whatsapp.com/HMNS1eCZ9bY36FcpFbT5Kp), [Santa Cruz ⚪️](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), [Tarija ⚪️](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa), [Chuquisaca ⚪️](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj) u [Oruro ⚪️](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b).
 - Proponiendo un [espacio anfitrión](./SPACES.md).
 - Difundiendo el encuentro o el [pliego petitorio](./PETITION.md).
 - Participando en una [feria o capa de emprendimientos](./VENTURES.md), [expo](./EXHIBITION.md), [colloquium](./COLLOQUIUM.md) o [transmisión virtual](./VIRTUAL.md).
 - Compartiendo un evento propio del 4/20 para visibilizarlo.
-- Aportando ideas o materiales que fortalezcan el [Manual 4/20 🌿](https://manual420.barranco.life).
+- Aportando ideas o materiales que fortalezcan el [Manual 4/20 🌿](https://manual420.barranco.life) desde [Aportes al Manual 4/20 🌿](https://chat.whatsapp.com/Fn2BXILT6Rj9TYdWgM7uF6), [Orientación Medicinal 🌿](https://chat.whatsapp.com/IBKq1Bw3MjxKfaMYyjTGg8) u [Orientación Legal 🌿](https://chat.whatsapp.com/JQYgV6zeIbzC6T0ryAnJPs).
 - Ayudando a abrir conversación con personas escépticas o no consumidoras.
 
 La idea no es sobreorganizar la comunidad, sino darle mejores puntos de apoyo, documentación y coordinación a algo que ya existe y puede crecer con más claridad.
+
+También importa que esa comunidad pueda orientarse mejor según territorio, momento y contexto electoral, en vez de depender de un solo grupo o de una sola sede.
 
 ## Cuidado del tono y la convivencia
 
@@ -88,7 +106,7 @@ Eso implica, entre otras cosas:
 - No romantizar desorden, imprudencia o negligencia como si fueran sinónimos de libertad.
 - Entender que una comunidad más visible también necesita volverse más legible para la sociedad en general.
 
-La comunidad no crece solo por cantidad. También crece cuando madura su forma de mostrarse.
+Y también implica recordar algo básico: _el encuentro no promueve vulnerar la Ley 1008; la responsabilidad es individual_.
 
 ## Relación con otros documentos
 
@@ -96,6 +114,7 @@ Este archivo dialoga especialmente con:
 
 - [Página principal del encuentro](./README.md)
 - [Espacios anfitriones](./SPACES.md)
+- [Cómo contribuir](./CONTRIBUTE.md)
 - [Mapa de participación y convocatorias](./PARTICIPATE.md)
 - [Artistas y Música](./ARTISTS.md)
 - [Artistas Visuales / Expo](./EXHIBITION.md)
@@ -105,3 +124,5 @@ Este archivo dialoga especialmente con:
 - [Pliego petitorio](./PETITION.md)
 - [Historia y aprendizajes](./HISTORY.md)
 - [Manual 4/20 🌿](https://manual420.barranco.life)
+
+La comunidad no crece solo porque más gente entre a un grupo. Crece cuando encuentra mejores formas de aparecer, cuidarse, orientarse por territorio y volverse cada vez más legible para la vida pública del país.
