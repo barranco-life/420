@@ -92,7 +92,11 @@ En departamentos donde exista segunda vuelta el domingo 19, una capa visual pued
 
 En [Proyecto Cultural Barranco](https://barranco.life), el 4/20²⁶ incluyó la [galería](https://www.instagram.com/galeria.barranco) como una de las puertas vivas del encuentro. La exposición se inauguró el **sábado 18 de abril** y quedó abierta más allá del día central, con presencia duradera en el espacio.
 
-Ese aprendizaje sirve para futuras ediciones: una expo puede sostenerse más allá del día central, invitar a público general y mostrar que un espacio puede sumarse sin depender solo de música o feria.
+Lo que ocurrió en el 4/20²⁶: cuatro expositores — **Fabretes**, **Patricio Chamorro (patriciografico)**, **Dánica Val** y **Paolo Copa**. Los dos últimos llegaron principalmente desde la convocatoria de emprendimientos, y su propuesta encontró mejor lugar en la expo. La exposición se inauguró el sábado 18 y quedó abierta al menos hasta fin de mayo.
+
+Ninguna obra estaba dedicada específicamente al 4/20, y estuvo bien así: la expo fue una forma concreta de rebotar la Galería Barranco, que llevaba tiempo vacía. Para futuras ediciones, con más tiempo de convocatoria y más claridad en la propuesta, podrían sumarse obras que dialoguen directamente con la temática del encuentro.
+
+Aprendizaje: una expo de estas características puede ser una de las formas más suaves y duraderas de hacer visible el encuentro — no solo el día central, sino semanas después.
 
 En el caso del Barranco, la lógica propuesta es que si una obra se vende, **la venta sea para el artista**, con un aporte sugerido al espacio a criterio suyo.
 

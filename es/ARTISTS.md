@@ -101,9 +101,11 @@ En departamentos donde exista segunda vuelta el domingo 19, una capa musical pue
 
 En [Proyecto Cultural Barranco](https://barranco.life), el 4/20²⁶ funcionó con **tres escenarios simultáneos**: escenario de música en vivo (Barranco abajo), espacio de DJs (El Parrillero) y galería como *open deck*. Katarsis mezcló más de cuatro horas con el espíritu correcto.
 
-Aprendizaje importante de la experiencia 2026: la flexibilidad horaria importa. Un evento estilo Voluntariado Barranco no es una grilla rígida — es una experiencia co-creada. Los artistas que llegaron con esa comprensión encontraron el espacio más vivo. Futuros reencuentros DJ y conciertos en Barranco son posibles como espacio alternativo.
+Aprendizaje importante de la experiencia 2026: **no todos los artistas registrados pudieron venir**, y eso no fue problema. Los que sí llegaron tuvieron espacio para explayarse con sets más largos de lo habitual. **Katarsis** mezcló más de cuatro horas en el día central. **The Strikes** se presentaron en el escenario de abajo. La flexibilidad horaria es parte del espíritu del encuentro: no es una grilla rígida, es una experiencia co-creada.
 
-Esto se menciona para que otros espacios tengan una idea más concreta de cómo una sede puede armar una celebración real combinando lo propio del lugar con lo que la comunidad ayuda a activar.
+Para quienes llegaron a registrarse pero no pudieron venir: el espacio sigue abierto para futuras actividades en Barranco y para futuras ediciones del 4/20.
+
+Esto se menciona para que otros espacios entiendan que una convocatoria con más registros que presencias no es un fracaso — es una señal de interés real que puede crecer con más tiempo y más confianza.
 
 No se presenta como modelo obligatorio. Se presenta como un caso vivo de referencia.
 

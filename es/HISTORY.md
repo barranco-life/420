@@ -133,17 +133,35 @@ También cambia el tono y la estrategia: menos búsqueda de choque, más hospita
 
 ## 2026 · Tres días de celebración co-creada en el Barranco
 
+![4/20²⁶](./assets/HISTORY_2026.jpg)
+
 El 4/20²⁶ se vivió en **Proyecto Cultural Barranco** como caso de referencia del primer Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿.
 
-Fue el primer 4/20 que se planificó explícitamente como infraestructura replicable: con documentación abierta, grupos por departamento, capas de participación definidas y un Manual 4/20 🌿 como recurso comunitario independiente del evento.
+Fue el primer 4/20 que se planificó explícitamente como infraestructura replicable: con documentación abierta, grupos por departamento, capas de participación definidas, formularios de convocatoria activos y un Manual 4/20 🌿 como recurso comunitario independiente del evento.
 
-Datos clave del caso Barranco 2026:
+### Lo que pasó
 
-- Tres días de actividades: preparativos abiertos el sábado 18 y domingo 19, día central el lunes 20.
-- Puertas públicas desde las 3pm, inicio visible público a las 4:20pm.
-- No hubo incidentes.
-- La co-creación funcionó en la práctica.
-- Música, expo, emprendimientos, coloquio, yoga y encuentro comunitario convivieron con naturalidad.
+Tres días de actividades: preparativos abiertos el sábado 18 y domingo 19, día central el lunes 20. No hubo incidentes. Música, expo, emprendimientos, coloquio, encuentro comunitario y transmisión en vivo convivieron con naturalidad.
+
+**Artistas y música:** 18 artistas se registraron — DJs y bandas. No todos pudieron venir, y eso no fue problema: los que sí llegaron tuvieron espacio para explayarse con sets más largos de lo habitual. Katarsis mezcló más de cuatro horas en el día central. Entre las bandas que se presentaron estuvo **The Strikes**. La flexibilidad horaria fue un aprendizaje real: un evento estilo Voluntariado Barranco no es una grilla rígida, es una experiencia co-creada.
+
+**Expo:** cuatro expositores — **Fabretes**, **Patricio Chamorro (patriciografico)**, **Dánica Val** y **Paolo Copa**. La expo se inauguró el sábado 18 y quedó abierta más allá del día central, al menos hasta fin de mayo. No hubo obras dedicadas específicamente al 4/20, pero la expo fue una forma concreta de rebotar la Galería Barranco, que llevaba tiempo vacía. Para futuras ediciones, con más tiempo de convocatoria, podrían sumarse obras con esa temática.
+
+**Emprendimientos:** ocho emprendimientos se registraron, entre ellos Cécile Sabor Argentino, Petopolis, BLESSED COFFE, Freedom (artesanías), La Tranca (singani artesanal), CASITA HOGAR ADOPTA AMOR (adopción animal) y Ziel Vodka. Los que se sumaron ayudaron más allá de su stand: montando, desmontando, juntando basura, moviendo cosas. Ese apoyo mutuo más allá de la propia mesa es parte del espíritu del encuentro.
+
+**Coloquio:** nadie se pre-registró, pero tres personas participaron en una llamada de WhatsApp. Una de ellas fue quien organizó los eventos de rap freestyle en Oruro y Potosí; otra, integrante de The Strikes. Ser pocos permitió escuchar a todos y tener una buena charla. Que se repita.
+
+**Transmisión:** el 4/20²⁶ se transmitió únicamente por **TikTok** — los tres días, con fragmentos de cada jornada. No hubo muchas fotos porque el teléfono estaba ocupado transmitiendo en vivo. Para futuras ediciones, transmitir también en otras plataformas y, sobre todo, recibir streams entrantes de otros espacios es algo deseable y alentado.
+
+**Pliego petitorio:** tres entradas. Uno de los aportes más interesantes vino de un peleador de MMA de Cochabamba: propuso incorporar al pliego la dimensión del cannabis en el deporte de alto rendimiento (THC y CBD como complemento físico). Para la próxima edición, la estrategia del pliego merece ser repensada.
+
+**Otros departamentos:** en Oruro y Potosí se realizaron eventos 4/20 de formato propio — batallas de freestyle rap organizadas por Campo de Marte. No eran parte de la propuesta del encuentro, pero se recibieron a través de los chats departamentales y se relavó la información por Anuncios. Para futuras ediciones, coordinar con estas iniciativas, conseguir más detalles y difundir también hacia grupos de Facebook y otras redes sería un plus.
+
+**Manifestación pública:** el 20 de abril hubo una manifestación en Plaza Murillo organizada por el Colectivo Papá Ganjah. Se relavó la info en Facebook. La cobertura llegó a La Patria Bolivia con 266 mil seguidores. No fue iniciativa del Barranco, pero es parte del cuadro del día.
+
+**Cochabamba:** un espacio estuvo muy cerca de abrirse como locación secreta, pero no se dio por motivos que no llegamos a conocer. Sin problema.
+
+### La lógica de co-creación en la práctica
 
 La lógica de "voluntarios por un día" fue real y comprobable: sin la ayuda espontánea de quienes estuvieron, no habría sido posible sostener tres días. El cartel de ingreso, las carpas, subir y bajar cosas, mover mesas y sillas, los basureros, recibir gente, ordenar, guardar cosas, adaptarse a los tiempos y resolver problemas en vivo — todo eso ocurrió con colaboración orgánica.
 
@@ -153,9 +171,11 @@ El aprendizaje más profundo del caso Barranco 2026:
 
 Ese aprendizaje guía el framing post-evento del repo y el puente hacia 4/20²⁷.
 
-Un formulario de feedback quedó abierto después del evento para recoger aprendizajes, sensaciones, críticas, ideas y propuestas. Los resultados alimentarán el Manual 4/20 🌿 y la preparación de la siguiente edición.
+Un formulario de feedback quedó abierto después del evento. Los resultados alimentarán el Manual 4/20 🌿 y la preparación de la siguiente edición. Un aporte ya específico: revisar los límites de ingreso de mascotas a los espacios donde hay comida.
 
 El Barranco se confirma no solo como caso de referencia de una celebración cultural bien organizada, sino como una demostración práctica de que el modelo de co-creación, hospitalidad y libertad con reglas puede sostenerse en el tiempo.
+
+*Pendiente: los números de ingresos generados por el 4/20²⁶ en Mallasa se actualizarán aquí una vez que el PCB cierre cuentas a fin de mes.*
 
 ## Relación con otros documentos
 

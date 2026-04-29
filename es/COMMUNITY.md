@@ -86,6 +86,20 @@ El 4/20²⁶ en el Barranco confirmó algo: el cannabis no fue el centro social 
 
 Voluntariado Barranco busca cultivar durante todo el año esa misma posibilidad. Para quienes resonaron con ese espíritu más allá del cannabis, [Voluntariado Barranco](https://voluntariado.barranco.life/) es el puente natural.
 
+## Para qué sirven los grupos
+
+Los grupos de WhatsApp no son solo para anuncios o convocatorias. También son un recurso activo para quien necesita orientación.
+
+Si alguien tiene dudas sobre la organización de un 4/20, quiere saber cómo funciona el modelo del Barranco, tiene preguntas sobre la Ley 1008, quiere aportar información al Manual 4/20 🌿 o simplemente quiere conectar con personas que ya vivieron el proceso — los grupos son el lugar.
+
+- Dudas sobre organización → [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE) o el grupo de su departamento
+- Dudas o info legal → [Orientación Legal 🌿](https://chat.whatsapp.com/JQYgV6zeIbzC6T0ryAnJPs)
+- Info medicinal o de salud → [Orientación Medicinal 🌿](https://chat.whatsapp.com/IBKq1Bw3MjxKfaMYyjTGg8)
+- Aportes al manual → [Aportes al Manual 4/20 🌿](https://chat.whatsapp.com/Fn2BXILT6Rj9TYdWgM7uF6)
+- Replicar o planear un 4/20 → [Cómo (y por qué) organizar un 4/20 🌿](https://chat.whatsapp.com/DoFrA1mNgShCiOW2X84DSn)
+
+La idea es que quien llega a estos grupos encuentre orientación real, no solo silencio o mensajes de difusión.
+
 ## Cómo sumarse sin complicarlo todo
 
 No hace falta entrar a una estructura rígida para formar parte de esta comunidad.

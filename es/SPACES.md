@@ -172,6 +172,8 @@ Quien quiera imaginar mejor cómo se traduce eso en capas concretas puede mirar 
 
 En Proyecto Cultural Barranco, el 4/20²⁶ incluyó actividades previas el sábado 18 y domingo 19 de abril: expo, preparativos abiertos y organización comunitaria que expandieron el encuentro más allá de una sola jornada. Ese aprendizaje es útil para futuras ediciones: un espacio puede expandir la experiencia más allá del día central si tiene capacidad y comunidad para sostenerlo.
 
+Aprendizaje de 2026 sobre replicación: un espacio en Cochabamba estuvo muy cerca de abrirse como locación secreta, pero no se dio por motivos que no llegamos a conocer. Sin problema — la exposición pública no es para todos, y eso es completamente válido. Para futuras ediciones, mantener un canal de conversación abierto con espacios interesados puede ayudar a que quienes tienen dudas o condiciones especiales encuentren una forma de sumarse que sí les funcione.
+
 ## Plan de contingencia y protocolo de seguridad
 
 Este es uno de los aprendizajes más valiosos acumulados por el encuentro a lo largo de los años. No se presenta como receta rígida ni como garantía absoluta, pero sí como una base prudente para organizar celebraciones culturalmente defendibles en el contexto boliviano.

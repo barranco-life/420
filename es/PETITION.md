@@ -144,7 +144,11 @@ Que el pliego se nutra de lo que ya han mostrado años de encuentro, espacios an
 
 ## Estado actual
 
-El pliego sigue siendo un documento en desarrollo. El 4/20²⁶ ya ocurrió, pero la dimensión ciudadana del pliego sigue abierta y tiene horizonte hacia 4/20²⁷. El texto incluido más arriba es una versión inicial pública, abierta a enriquecerse con el tiempo.
+El pliego sigue siendo un documento en desarrollo. El 4/20²⁶ ya ocurrió, pero la dimensión ciudadana sigue abierta y tiene horizonte hacia 4/20²⁷.
+
+Dato concreto del 4/20²⁶: el formulario recibió **tres entradas**, incluyendo un aporte sustantivo de un peleador de MMA de Cochabamba que propone incorporar el cannabis en el deporte de alto rendimiento como dimensión médica. Ese tipo de aporte es exactamente lo que el pliego busca: perspectivas desde experiencia real, no solo argumentos ideológicos.
+
+Para la próxima edición, la estrategia de difusión del pliego merece ser repensada — tanto el formato del formulario como los canales por los que se comparte. El texto incluido más arriba es una versión inicial pública, abierta a enriquecerse con el tiempo.
 
 Su valor no está en aparentar cierre, sino en abrir una base común que pueda volverse más sólida, más justa y más útil con el tiempo.
 

@@ -106,15 +106,13 @@ En departamentos donde exista segunda vuelta el domingo 19, una capa de conversa
 
 ## Caso particular: Proyecto Cultural Barranco
 
-En [Proyecto Cultural Barranco](https://barranco.life), la referencia viva para el coloquio viene sobre todo de la experiencia de [4/20²²](./HISTORY.md#2022).
+En [Proyecto Cultural Barranco](https://barranco.life), el 4/20²⁶ confirmó algo que ya apuntaba desde 2022: el coloquio pierde fuerza cuando queda atrapado entre personas ya convencidas. Gana mucho más valor cuando abre conversación sobre organización, cuidado, comunidad y estrategias de visibilización no confrontacionales.
 
-Esa experiencia dejó claro algo importante: el coloquio pierde fuerza cuando se queda demasiado en justificar la legalización ante personas que ya están convencidas. En cambio, gana mucho más valor cuando ayuda a pensar cómo volver el encuentro más hospitalario, más prudente, más legible y más útil para abrir conversación con otras personas.
+El coloquio del 4/20²⁶ se realizó como **llamada de WhatsApp**. Nadie se había pre-registrado, pero tres personas participaron. Una de ellas fue quien organizó los eventos de rap freestyle en Oruro y Potosí; otra, integrante de The Strikes. Ser pocos no fue un problema: permitió escuchar a todos y tener una conversación genuina.
 
-Por eso, una línea valiosa para este año es pensar el coloquio no solo como mesa de argumentos, sino también como espacio para compartir aprendizajes reales sobre organización, cuidado, comunidad y estrategias no confrontacionales de visibilización.
+Aprendizaje: el formato pequeño y horizontal puede ser tan valioso como una mesa de panelistas. Un coloquio bien llevado con tres personas es mejor que una mesa grande con poca escucha.
 
-En el caso del Barranco, el coloquio 4/20²⁶ se realizó el domingo 19 de abril.
-
-También se abrió a participación remota.
+Que se repita.
 
 Además, si existen otros espacios y coloquios en paralelo, una posibilidad muy valiosa es que se realicen en el mismo rango horario y que el tema principal no sea solo argumentar a favor de la legalización, sino escuchar qué experiencias están teniendo con la organización y qué aprendizajes podrían enriquecer luego la documentación del encuentro y el [Manual 4/20 🌿](https://manual420.barranco.life).
 

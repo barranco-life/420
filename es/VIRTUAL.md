@@ -97,7 +97,9 @@ En departamentos donde exista segunda vuelta el domingo 19, una capa virtual pue
 
 ## Caso particular: Proyecto Cultural Barranco
 
-En [Proyecto Cultural Barranco](https://barranco.life), la capa virtual del 4/20²⁶ incluyó transmisiones en vivo desde las redes del Barranco ([Instagram](http://instagram.com/barranco.life), [Twitch](http://twitch.tv/barranco_life), [Facebook](https://facebook.com/barranco.life) y [TikTok](https://www.tiktok.com/@barranco.life)) y proyección en el espacio. Ese modelo sigue siendo replicable y de bajo riesgo para futuras ediciones.
+En [Proyecto Cultural Barranco](https://barranco.life), el 4/20²⁶ se transmitió únicamente por **[TikTok](https://www.tiktok.com/@barranco.life)** — los tres días, con fragmentos de cada jornada. No hubo muchas fotos porque el teléfono estaba ocupado transmitiendo en vivo.
+
+Aprendizaje importante: en futuras ediciones, transmitir también en otras plataformas (Instagram, Twitch, Facebook) y, sobre todo, **recibir streams entrantes de otros espacios** es algo deseable y alentado. La capa virtual no tiene que ser solo output — puede ser también input de otras sedes.
 
 Para futuras ediciones, la coordinación puede hacerse desde el [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE) y grupos más específicos según territorio o modalidad.
 
