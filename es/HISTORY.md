@@ -32,7 +32,7 @@ El encuentro de 4/20²² fue el primer gran hito del proceso. Cayó en un día l
 
 La memoria general del proceso lo recuerda como un día de alta intensidad comunitaria, con más de mil asistentes, dos escenarios, bandas, DJs, feria y un coloquio que incluyó también voces externas y participantes remotos. Más allá del número exacto final, lo importante es que dejó una evidencia clara: el 4/20 podía convocar de forma transversal, potente y culturalmente rica.
 
-Ese año todavía pesaba más una lógica de “gran encuentro” que una lógica de red replicable o territorial. Pero ya estaban presentes varias semillas de lo que vendría después:
+Ese año todavía pesaba más una lógica de "gran encuentro" que una lógica de red replicable o territorial. Pero ya estaban presentes varias semillas de lo que vendría después:
 
 - La mezcla entre música, feria, conversación y comunidad.
 - La posibilidad de abrir el espacio a perfiles muy distintos.
@@ -50,7 +50,7 @@ El encuentro de 2023 muestra un paso importante en la maduración del formato. P
 
 Ese giro no es menor. 2023 no solo consolidó música y encuentro comunitario: también empezó a hacer más explícita una dimensión ciudadana y documental del proyecto.
 
-Aquí aparece uno de los aprendizajes más valiosos del proceso: el **plan de contingencia / protocolo de seguridad**. La experiencia dejó claro que no bastaba con “abrir el espacio” y confiar en la buena voluntad general. Si la propuesta quería sostenerse en Bolivia sin caer en ingenuidad, necesitaba reglas, señalización, criterios de ingreso, prudencia legal y una forma de actuar ante situaciones delicadas.
+Aquí aparece uno de los aprendizajes más valiosos del proceso: el **plan de contingencia / protocolo de seguridad**. La experiencia dejó claro que no bastaba con "abrir el espacio" y confiar en la buena voluntad general. Si la propuesta quería sostenerse en Bolivia sin caer en ingenuidad, necesitaba reglas, señalización, criterios de ingreso, prudencia legal y una forma de actuar ante situaciones delicadas.
 
 Ese aprendizaje cambió el rumbo del proyecto.
 
@@ -95,9 +95,9 @@ En 2025 el proyecto ya mostraba una estructura más compleja y explícita. Los f
 
 También se fue volviendo más clara la idea de comunidad por capas: no solo asistentes, sino artistas, emprendimientos, panelistas, espacios, personas que difunden, personas que aportan al manual y distintas formas de participación con distintos niveles de exposición.
 
-Ese año también quedó más clara la idea de que podían existir distintos tipos de sedes, incluyendo modalidades más discretas y niveles de riesgo distintos. Y empezó a tomar forma la noción de que el proyecto ya no era solo “el 4/20 del Barranco”, sino algo con capacidad de convertirse en red, en metodología y en documentación replicable.
+Ese año también quedó más clara la idea de que podían existir distintos tipos de sedes, incluyendo modalidades más discretas y niveles de riesgo distintos. Y empezó a tomar forma la noción de que el proyecto ya no era solo "el 4/20 del Barranco", sino algo con capacidad de convertirse en red, en metodología y en documentación replicable.
 
-Al mismo tiempo, se hizo evidente que el enfoque todavía arrastraba parte de una lógica más centrada en “hacer ruido” y “cambiar el mundo” desde una postura de empuje. Esa energía ayudó a mover cosas, pero también mostró sus límites. El giro 2026 nace, en parte, de reconocer eso con honestidad y de querer ir hacia algo más profundo, más alineado y menos reactivo.
+Al mismo tiempo, se hizo evidente que el enfoque todavía arrastraba parte de una lógica más centrada en "hacer ruido" y "cambiar el mundo" desde una postura de empuje. Esa energía ayudó a mover cosas, pero también mostró sus límites. El giro 2026 nace, en parte, de reconocer eso con honestidad y de querer ir hacia algo más profundo, más alineado y menos reactivo.
 
 ## Lo que fue quedando claro
 
@@ -135,45 +135,15 @@ También cambia el tono y la estrategia: menos búsqueda de choque, más hospita
 
 ![4/20²⁶](./assets/HISTORY_2026.jpg)
 
-El 4/20²⁶ se vivió en **Proyecto Cultural Barranco** como caso de referencia del primer Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿.
+El 4/20²⁶ se vivió en **Proyecto Cultural Barranco** como caso de referencia del primer Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿. Fue el primer 4/20 planificado explícitamente como infraestructura replicable: con documentación abierta, grupos por departamento, capas de participación definidas y un Manual 4/20 🌿 como recurso comunitario independiente del evento.
 
-Fue el primer 4/20 que se planificó explícitamente como infraestructura replicable: con documentación abierta, grupos por departamento, capas de participación definidas, formularios de convocatoria activos y un Manual 4/20 🌿 como recurso comunitario independiente del evento.
+Tres días: preparativos abiertos el sábado 18 y domingo 19, día central el lunes 20. Música, expo, emprendimientos, coloquio, transmisión en vivo y encuentro comunitario convivieron sin incidentes. La lógica de "voluntarios por un día" funcionó en la práctica.
 
-### Lo que pasó
+En otras ciudades también hubo actividad 4/20 ese día — en formatos propios, sin coordinación directa con el encuentro. En Cochabamba, un espacio estuvo cerca de abrirse como locación secreta pero no se concretó.
 
-Tres días de actividades: preparativos abiertos el sábado 18 y domingo 19, día central el lunes 20. No hubo incidentes. Música, expo, emprendimientos, coloquio, encuentro comunitario y transmisión en vivo convivieron con naturalidad.
+> El cannabis no fue el centro social más profundo. El centro más hondo fue la manera alternativa de organizarnos: co-crear, adaptarnos, cuidar el espacio, colaborar y estar juntos entre personas diversas.
 
-**Artistas y música:** 18 artistas se registraron — DJs y bandas. No todos pudieron venir, y eso no fue problema: los que sí llegaron tuvieron espacio para explayarse con sets más largos de lo habitual. Katarsis mezcló más de cuatro horas en el día central. Entre las bandas que se presentaron estuvo **The Strikes**. La flexibilidad horaria fue un aprendizaje real: un evento estilo Voluntariado Barranco no es una grilla rígida, es una experiencia co-creada.
-
-**Expo:** cuatro expositores — **Fabretes**, **Patricio Chamorro (patriciografico)**, **Dánica Val** y **Paolo Copa**. La expo se inauguró el sábado 18 y quedó abierta más allá del día central, al menos hasta fin de mayo. No hubo obras dedicadas específicamente al 4/20, pero la expo fue una forma concreta de rebotar la Galería Barranco, que llevaba tiempo vacía. Para futuras ediciones, con más tiempo de convocatoria, podrían sumarse obras con esa temática.
-
-**Emprendimientos:** ocho emprendimientos se registraron, entre ellos Cécile Sabor Argentino, Petopolis, BLESSED COFFE, Freedom (artesanías), La Tranca (singani artesanal), CASITA HOGAR ADOPTA AMOR (adopción animal) y Ziel Vodka. Los que se sumaron ayudaron más allá de su stand: montando, desmontando, juntando basura, moviendo cosas. Ese apoyo mutuo más allá de la propia mesa es parte del espíritu del encuentro.
-
-**Coloquio:** nadie se pre-registró, pero tres personas participaron en una llamada de WhatsApp. Una de ellas fue quien organizó los eventos de rap freestyle en Oruro y Potosí; otra, integrante de The Strikes. Ser pocos permitió escuchar a todos y tener una buena charla. Que se repita.
-
-**Transmisión:** el 4/20²⁶ se transmitió únicamente por **TikTok** — los tres días, con fragmentos de cada jornada. No hubo muchas fotos porque el teléfono estaba ocupado transmitiendo en vivo. Para futuras ediciones, transmitir también en otras plataformas y, sobre todo, recibir streams entrantes de otros espacios es algo deseable y alentado.
-
-**Pliego petitorio:** tres entradas. Uno de los aportes más interesantes vino de un peleador de MMA de Cochabamba: propuso incorporar al pliego la dimensión del cannabis en el deporte de alto rendimiento (THC y CBD como complemento físico). Para la próxima edición, la estrategia del pliego merece ser repensada.
-
-**Otros departamentos:** en Oruro y Potosí se realizaron eventos 4/20 de formato propio — batallas de freestyle rap organizadas por Campo de Marte. No eran parte de la propuesta del encuentro, pero se recibieron a través de los chats departamentales y se relavó la información por Anuncios. Para futuras ediciones, coordinar con estas iniciativas, conseguir más detalles y difundir también hacia grupos de Facebook y otras redes sería un plus.
-
-**Manifestación pública:** el 20 de abril hubo una manifestación en Plaza Murillo organizada por el Colectivo Papá Ganjah. Se relavó la info en Facebook. La cobertura llegó a La Patria Bolivia con 266 mil seguidores. No fue iniciativa del Barranco, pero es parte del cuadro del día.
-
-**Cochabamba:** un espacio estuvo muy cerca de abrirse como locación secreta, pero no se dio por motivos que no llegamos a conocer. Sin problema.
-
-### La lógica de co-creación en la práctica
-
-La lógica de "voluntarios por un día" fue real y comprobable: sin la ayuda espontánea de quienes estuvieron, no habría sido posible sostener tres días. El cartel de ingreso, las carpas, subir y bajar cosas, mover mesas y sillas, los basureros, recibir gente, ordenar, guardar cosas, adaptarse a los tiempos y resolver problemas en vivo — todo eso ocurrió con colaboración orgánica.
-
-El aprendizaje más profundo del caso Barranco 2026:
-
-> El cannabis no fue el centro social más profundo. Todos queremos verlo legal, sí, pero el centro más hondo fue la manera alternativa de organizarnos: co-crear, adaptarnos, cuidar el espacio, colaborar, participar y estar juntos entre personas diversas.
-
-Ese aprendizaje guía el framing post-evento del repo y el puente hacia 4/20²⁷.
-
-Un formulario de feedback quedó abierto después del evento. Los resultados alimentarán el Manual 4/20 🌿 y la preparación de la siguiente edición. Un aporte ya específico: revisar los límites de ingreso de mascotas a los espacios donde hay comida.
-
-El Barranco se confirma no solo como caso de referencia de una celebración cultural bien organizada, sino como una demostración práctica de que el modelo de co-creación, hospitalidad y libertad con reglas puede sostenerse en el tiempo.
+El detalle de cada capa (artistas, expo, emprendimientos, coloquio, transmisión, pliego) vive en los documentos específicos de este repositorio.
 
 *Pendiente: los números de ingresos generados por el 4/20²⁶ en Mallasa se actualizarán aquí una vez que el PCB cierre cuentas a fin de mes.*
 
