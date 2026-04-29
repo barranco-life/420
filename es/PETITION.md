@@ -11,11 +11,6 @@
 
 > 🌿 Si el encuentro muestra una posibilidad en la práctica, el pliego intenta darle una forma pública que pueda crecer, afinarse y servir más allá de una sola fecha.
 
-> *Día central 2026:* *lunes 20 de abril de 2026*.
->
-> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
->
-> *Nota electoral:* en [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
 
 ## Qué es este pliego
 
@@ -110,11 +105,9 @@ No buscamos solo “sumar firmas”. Buscamos que el propio texto mejore y que, 
 
 También ya existe una capa comunitaria para fortalecer esa tarea desde WhatsApp: [Aportes al Manual 4/20 🌿](https://chat.whatsapp.com/Fn2BXILT6Rj9TYdWgM7uF6), [Orientación Legal 🌿](https://chat.whatsapp.com/JQYgV6zeIbzC6T0ryAnJPs), [Orientación Medicinal 🌿](https://chat.whatsapp.com/IBKq1Bw3MjxKfaMYyjTGg8) y el [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE), además de los grupos por departamento.
 
-## Cómo aportar ahora
+## Cómo aportar
 
-En esta etapa, la forma activa de aportar al pliego es a través del formulario de firmas y contribuciones:
-
-**Formulario activo:** [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6)
+El pliego sigue abierto a contribuciones. Como referencia, el formulario de firmas 2026 fue [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6). Para conversación y aportes al texto:
 
 También puedes moverte desde WhatsApp según territorio o interés:
 
@@ -151,7 +144,7 @@ Que el pliego se nutra de lo que ya han mostrado años de encuentro, espacios an
 
 ## Estado actual
 
-En esta etapa, el pliego debe entenderse como un documento en desarrollo. El texto incluido más arriba es una versión inicial pública, abierta a enriquecerse con el tiempo.
+El pliego sigue siendo un documento en desarrollo. El 4/20²⁶ ya ocurrió, pero la dimensión ciudadana del pliego sigue abierta y tiene horizonte hacia 4/20²⁷. El texto incluido más arriba es una versión inicial pública, abierta a enriquecerse con el tiempo.
 
 Su valor no está en aparentar cierre, sino en abrir una base común que pueda volverse más sólida, más justa y más útil con el tiempo.
 

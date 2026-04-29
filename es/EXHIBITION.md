@@ -9,13 +9,8 @@
 
 > 🌿 Una expo puede ser una de las formas más amables y potentes de abrir el encuentro a público general, escépticos y personas que quizá no se acercarían primero por otra puerta.
 
-> ℹ️ La convocatoria específica para [artistas visuales / expo](https://forms.gle/REPLACE_ME_EXHIBITION_FORM) ya está abierta. Este documento deja claro el espíritu general, para que artistas, curadores y espacios puedan imaginar mejor las colaboraciones posibles.
+> ℹ️ Este documento preserva el espíritu de la capa visual y sirve como guía de referencia para futuras ediciones. El formulario 2026 como referencia: [Artistas Visuales / Expo](https://forms.gle/FRbBrQBWWF9WhNSh6).
 
-> *Día central 2026:* *lunes 20 de abril de 2026*.
->
-> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
->
-> *Nota electoral:* en [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
 
 ## Qué lugar tienen la expo y las artes visuales en el encuentro
 
@@ -95,16 +90,9 @@ En departamentos donde exista segunda vuelta el domingo 19, una capa visual pued
 
 ## Caso particular: Proyecto Cultural Barranco
 
-En [Proyecto Cultural Barranco](https://barranco.life), la referencia actual para este año es volver a abrir la [galería](https://www.instagram.com/galeria.barranco) como una de las puertas vivas del encuentro.
+En [Proyecto Cultural Barranco](https://barranco.life), el 4/20²⁶ incluyó la [galería](https://www.instagram.com/galeria.barranco) como una de las puertas vivas del encuentro. La exposición se inauguró el **sábado 18 de abril** y quedó abierta más allá del día central, con presencia duradera en el espacio.
 
-La idea es inaugurar la exposición el **sábado 18 de abril** y mantenerla abierta por **al menos un mes**, de modo que el encuentro no respire solo el día central, sino que deje también una presencia más duradera en el espacio.
-
-Eso puede ayudar a:
-
-- Darle al proyecto una dimensión más abierta a público general.
-- Invitar a personas que quizá entrarían primero por el arte y no por otras capas del encuentro.
-- Sostener conversación y visitas más allá del día central.
-- Mostrar a otros espacios una forma concreta en que una sede puede sumarse sin depender solo de música o feria.
+Ese aprendizaje sirve para futuras ediciones: una expo puede sostenerse más allá del día central, invitar a público general y mostrar que un espacio puede sumarse sin depender solo de música o feria.
 
 En el caso del Barranco, la lógica propuesta es que si una obra se vende, **la venta sea para el artista**, con un aporte sugerido al espacio a criterio suyo.
 

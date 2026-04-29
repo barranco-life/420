@@ -11,13 +11,8 @@
 
 > 🌿 También pueden ser una de las formas más claras de ayudar a que una celebración real se sostenga con mayor circulación, intercambio y vida de espacio.
 
-> ℹ️ La convocatoria específica para [emprendimientos](https://forms.gle/3rUdi5U3ALktPdE86) ya está abierta. Este documento deja claro el espíritu general, para que emprendimientos y espacios puedan imaginar mejor las colaboraciones posibles.
+> ℹ️ Este documento preserva el espíritu de la capa de emprendimientos y sirve como playbook para futuras ediciones. El formulario 2026 como referencia: [Emprendimientos](https://forms.gle/3rUdi5U3ALktPdE86).
 
-> *Día central 2026:* *lunes 20 de abril de 2026*.
->
-> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
->
-> *Nota electoral:* en [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
 
 ## Qué lugar tienen los emprendimientos en el encuentro
 
@@ -124,9 +119,9 @@ La idea es sumar, no poner en aprietos a una sede que ya se está abriendo con c
 
 En [Proyecto Cultural Barranco](https://barranco.life), una capa de emprendimientos puede ayudar a que la celebración no dependa únicamente de la música o de la afluencia espontánea del día.
 
-La idea es usar el **jardín de ingreso** como área de feria, con sombra o carpas, mesas y sillas para aproximadamente **8 a 14 emprendimientos**.
+En el 4/20²⁶, el **jardín de ingreso** funcionó como área de feria, con carpas, mesas y sillas para emprendimientos. Algunos emprendimientos trajeron su propio mobiliario.
 
-Si hubiera más propuestas, podrían sumarse también trayendo su propio mobiliario o resolviendo parte de su instalación por cuenta propia, algo que igualmente se puede conversar y coordinar con tiempo.
+Aprendizaje importante: los emprendimientos que ayudaron más allá de su stand — montando, desmontando, reuniendo basura, moviendo cosas y sosteniendo el espacio — fueron parte real del espíritu de co-creación. Ese apoyo mutuo más allá de la propia mesa es lo que hace funcionar el modelo. Para futuras ediciones, ese espíritu se preserva como parte del acuerdo tácito.
 
 Puede convivir con feria, barra, café, conversación, expo y vida de jardín, y ayudar a que el encuentro se sienta realmente habitable para quien llega. También puede dialogar con propuestas de [Artistas y Música](./ARTISTS.md), [Artistas Visuales / Expo](./EXHIBITION.md) y otras capas del encuentro.
 

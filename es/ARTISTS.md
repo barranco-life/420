@@ -10,13 +10,8 @@
 > 🌿 La música es una de las formas en que el encuentro puede brotar. No la única. Pero sí una de las más naturales para abrir espacio, comunidad y celebración.
 
 >
-> ℹ️ La convocatoria específica para [artistas y música](https://forms.gle/jfiZqSWUhqTDG45C8) ya está abierta. Este archivo deja claro el espíritu general, para que artistas y espacios puedan imaginar mejor las colaboraciones posibles.
+> ℹ️ Este archivo preserva el espíritu de la capa artística y sirve como playbook para futuras ediciones. El formulario 2026 como referencia: [Artistas y Música](https://forms.gle/jfiZqSWUhqTDG45C8).
 
-> *Día central 2026:* *lunes 20 de abril de 2026*.
->
-> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
->
-> *Nota electoral:* en [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
 
 ## Qué lugar tienen artistas y música en el encuentro
 
@@ -104,16 +99,11 @@ En departamentos donde exista segunda vuelta el domingo 19, una capa musical pue
 
 ## Caso particular: Proyecto Cultural Barranco
 
-En [Proyecto Cultural Barranco](https://barranco.life), la referencia actual para este año es abrir nuevamente **tres escenarios simultáneos**:
+En [Proyecto Cultural Barranco](https://barranco.life), el 4/20²⁶ funcionó con **tres escenarios simultáneos**: escenario de música en vivo (Barranco abajo), espacio de DJs (El Parrillero) y galería como *open deck*. Katarsis mezcló más de cuatro horas con el espíritu correcto.
 
-- **Barranco (abajo):** escenario para música en vivo, con sonidista, amplificación y equipos necesarios propios del espacio.
-- **El Parrillero:** espacio para DJs, con una tabla Pioneer DDJ SX2 y una computadora con Serato.
-- **La galería:** nuevamente pensada como *open deck*, con amplificación disponible, pero dependiente de que la propia comunidad y los voluntarios ayuden a organizar o facilitar una tabla de DJ u otros equipos mínimos a través del [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE).
+Aprendizaje importante de la experiencia 2026: la flexibilidad horaria importa. Un evento estilo Voluntariado Barranco no es una grilla rígida — es una experiencia co-creada. Los artistas que llegaron con esa comprensión encontraron el espacio más vivo. Futuros reencuentros DJ y conciertos en Barranco son posibles como espacio alternativo.
 
-Esto se menciona aquí por dos razones:
-
-- Para que artistas y músicos sepan qué cosas ya existen y qué cosas se podrían hacer realidad.
-- Para que otros espacios tengan una idea más concreta de cómo una sede puede armar una celebración real combinando lo propio del lugar con lo que la comunidad ayuda a activar.
+Esto se menciona para que otros espacios tengan una idea más concreta de cómo una sede puede armar una celebración real combinando lo propio del lugar con lo que la comunidad ayuda a activar.
 
 No se presenta como modelo obligatorio. Se presenta como un caso vivo de referencia.
 

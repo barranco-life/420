@@ -5,33 +5,20 @@
 
 Celebraciones culturales abiertas, cuidadas y replicables para desestigmatizar, visibilizar y madurar la conversación sobre la legalización del cannabis en Bolivia.
 
-> *Día central 2026:* *lunes 20 de abril de 2026*.
->
-> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
->
-> *Nota electoral:* en Oruro, Beni, Chuquisaca, Tarija y Santa Cruz la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. Por prudencia, en esos departamentos el foco debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
-
-> 🌿 La comunidad real de este proyecto vive primero en WhatsApp: [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE), grupos por departamento y grupos temáticos de apoyo. Este repositorio existe para documentar, clarificar y fortalecer lo que la comunidad va construyendo, no para reemplazarla.
->
-> 🌿 En esta fase ya están disponibles las principales convocatorias del encuentro junto con sus documentos de contexto: [Espacios anfitriones](./SPACES.md), [Pliego petitorio](./PETITION.md), [Artistas y Música](./ARTISTS.md), [Artistas Visuales / Expo](./EXHIBITION.md), [Colloquium](./COLLOQUIUM.md), [Emprendimientos](./VENTURES.md) y [Participación Virtual](./VIRTUAL.md).
+> 🌿 La comunidad de este proyecto vive primero en WhatsApp — y no para en abril. Este repositorio existe para documentar, clarificar y fortalecer lo que la comunidad va construyendo, no para reemplazarla.
 
 ## Novedades
-> 🌿 Ya están disponibles los formularios principales del encuentro y sus documentos de contexto.
+
+> 🌿 El 4/20²⁶ ya ocurrió. Tres días en Proyecto Cultural Barranco como caso de referencia del primer Encuentro Nacional. La fase que sigue tiene dos pilares: **fortalecer el Manual 4/20 🌿** y **organizar el próximo 4/20**.
 >
-> - [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8) · [Documento](./SPACES.md)
-> - [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6) · [Documento](./PETITION.md)
-> - [Artistas y Música](https://forms.gle/jfiZqSWUhqTDG45C8) · [Documento](./ARTISTS.md)
-> - [Artistas Visuales / Expo](https://forms.gle/FRbBrQBWWF9WhNSh6) · [Documento](./EXHIBITION.md)
-> - [Panelistas y conversación pública](https://forms.gle/Ufv8JDgU3FvjaAru9) · [Documento](./COLLOQUIUM.md)
-> - [Emprendimientos](https://forms.gle/3rUdi5U3ALktPdE86) · [Documento](./VENTURES.md)
+> Si estuviste en el 4/20²⁶ del Barranco, tu experiencia ayuda a mejorar futuros eventos:
+> [Formulario de feedback 4/20²⁶ 🌿](https://forms.gle/jZyGex6kvsUFYXz18)
 >
-> 🌿 Estado actual de espacios:
-> - Confirmados 🟢: [La Paz](https://chat.whatsapp.com/JCVnlJgnL78G7S3ejXSL52), [Cochabamba](https://chat.whatsapp.com/Be6udeZmtBV6lGgMSsXAWz)
-> - A Confirmarse 🟡: [Potosí](https://chat.whatsapp.com/HMNS1eCZ9bY36FcpFbT5Kp)
-> - Buscando Espacios ⚪️: [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa)
-> - Abiertos a Propuestas ⚪️: [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), Pando
+> Puentes post-evento:
+> - [Cómo (y por qué) organizar un 4/20 🌿](https://chat.whatsapp.com/DoFrA1mNgShCiOW2X84DSn) — replicación, conversación y siguientes pasos
+> - [Aportes al Manual 4/20 🌿](https://chat.whatsapp.com/Fn2BXILT6Rj9TYdWgM7uF6) — construcción del manual
 >
-> La capa [virtual](./VIRTUAL.md) también ya está activa, aunque no tenga formulario propio: artistas, espacios y panelistas pueden indicar en sus propios formularios si su participación será también virtual o remota.
+> La comunidad no espera hasta abril. Compartí información, eventos, materiales, reflexiones y señales de la movida durante todo el año.
 
 ## Qué es
 
@@ -39,142 +26,96 @@ Celebraciones culturales abiertas, cuidadas y replicables para desestigmatizar, 
 
 Nace en Bolivia, con **Proyecto Cultural Barranco** como caso de referencia documentado, pero está abierto a replicarse, traducirse y adaptarse en otros territorios, idiomas y marcos legales si existe interés real y suficiente cuidado para sostenerlo.
 
-No busca solo anunciar una fecha —ni depender de un solo lugar—. Busca reunir una forma más clara, hospitalaria y replicable de organizar celebraciones 4/20: con cultura, cuidado del espacio, prudencia legal, comunidad, aprendizaje y documentación abierta.
+No buscaba solo anunciar una fecha. Busca reunir una forma más clara, hospitalaria y replicable de organizar celebraciones 4/20: con cultura, cuidado del espacio, prudencia legal, comunidad, aprendizaje y documentación abierta.
 
 ## Idea madre
 
 El 4/20 muestra que sí es posible una comunidad espontánea, diversa, colaborativa y cuidadosa del espacio. **Voluntariado Barranco** busca cultivar durante todo el año esa misma posibilidad: una forma más libre, responsable y humana de convivir, organizarse y crear en común.
 
-Creemos que celebraciones culturales abiertas, cuidadas y cada vez más visibles pueden ayudar a desestigmatizar esta cultura ante la sociedad, sumar a escépticos y público general, e ir acercando el país a una conversación más madura sobre la legalización. Replicar eventos 4/20 en distintas ciudades no es un detalle logístico: es parte de la estrategia del movimiento. Cada espacio que se abre ayuda a visibilizar la comunidad, desestigmatizar el cannabis y convertir la legalización en una conversación cada vez más presente en la vida pública boliviana.
+El 4/20²⁶ en el Barranco lo confirmó: el cannabis no fue el centro social más profundo. El centro más hondo fue la manera alternativa de organizarnos — co-crear, adaptarnos, cuidar el espacio, colaborar, participar y estar juntos entre personas diversas.
 
-La apuesta es que, mientras la comunidad 4/20, sus celebraciones, sus expresiones culturales y el propio debate se vuelvan cada vez más visibles en la vida pública —desde eventos alineados con esta propuesta o incluso desde otros que no lo estén del todo— más difícil será seguir tratándolo como algo marginal o ajeno al interés general.
+Creemos que celebraciones culturales abiertas, cuidadas y cada vez más visibles pueden ayudar a desestigmatizar esta cultura, sumar a escépticos y público general, e ir acercando al país a una conversación más madura sobre la legalización. Replicar eventos 4/20 en distintas ciudades no es un detalle logístico: es parte de la estrategia del movimiento.
+
+## Proyecto Cultural Barranco como caso de referencia
+
+**Proyecto Cultural Barranco** es el caso de referencia documentado del que nacen los aprendizajes de este proyecto.
+
+El 4/20²⁶ se vivió allí como tres días de celebración co-creada: preparativos abiertos el sábado 18 y domingo 19, día central el lunes 20. No hubo incidentes. La lógica de "voluntarios por un día" funcionó en la práctica — sin la ayuda espontánea de quienes estuvieron, no habría sido posible sostener tres días. Música, expo, emprendimientos, coloquio, yoga y encuentro comunitario convivieron con naturalidad.
+
+Esa experiencia no se presenta como modelo único ni obligatorio, pero sí como un punto de partida real desde el cual otros espacios pueden imaginar su propia forma de participar.
+
+## Los dos pilares hacia 4/20²⁷
+
+### Fortalecer el Manual 4/20 🌿
+
+El [Manual 4/20 🌿](https://manual420.barranco.life) es el recurso vivo de contexto, prudencia y aprendizaje abierto. La meta es hacerlo más completo, más útil, más legible socialmente y eventualmente imprimirlo para que circule más allá de los canales digitales.
+
+La información es poder: reduce improvisación, vulnerabilidad ante extorsión y desinformación, y prepara a la gente para conversaciones públicas más maduras.
+
+Para aportar: [Aportes al Manual 4/20 🌿](https://chat.whatsapp.com/Fn2BXILT6Rj9TYdWgM7uF6)
+
+### Organizar o replicar un 4/20
+
+El otro pilar es la replicación. Un 4/20 puede empezar pequeño: una casa, un patio, un espacio cultural, un círculo privado. Cada espacio que se abre ayuda a visibilizar la comunidad y convertir la legalización en una conversación cada vez más presente en la vida pública boliviana.
+
+Para conversar sobre cómo y por qué organizar un 4/20: [Cómo (y por qué) organizar un 4/20 🌿](https://chat.whatsapp.com/DoFrA1mNgShCiOW2X84DSn)
 
 ## Qué lo hace distinto
 
 - **Ingreso y participación libre:** Sin convertir la celebración en un filtro económico de entrada.
 - **Espacios anfitriones:** El encuentro no depende de una sola sede ni de una única escala.
 - **Prudencia legal:** Claridad sobre la Ley 1008, límites explícitos y cuidado del espacio.
-- **Apertura real:** No está pensado solo para consumidores o personas ya convencidas, sino también para escépticos, curiosos y público general.
-- **Participación voluntaria:** Artistas, espacios, panelistas, apoyos y colaboradores se suman desde convicción, no desde obligación.
+- **Apertura real:** No pensado solo para consumidores o personas ya convencidas, sino también para escépticos, curiosos y público general.
+- **Participación voluntaria:** Artistas, espacios, panelistas y colaboradores se suman desde convicción, no desde obligación.
 - **Documentación viva:** El repositorio busca dejar aprendizajes, estructura y materiales útiles para adaptar, mejorar y replicar.
 
-## Proyecto Cultural Barranco como caso de referencia
+## Cómo participar después del 4/20²⁶
 
-**Proyecto Cultural Barranco** es el caso de referencia documentado del que nacen muchos de los aprendizajes de este proyecto.
+El proyecto sigue abierto. La replicación es parte de la estrategia.
 
-Las celebraciones 4/20 realizadas allí mostraron que sí es posible abrir un espacio cultural, libre y cuidado, donde conviven música, feria, conversación, arte, comunidad y una fuerte autorregulación social. Esa experiencia no se presenta como modelo único ni obligatorio, pero sí como un punto de partida real desde el cual otras sedes pueden imaginar su propia forma de participar según sus condiciones, su escala y su nivel de exposición. Quien quiera entender mejor cómo se traduce eso en capas concretas puede mirar [Espacios anfitriones](./SPACES.md), [Artistas y Música](./ARTISTS.md), [Artistas Visuales / Expo](./EXHIBITION.md), [Colloquium](./COLLOQUIUM.md), [Emprendimientos](./VENTURES.md) y [Participación Virtual](./VIRTUAL.md).
+Algunos caminos posibles ahora:
 
-## Cómo participar
+- Aportar al [Manual 4/20 🌿](https://manual420.barranco.life)
+- Conversación sobre cómo organizar un 4/20 en tu territorio
+- Sostener comunidad y difusión durante el año
+- Celebraciones íntimas o privadas
+- Espacios culturales, universidades, círculos de estudio
+- Contribuir al [pliego petitorio](./PETITION.md) como argumento público
+- Unirte a [Voluntariado Barranco](https://voluntariado.barranco.life/) si el espíritu del Barranco resonó
 
-El proyecto está abierto a muchas formas de participación, entre ellas:
-
-- **Espacios anfitriones**
-- **Puntos de apoyo o difusión** de riesgo mínimo
-- **Artistas, músicos, bandas y DJs**
-- **Artistas visuales / expo / galería**
-- **Panelistas y conversaciones públicas**
-- **Emprendimientos**
-- **Participación virtual, lives y transmisiones**
-- **Aportes al pliego petitorio**
-- **Otras categorías** que hagan sentido para el encuentro, aunque no hayan sido previstas de antemano
-
-No todos los espacios o participantes tienen que sumarse de la misma manera. Parte de la lógica del encuentro es justamente permitir distintos niveles de visibilidad, compromiso y riesgo.
-
-## Fechas y contexto electoral 2026
-
-- **Día central:** lunes 20 de abril de 2026.
-- **Actividades opcionales:** viernes 17 al domingo 19, según cada espacio y su contexto local.
-- **Proyecto Cultural Barranco** prevé actividad del 18 al 20 como caso de referencia.
-
-En [**La Paz**](https://chat.whatsapp.com/JCVnlJgnL78G7S3ejXSL52), [**Cochabamba**](https://chat.whatsapp.com/Be6udeZmtBV6lGgMSsXAWz) y [**Potosí**](https://chat.whatsapp.com/HMNS1eCZ9bY36FcpFbT5Kp) puede sostenerse con más naturalidad la lógica 17–20 según el espacio.
-
-En [**Oruro**](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [**Chuquisaca**](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [**Tarija**](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [**Santa Cruz**](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
-
-## Modalidades de participación
-
-### Espacio anfitrión público
-Sede visible que convoca, aloja actividades y se suma de forma abierta al encuentro.
-
-### Locación secreta
-Participa con una estrategia de comunicación más cuidada, revelando la locación al público recién la noche anterior o con muy poca anticipación cuando haga sentido.
-
-### Punto de apoyo o difusión
-No organiza necesariamente una celebración completa, pero ayuda a visibilizar el encuentro con una recomendación, un QR, una historia, una mención, una cartelera o una invitación.
-
-### Evento o celebración virtual
-Live, streaming, transmisión, set, cobertura o encuentro remoto que se suma a la red del 20 de abril sin requerir una sede física presencial.
-
-## Convocatorias activas ahora
-
-En esta fase el encuentro ya está abierto a múltiples formas principales de participación: espacios, pliego, artistas y música, artistas visuales / expo, panelistas, emprendimientos y capa virtual.
-
-Los formularios activos hoy son:
-
-- [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8)
-- [Pliego Petitorio](https://forms.gle/96XH81TFQrCX1R7U6)
-- [Artistas y Música](https://forms.gle/jfiZqSWUhqTDG45C8)
-- [Artistas Visuales / Expo](https://forms.gle/FRbBrQBWWF9WhNSh6)
-- [Panelistas y conversación pública](https://forms.gle/Ufv8JDgU3FvjaAru9)
-- [Emprendimientos](https://forms.gle/3rUdi5U3ALktPdE86)
-
-La capa [virtual](./VIRTUAL.md) también ya está activa: artistas, espacios y panelistas pueden indicar en sus propios formularios si su participación será también virtual o remota.
-
-También ya está activa la capa comunitaria en WhatsApp, con un **chat general**, **grupos por departamento** y **grupos temáticos de apoyo** para el Manual 4/20, orientación legal y orientación medicinal.
-
-## Participación justa, costos y transparencia
-
-El encuentro quiere tratar la participación de manera más justa y transparente que muchas convocatorias culturales.
-
-Si el evento genera ingresos —especialmente por barra u otra actividad pública— la intención es cubrir primero las necesidades operativas reales del evento, incluyendo transporte especial o logística excepcional para artistas u otros participantes clave cuando haga falta, antes de considerar cualquier excedente para la caja de **Voluntariado Barranco**.
-
-La idea no es que alguien tenga que salir perdiendo por participar en una celebración que sí moviliza personas, trabajo, equipo y consumo. La rendición de cuentas buscará ser clara, pública y comprensible.
-
-## Coloquio, conversación pública y manual
-
-Si hay coloquio en esta edición, no buscamos repetir una conversación cerrada entre personas ya convencidas sobre por qué “debería” legalizarse el cannabis.
-
-Nos interesa más abrir conversaciones útiles para el momento actual: cómo organizar celebraciones culturalmente defendibles, cómo convivir con libertad y límites claros, cómo desestigmatizar ante escépticos y público general, y qué aprendizajes pueden alimentar el [Manual 4/20 🌿](https://manual420.barranco.life).
+Ver también: [Cómo contribuir](./CONTRIBUTE.md) y [Participar](./PARTICIPATE.md)
 
 ## Documentos clave
 
-- [Espacios anfitriones](./SPACES.md) — modalidades de participación, tipos de sedes, plan de contingencia y protocolo de seguridad.
-- [Participar](./PARTICIPATE.md) — mapa de convocatorias activas y formas de sumarse.
-- [Pliego petitorio](./PETITION.md) — versión inicial abierta del pliego y forma de aportar.
-- [Artistas y Música](./ARTISTS.md) — convocatoria, enfoque artístico y caso particular del Barranco.
-- [Artistas Visuales / Expo](./EXHIBITION.md) — muestra, galería, expo y apertura a público general.
-- [Colloquium](./COLLOQUIUM.md) — conversación pública, panelistas y aprendizajes de organización.
-- [Emprendimientos](./VENTURES.md) — feria, circulación, hospitalidad y sostenibilidad del espacio.
-- [Participación Virtual](./VIRTUAL.md) — participación remota, transmisiones y asistencia a distancia.
-- [Historia y aprendizajes](./HISTORY.md) — memoria del proceso 2022–2025 y giro conceptual hacia 2026.
-- [Comunidad](./COMMUNITY.md) — capas de participación, visibilización y relación con Voluntariado Barranco.
-- [Cómo contribuir](./CONTRIBUTE.md) — mapa general de formas de apoyo, articulación y participación.
-- [Manual 4/20 🌿](https://manual420.barranco.life) — marco vivo de contexto, prudencia y aprendizaje abierto.
-- [Voluntariado Barranco](https://voluntariado.barranco.life/) — inspiración comunitaria y caso vivo más allá del 20 de abril.
+- [Cómo contribuir](./CONTRIBUTE.md) — mapa post-evento de contribución y participación.
+- [Participar](./PARTICIPATE.md) — caminos de participación.
+- [Espacios anfitriones](./SPACES.md) — guía de referencia para espacios futuros.
+- [Pliego petitorio](./PETITION.md) — argumento público y articulación cívica.
+- [Artistas y Música](./ARTISTS.md) — capa musical: referencia y playbook.
+- [Artistas Visuales / Expo](./EXHIBITION.md) — expo como puente hacia público general.
+- [Colloquium](./COLLOQUIUM.md) — conversación pública y puente hacia replicación.
+- [Emprendimientos](./VENTURES.md) — feria, circulación y hospitalidad.
+- [Participación Virtual](./VIRTUAL.md) — difusión y replicación virtual.
+- [Historia y aprendizajes](./HISTORY.md) — memoria del proceso 2022–2026.
+- [Comunidad](./COMMUNITY.md) — capas de participación y arquitectura WhatsApp.
+- [Manual 4/20 🌿](https://manual420.barranco.life) — marco vivo de contexto y aprendizaje.
+- [Voluntariado Barranco](https://voluntariado.barranco.life/) — inspiración comunitaria más allá del 20 de abril.
 
 ## Compartir también es participar
 
-Para gran parte del público, una de las mejores formas de ayudar en la estrategia pro-legalización es compartir todo lo referente al encuentro: links, posts, transmisiones, convocatorias y otras señales de que la conversación ya está viva.
-
-La idea es que el tema se vuelva cada vez más visible en la vida pública, no solo a través de quienes organizan o participan directamente, sino también a través de quienes ayudan a mover la red.
-
-La cobertura y transmisión del encuentro se irá organizando por [Instagram](http://instagram.com/barranco.life), [Twitch](http://twitch.tv/barranco_life), [Facebook](https://facebook.com/barranco.life) y/o [TikTok](https://www.tiktok.com/@barranco.life), según cómo se vayan confirmando las capas del día.
+Para gran parte del público, una de las mejores formas de ayudar en la estrategia pro-legalización es compartir todo lo referente al encuentro: links, posts, transmisiones, materiales y otras señales de que la conversación ya está viva — durante todo el año, no solo en abril.
 
 ## Enlaces clave
 
-- [Chat 4/20²⁶ 🌿 en WhatsApp](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE)
-- [La Paz 4/20²⁶ 🟢](https://chat.whatsapp.com/JCVnlJgnL78G7S3ejXSL52)
-- [Cochabamba 4/20²⁶ 🟢](https://chat.whatsapp.com/Be6udeZmtBV6lGgMSsXAWz)
-- [Potosí 4/20²⁶ 🟡](https://chat.whatsapp.com/HMNS1eCZ9bY36FcpFbT5Kp)
-- [Santa Cruz 4/20²⁶ ⚪️](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer)
-- [Tarija 4/20²⁶ ⚪️](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa)
-- [Chuquisaca 4/20²⁶ ⚪️](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj)
-- [Oruro 4/20²⁶ ⚪️](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b)
+- [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE) — chat general abierto
+- [Cómo (y por qué) organizar un 4/20 🌿](https://chat.whatsapp.com/DoFrA1mNgShCiOW2X84DSn)
 - [Aportes al Manual 4/20 🌿](https://chat.whatsapp.com/Fn2BXILT6Rj9TYdWgM7uF6)
 - [Orientación Medicinal 🌿](https://chat.whatsapp.com/IBKq1Bw3MjxKfaMYyjTGg8)
 - [Orientación Legal 🌿](https://chat.whatsapp.com/JQYgV6zeIbzC6T0ryAnJPs)
-- [Proyecto Cultural Barranco](https://barranco.life)
-- [Voluntariado Barranco](https://voluntariado.barranco.life/)
 - [Manual 4/20 🌿](https://manual420.barranco.life)
+- [Voluntariado Barranco](https://voluntariado.barranco.life/)
+- [Proyecto Cultural Barranco](https://barranco.life)
+- [Formulario de feedback 4/20²⁶](https://forms.gle/jZyGex6kvsUFYXz18)
 - [Instagram del Barranco](http://instagram.com/barranco.life)
 - [Twitch del Barranco](http://twitch.tv/barranco_life)
 - [Facebook del Barranco](https://facebook.com/barranco.life)
@@ -182,8 +123,6 @@ La cobertura y transmisión del encuentro se irá organizando por [Instagram](ht
 
 ## Estado
 
-Este repositorio está siendo reestructurado para la edición 2026.
+El 4/20²⁶ ocurrió. El repositorio está siendo reestructurado como hub post-evento: documentación del caso de referencia 2026, fortalecimiento del Manual 4/20 🌿 y guía abierta de replicación hacia 4/20²⁷.
 
-La intención es documentar no solo una fecha, sino una forma viva, abierta y replicable de organizar celebraciones culturales 4/20 con cuidado, libertad, límites claros, participación más justa y rendición transparente.
-
-En esta etapa, la prioridad ya no es solo abrir espacios anfitriones, sino articular mejor todas las capas principales del encuentro, volverlas más visibles para comunidad, aliados y público general, y dejar más clara la relación entre territorio, comunidad, documentación y estrategia pro-legalización.
+> *Este encuentro tiene un enfoque cultural, organizativo y preventivo. No promueve la vulneración de la Ley 1008 ni ofrece instrucciones para delinquir. La responsabilidad legal es individual.*

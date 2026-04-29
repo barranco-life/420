@@ -9,15 +9,12 @@
 
 > ⚠️ Este documento tiene un enfoque cultural, organizativo y preventivo. No promueve la vulneración de la ley ni ofrece instrucciones para delinquir. En Bolivia rige la **Ley 1008**, por lo que cada espacio y cada persona debe actuar con pleno conocimiento del marco legal vigente, sus propios límites y su responsabilidad individual.
 
-> *Día central 2026:* *lunes 20 de abril de 2026*.
->
-> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
->
-> *Nota electoral:* en [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
 
 > ℹ️ Contenido sugerido para carteles visibles sobre la Ley 1008: 
 > La comercialización o consumo de cannabis u otras sustancias controladas, en contravención a la Ley 1008, no es promovido ni permitido en este evento. La responsabilidad legal recae en cada persona por sus propios actos. El espacio se reserva el derecho de pedir el retiro de quien comprometa la seguridad o la continuidad de la actividad.
 
+
+> 🌿 El 4/20²⁶ ya ocurrió. Este documento es ahora una guía de referencia para espacios que quieran organizar un 4/20 futuro. Para conversación: [Cómo (y por qué) organizar un 4/20 🌿](https://chat.whatsapp.com/DoFrA1mNgShCiOW2X84DSn)
 
 ## Qué es un espacio anfitrión
 
@@ -173,7 +170,7 @@ Las celebraciones 4/20 realizadas allí mostraron que sí es posible abrir un es
 
 Quien quiera imaginar mejor cómo se traduce eso en capas concretas puede mirar también los casos particulares de [Artistas y Música](./ARTISTS.md#caso-particular-proyecto-cultural-barranco), [Artistas Visuales / Expo](./EXHIBITION.md#caso-particular-proyecto-cultural-barranco), [Colloquium](./COLLOQUIUM.md#caso-particular-proyecto-cultural-barranco), [Emprendimientos](./VENTURES.md#caso-particular-proyecto-cultural-barranco) y [Participación Virtual](./VIRTUAL.md#caso-particular-proyecto-cultural-barranco).
 
-Además, al caer lunes este año, en Proyecto Cultural Barranco se contempla como ejemplo la posibilidad de actividades previas el sábado 18 y domingo 19 de abril: proyecciones, expo, presentaciones u otras formas de previa cultural que ayuden a expandir el encuentro más allá de una sola jornada. Esto no significa que la misma lógica deba copiarse sin más en todos los departamentos: en lugares con segunda vuelta el domingo 19, el foco debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
+En Proyecto Cultural Barranco, el 4/20²⁶ incluyó actividades previas el sábado 18 y domingo 19 de abril: expo, preparativos abiertos y organización comunitaria que expandieron el encuentro más allá de una sola jornada. Ese aprendizaje es útil para futuras ediciones: un espacio puede expandir la experiencia más allá del día central si tiene capacidad y comunidad para sostenerlo.
 
 ## Plan de contingencia y protocolo de seguridad
 
@@ -281,7 +278,7 @@ La idea no es romantizar el voluntariado como si eso justificara precariedad. La
 
 En esta primera etapa, la convocatoria principal está enfocada en espacios anfitriones.
 
-**Formulario activo:** [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8)
+**Como referencia**, el formulario 2026 fue: [Espacios Anfitriones](https://forms.gle/9KaoCBb7iaB3PV6x8). Para la próxima edición, conversar en [Cómo (y por qué) organizar un 4/20 🌿](https://chat.whatsapp.com/DoFrA1mNgShCiOW2X84DSn)
 
 Si tienes dudas antes de llenar el formulario, también puedes moverte desde WhatsApp según tu territorio o interés:
 

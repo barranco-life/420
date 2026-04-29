@@ -15,11 +15,8 @@
 
 > 🌿 Para gran parte del público, una de las mejores formas de ayudar en la estrategia pro-legalización es compartir todo lo referente al encuentro: links, posts, transmisiones, convocatorias y otras señales de que la conversación ya está viva.
 
-> *Día central 2026:* *lunes 20 de abril de 2026*.
->
-> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
->
-> *Nota electoral:* en [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
+
+> 🌿 El 4/20²⁶ ya ocurrió. La capa virtual sigue siendo clave para la replicación y difusión durante el año. Compartir información, materiales y señales del movimiento es participar.
 
 ## Qué lugar tiene lo virtual en el encuentro
 
@@ -100,14 +97,9 @@ En departamentos donde exista segunda vuelta el domingo 19, una capa virtual pue
 
 ## Caso particular: Proyecto Cultural Barranco
 
-En [Proyecto Cultural Barranco](https://barranco.life), la idea es que la capa virtual pueda convivir orgánicamente con la celebración presencial.
+En [Proyecto Cultural Barranco](https://barranco.life), la capa virtual del 4/20²⁶ incluyó transmisiones en vivo desde las redes del Barranco ([Instagram](http://instagram.com/barranco.life), [Twitch](http://twitch.tv/barranco_life), [Facebook](https://facebook.com/barranco.life) y [TikTok](https://www.tiktok.com/@barranco.life)) y proyección en el espacio. Ese modelo sigue siendo replicable y de bajo riesgo para futuras ediciones.
 
-Eso puede incluir:
-- Pasar transmisiones en la televisión del espacio.
-- Transmitir parte del encuentro desde las redes del Barranco: [Instagram](http://instagram.com/barranco.life), [Twitch](http://twitch.tv/barranco_life), [Facebook](https://facebook.com/barranco.life) y/o [TikTok](https://www.tiktok.com/@barranco.life).
-- Y, si se organiza con tiempo, proyectar una transmisión y amplificar el sonido, por ejemplo en el espacio de *open deck* o en otro punto del encuentro que haga sentido.
-
-La planificación concreta de esas transmisiones, enlaces y ventanas de participación se irá coordinando por el [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE) y, cuando haga falta, por grupos más específicos según territorio o modalidad.
+Para futuras ediciones, la coordinación puede hacerse desde el [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE) y grupos más específicos según territorio o modalidad.
 
 En el caso de otros eventos o celebraciones virtuales que se sumen al encuentro, la idea general es ayudar a difundirlos y compartir sus links desde la red del proyecto cuando haga sentido.
 

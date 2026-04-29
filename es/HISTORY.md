@@ -9,11 +9,6 @@
 
 > 🌿 Mirar hacia atrás no sirve solo para recordar. Sirve para distinguir qué funcionó, qué tensiones aparecieron y qué capas del encuentro fueron encontrando su forma con los años.
 
-> *Día central 2026:* *lunes 20 de abril de 2026*.
->
-> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
->
-> *Nota electoral:* en Oruro, Beni, Chuquisaca, Tarija y Santa Cruz la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
 
 ## Qué busca registrar este archivo
 
@@ -135,6 +130,32 @@ El proyecto pasa de parecerse más a una campaña o a un gran evento anual, a en
 - **Pliego petitorio** como dimensión ciudadana abierta a contribuciones.
 
 También cambia el tono y la estrategia: menos búsqueda de choque, más hospitalidad; menos reacción, más ejemplo; menos obsesión por empujar una postura, más interés en mostrar una posibilidad social difícil de reducir a prejuicios. La apuesta es que, mientras la comunidad 4/20, sus celebraciones, sus expresiones culturales y el propio debate se vuelvan cada vez más visibles en la vida pública, más probable será que el tema se consolide como asunto de interés general. No se trata de insistir solo desde la confrontación, sino de volver esta realidad cada vez más legible, presente e imposible de ignorar en la experiencia social del país. Y para eso, replicar eventos 4/20 en distintas ciudades, con distintas escalas y capas, deja de ser un detalle operativo: se vuelve parte central de la estrategia.
+
+## 2026 · Tres días de celebración co-creada en el Barranco
+
+El 4/20²⁶ se vivió en **Proyecto Cultural Barranco** como caso de referencia del primer Encuentro Nacional 4/20²⁶ Pro-Legalización 🌿.
+
+Fue el primer 4/20 que se planificó explícitamente como infraestructura replicable: con documentación abierta, grupos por departamento, capas de participación definidas y un Manual 4/20 🌿 como recurso comunitario independiente del evento.
+
+Datos clave del caso Barranco 2026:
+
+- Tres días de actividades: preparativos abiertos el sábado 18 y domingo 19, día central el lunes 20.
+- Puertas públicas desde las 3pm, inicio visible público a las 4:20pm.
+- No hubo incidentes.
+- La co-creación funcionó en la práctica.
+- Música, expo, emprendimientos, coloquio, yoga y encuentro comunitario convivieron con naturalidad.
+
+La lógica de "voluntarios por un día" fue real y comprobable: sin la ayuda espontánea de quienes estuvieron, no habría sido posible sostener tres días. El cartel de ingreso, las carpas, subir y bajar cosas, mover mesas y sillas, los basureros, recibir gente, ordenar, guardar cosas, adaptarse a los tiempos y resolver problemas en vivo — todo eso ocurrió con colaboración orgánica.
+
+El aprendizaje más profundo del caso Barranco 2026:
+
+> El cannabis no fue el centro social más profundo. Todos queremos verlo legal, sí, pero el centro más hondo fue la manera alternativa de organizarnos: co-crear, adaptarnos, cuidar el espacio, colaborar, participar y estar juntos entre personas diversas.
+
+Ese aprendizaje guía el framing post-evento del repo y el puente hacia 4/20²⁷.
+
+Un formulario de feedback quedó abierto después del evento para recoger aprendizajes, sensaciones, críticas, ideas y propuestas. Los resultados alimentarán el Manual 4/20 🌿 y la preparación de la siguiente edición.
+
+El Barranco se confirma no solo como caso de referencia de una celebración cultural bien organizada, sino como una demostración práctica de que el modelo de co-creación, hospitalidad y libertad con reglas puede sostenerse en el tiempo.
 
 ## Relación con otros documentos
 

@@ -11,13 +11,10 @@
 >
 > 🌿 También puede ser una de las puertas más claras para matizar prejuicios y abrir el tema a personas que no llegarían primero por otras capas del encuentro.
 
-> ℹ️ La convocatoria específica para [panelistas y conversación pública](https://forms.gle/Ufv8JDgU3FvjaAru9) ya está abierta. Este documento deja claro el espíritu general, para que panelistas, participantes remotos y espacios puedan imaginar mejor las posibilidades de esta capa del encuentro.
+> ℹ️ Este documento preserva el espíritu del coloquio y sirve como guía de referencia para futuras ediciones. El coloquio 4/20²⁶ ya ocurrió. El grupo [Cómo (y por qué) organizar un 4/20 🌿](https://chat.whatsapp.com/DoFrA1mNgShCiOW2X84DSn) es ahora el puente principal para quien quiera organizar conversaciones similares.
 
-> *Día central 2026:* *lunes 20 de abril de 2026*.
->
-> *Actividades opcionales:* viernes 17 al domingo 19, según cada espacio.
->
-> *Nota electoral:* en [Oruro](https://chat.whatsapp.com/L96GjiiFHhiL8TT36wcG5b), Beni, [Chuquisaca](https://chat.whatsapp.com/Jjkf5BeKZ99C482SEh6Gaj), [Tarija](https://chat.whatsapp.com/DOEQk4gdyr10MIAmKNyQxa) y [Santa Cruz](https://chat.whatsapp.com/I9z6mOAEsfJ5wFHwNvvEer), la segunda vuelta del domingo 19 de abril condiciona fuertemente cualquier actividad pública ese fin de semana. El día de la votación no debe contarse como fecha útil para actividad pública, y por prudencia el foco allí debería ponerse especialmente en el lunes 20 o en formatos muy cuidados.
+> ℹ️ Como referencia, el formulario de panelistas 2026 fue [este](https://forms.gle/Ufv8JDgU3FvjaAru9).
+
 
 ## Qué lugar tiene el coloquio en el encuentro
 
@@ -115,9 +112,9 @@ Esa experiencia dejó claro algo importante: el coloquio pierde fuerza cuando se
 
 Por eso, una línea valiosa para este año es pensar el coloquio no solo como mesa de argumentos, sino también como espacio para compartir aprendizajes reales sobre organización, cuidado, comunidad y estrategias no confrontacionales de visibilización.
 
-En el caso del Barranco, si hay participantes suficientes, la idea es que el coloquio se realice de **2 a 4pm**.
+En el caso del Barranco, el coloquio 4/20²⁶ se realizó el domingo 19 de abril.
 
-También está pensado para abrirse a participación remota. La plataforma y el link se develarán en el [Chat 4/20²⁶ 🌿](https://chat.whatsapp.com/LGRvbEMEBZ8HruAqFBUoSE) y, cuando haga falta, por grupos más específicos según territorio o modalidad.
+También se abrió a participación remota.
 
 Además, si existen otros espacios y coloquios en paralelo, una posibilidad muy valiosa es que se realicen en el mismo rango horario y que el tema principal no sea solo argumentar a favor de la legalización, sino escuchar qué experiencias están teniendo con la organización y qué aprendizajes podrían enriquecer luego la documentación del encuentro y el [Manual 4/20 🌿](https://manual420.barranco.life).
 
